@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-screengrabber
+Version: 3.1
+Section: extra
+Priority: optional
+Architecture: all
+Maintainer: mFaraj RIP _ @lululla
+Description: take screenshot of enigma2 box screen for python 3
+Source: ./
+Homepage: tunisia-sat.com,dreamoem.com

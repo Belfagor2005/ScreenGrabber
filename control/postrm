@@ -1,0 +1,7 @@
+#!/bin/sh
+echo ""
+echo ""
+
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber
+
+exit 0
