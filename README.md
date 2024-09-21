@@ -1,7 +1,6 @@
 ScrennGrabber on enigma2
   
- [![Python package](https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml)
-
+![](https://komarev.com/ghpvc/?username=Belfagor2005)
 
 <img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/iconafm.png?raw=true">  
 <img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/screengrabber.png?raw=true"> 
