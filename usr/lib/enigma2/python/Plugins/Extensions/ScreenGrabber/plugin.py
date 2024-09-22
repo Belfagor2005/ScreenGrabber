@@ -797,9 +797,9 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 
 
 class GrabPreviewII(Screen):
-    if (getDesktop(0).size().width()) > 1030:
+    if (getDesktop(0).size().width()) > 1280:
         skin = """
-            <screen name="GrabPreviewII" flags="wfNoBorder" position="228,57" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
+            <screen name="GrabPreviewII" flags="wfNoBorder" position="center,center" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
                 <ePixmap position="87,75" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                 <ePixmap position="87,800" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                 <widget name="Picture" position="87,80" size="1280,720" zPosition="1" alphatest="on" scale="stretch"  />
@@ -812,7 +812,7 @@ class GrabPreviewII(Screen):
             </screen>"""
     else:
         skin = """
-            <screen name="GrabPreviewII"  flags="wfNoBorder" position="320,150" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
+            <screen name="GrabPreviewII"  flags="wfNoBorder" position="center,center" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
                 <ePixmap position="228,70" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                 <ePixmap position="230,590" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                 <widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="stretch"  />
@@ -827,7 +827,7 @@ class GrabPreviewII(Screen):
     if file_exists('/var/lib/dpkg/status'):
         if (getDesktop(0).size().width()) > 1030:
             skin = """
-                <screen name="GrabPreviewII" flags="wfNoBorder" position="228,57" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
+                <screen name="GrabPreviewII" flags="wfNoBorder" position="center,center" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
                     <ePixmap position="87,75" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                     <ePixmap position="87,800" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                     <widget name="Picture" position="87,80" size="1280,720" zPosition="1" alphatest="on" scale="stretch" />
@@ -840,7 +840,7 @@ class GrabPreviewII(Screen):
                 </screen>"""
         else:
             skin = """
-                <screen name="GrabPreviewII"  flags="wfNoBorder" position="320,150" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
+                <screen name="GrabPreviewII"  flags="wfNoBorder" position="center,center" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
                     <ePixmap position="228,70" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                     <ePixmap position="230,590" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
                     <widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="stretch"  />
