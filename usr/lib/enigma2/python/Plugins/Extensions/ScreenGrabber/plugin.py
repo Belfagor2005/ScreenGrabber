@@ -97,7 +97,7 @@ def getMountedDevs():
     return mountedDevs
 
 
-currversion = '3.1'
+currversion = '3.2'
 
 
 '''
@@ -128,17 +128,17 @@ cfg.lastDir = ConfigText(default=resolveFilename(SCOPE_MEDIA))
 cfg.infoline = ConfigEnableDisable(default=True)
 cfg.loop = ConfigEnableDisable(default=True)
 cfg.bgcolor = ConfigSelection(default='#00000000', choices=[('#ff000000', _('trasparent')),
-                                                                    ('#00000000', _('black')),
-                                                                    ('#009eb9ff', _('blue')),
-                                                                    ('#00ff5a51', _('red')),
-                                                                    ('#00ffe875', _('yellow')),
-                                                                    ('#0038FF48', _('green'))])
+                                                            ('#00000000', _('black')),
+                                                            ('#009eb9ff', _('blue')),
+                                                            ('#00ff5a51', _('red')),
+                                                            ('#00ffe875', _('yellow')),
+                                                            ('#0038FF48', _('green'))])
 cfg.textcolor = ConfigSelection(default='#00ffe875', choices=[('#ff000000', _('trasparent')),
-                                                                      ('#00000000', _('black')),
-                                                                      ('#009eb9ff', _('blue')),
-                                                                      ('#00ff5a51', _('red')),
-                                                                      ('#00ffe875', _('yellow')),
-                                                                      ('#0038FF48', _('green'))])
+                                                              ('#00000000', _('black')),
+                                                              ('#009eb9ff', _('blue')),
+                                                              ('#00ff5a51', _('red')),
+                                                              ('#00ffe875', _('yellow')),
+                                                              ('#0038FF48', _('green'))])
 
 
 if file_exists('/var/lib/dpkg/status'):
@@ -148,48 +148,48 @@ if file_exists('/var/lib/dpkg/status'):
     cfg.storedir = ConfigSelection(choices=getMountedDevs())
     cfg.formatp = ConfigSelection(default='Disabled', choices=[('Disabled', _('Off'))])
     cfg.items = ConfigSelection(default='-m combined', choices=[('-m combined', _('Grab All')),
-                                                                                    ('-m osd', _('OSD only')),
-                                                                                    ('-m video', _('VIDEO only')),
-                                                                                    ('Disabled', _('Off'))])
+                                                                ('-m osd', _('OSD only')),
+                                                                ('-m video', _('VIDEO only')),
+                                                                ('Disabled', _('Off'))])
 
     cfg.newsize = ConfigSelection(default='Disabled', choices=[('Disabled', _('Skin resolution'))])
     cfg.scut = ConfigSelection(default='green', choices=[('text', _('Text')),
-                                                                             ('help', _('Help')),
-                                                                             ('info', _('Info')),
-                                                                             ('green', _('Long green')),
-                                                                             ('red', _('Long red')),
-                                                                             ('video', _('Video')),
-                                                                             ('mute', _('Mute')),
-                                                                             ('radio', _('Radio'))])
+                                                         ('help', _('Help')),
+                                                         ('info', _('Info')),
+                                                         ('green', _('Long green')),
+                                                         ('red', _('Long red')),
+                                                         ('video', _('Video')),
+                                                         ('mute', _('Mute')),
+                                                         ('radio', _('Radio'))])
 else:
     cfg.fixedaspectratio = ConfigSelection(default='Disabled', choices=[('-n', _('Enabled')), ('Disabled', _('Off'))])
     cfg.always43 = ConfigSelection(default='Disabled', choices=[('-l', _('Enabled')), ('Disabled', _('Off'))])
     cfg.bicubic = ConfigSelection(default='Disabled', choices=[('-b', _('Enabled')), ('Disabled', _('Off'))])
     cfg.storedir = ConfigSelection(choices=getMountedDevs())
     cfg.formatp = ConfigSelection(default='-p', choices=[('-j 100', _('jpg100')),
-                                                                             ('-j 80', _('jpg80')),
-                                                                             ('-j 60', _('jpg60')),
-                                                                             ('-j 40', _('jpg40')),
-                                                                             ('-j 20', _('jpg20')),
-                                                                             ('-j 10', _('jpg20')),
-                                                                             ('bmp', _('BMP')),
-                                                                             ('-p', _('PNG'))])
+                                                         ('-j 80', _('jpg80')),
+                                                         ('-j 60', _('jpg60')),
+                                                         ('-j 40', _('jpg40')),
+                                                         ('-j 20', _('jpg20')),
+                                                         ('-j 10', _('jpg20')),
+                                                         ('bmp', _('BMP')),
+                                                         ('-p', _('PNG'))])
     cfg.items = ConfigSelection(default='Disabled', choices=[('All', _('Grab All')),
-                                                                                 ('-v', _('Video only')),
-                                                                                 ('-o', _('OSD only')),
-                                                                                 ('Disabled', _('Off'))])
+                                                             ('-v', _('Video only')),
+                                                             ('-o', _('OSD only')),
+                                                             ('Disabled', _('Off'))])
     cfg.newsize = ConfigSelection(default='Disabled', choices=[('-r1920', _('1920*1080')),
-                                                                                   ('-r800', _('800*450')),
-                                                                                   ('-r600', _('600*337')),
-                                                                                   ('Disabled', _('Skin resolution'))])
+                                                               ('-r800', _('800*450')),
+                                                               ('-r600', _('600*337')),
+                                                               ('Disabled', _('Skin resolution'))])
     cfg.scut = ConfigSelection(default='green', choices=[('text', _('Text')),
-                                                                             ('help', _('Help')),
-                                                                             ('info', _('Info')),
-                                                                             ('green', _('Long green')),
-                                                                             ('red', _('Long red')),
-                                                                             ('video', _('Video')),
-                                                                             ('mute', _('Mute')),
-                                                                             ('radio', _('Radio'))])
+                                                         ('help', _('Help')),
+                                                         ('info', _('Info')),
+                                                         ('green', _('Long green')),
+                                                         ('red', _('Long red')),
+                                                         ('video', _('Video')),
+                                                         ('mute', _('Mute')),
+                                                         ('radio', _('Radio'))])
 
 srootfolder = cfg.storedir.value
 if path.exists(srootfolder + "/screenshots/"):
@@ -630,6 +630,7 @@ class sgrabberScreenGrabberView(Screen):
 
     def SavePic(self):
         self.dexit()
+        #file saved before ;)
         '''
         try:
             print('srootfolder=', srootfolder)
@@ -1056,8 +1057,8 @@ class ConsoleItem:
 
     def finishedCB(self, retval):
         print("[Console] Command '%s' finished." % self.name)
-        if file_exists('/var/lib/dpkg/status'):
-            data = self.appResults
+        # if file_exists('/var/lib/dpkg/status'):
+        data = self.appResults
         try:
             del self.containers[self.name]
             # del self.containers[:]
@@ -1073,18 +1074,36 @@ class ConsoleItem:
             del self.container.appClosed[:]
         except Exception as e:
             print('error del self.container.appClosed[:]:', e)
+
+        print("Tipo di dati:", type(self.appResults))
+        print("Contenuto di appResults:", self.appResults[:10])  # Esamina i primi 10 elementi
+
         callback = self.callback
-        if callback:
-            data = b"".join(self.appResults)
-            data = data if self.binary else data.decode()
-            # print("[Debug] Data length after join:", len(data))
-            # print("[Debug] Successfully wrote:", len(data), self.filenamesaved)
+        if callback is not None:
+            try:
+                data = b''.join(self.appResults)
+            except Exception as e:
+                print("[Error] Failed to join appResults:", e)
+                # return
+            print("[Debug] Data length after join:", len(data))
+
+            if file_exists('/var/lib/dpkg/status'):
+                data = b"".join(self.appResults)
+                data = data if self.binary else data.decode()
+                # print("[Debug] Data length after join:", len(data))
+                # print("[Debug] Successfully wrote:", len(data), self.filenamesaved)
+
+            else:
+                try:
+                    with open(self.filenamesaved, "wb") as f:
+                        f.write(data)
+                        print("[Debug] Successfully wrote:", self.filenamesaved)
+                except Exception as e:
+                    print("[Error] Failed to write binary data to file:", e)
+
             global xfilename
             xfilename = self.filenamesaved
             callback(data, retval, self.extraArgs)
-            # # callback(data, retval, self.filenamesaved)
-        # # return
-        # return callback(data, retval, xfilename)
 
 
 class Console:
