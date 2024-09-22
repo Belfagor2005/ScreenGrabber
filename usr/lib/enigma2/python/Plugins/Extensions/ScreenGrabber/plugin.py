@@ -1076,7 +1076,7 @@ class ConsoleItem:
             print('error del self.container.appClosed[:]:', e)
 
         print("Tipo di dati:", type(self.appResults))
-        print("Contenuto di appResults:", self.appResults[:10])  # Esamina i primi 10 elementi
+        # print("Contenuto di appResults:", self.appResults[:10])  # Esamina i primi 10 elementi
 
         callback = self.callback
         if callback is not None:
@@ -1085,13 +1085,11 @@ class ConsoleItem:
             except Exception as e:
                 print("[Error] Failed to join appResults:", e)
                 # return
-            print("[Debug] Data length after join:", len(data))
 
             if file_exists('/var/lib/dpkg/status'):
-                data = b"".join(self.appResults)
                 data = data if self.binary else data.decode()
                 # print("[Debug] Data length after join:", len(data))
-                # print("[Debug] Successfully wrote:", len(data), self.filenamesaved)
+                print("[Debug] Data length after join:", len(data))
 
             else:
                 try:
@@ -1100,7 +1098,7 @@ class ConsoleItem:
                         print("[Debug] Successfully wrote:", self.filenamesaved)
                 except Exception as e:
                     print("[Error] Failed to write binary data to file:", e)
-
+            print("[Debug] Successfully wrote:", len(data), self.filenamesaved)
             global xfilename
             xfilename = self.filenamesaved
             callback(data, retval, self.extraArgs)
