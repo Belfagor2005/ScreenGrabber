@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ScreenGrabber\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 22:18+0200\n"
+"PO-Revision-Date: 2024-09-16 22:18+0200\n"
+"Last-Translator: smokey\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: plugin.py\n"
+
+#: plugin.py:78
+msgid "Harddisk"
+msgstr ""
+
+#: plugin.py:79
+msgid "USB Device"
+msgstr ""
+
+#: plugin.py:84
+msgid "Network mount"
+msgstr ""
+
+#: plugin.py:85
+msgid "Tmp Folder"
+msgstr ""
+
+#: plugin.py:92 plugin.py:93 plugin.py:94
+msgid "Enabled"
+msgstr ""
+
+#: plugin.py:92 plugin.py:93 plugin.py:94 plugin.py:107
+msgid "Off"
+msgstr ""
+
+#: plugin.py:96
+msgid "jpg100"
+msgstr ""
+
+#: plugin.py:97
+msgid "jpg80"
+msgstr ""
+
+#: plugin.py:98
+msgid "jpg60"
+msgstr ""
+
+#: plugin.py:99
+msgid "jpg40"
+msgstr ""
+
+#: plugin.py:100 plugin.py:101
+msgid "jpg20"
+msgstr ""
+
+#: plugin.py:102
+msgid "BMP"
+msgstr ""
+
+#: plugin.py:103
+#, fuzzy
+#| msgid "EPG"
+msgid "PNG"
+msgstr "EPG"
+
+#: plugin.py:104
+msgid "Grab All"
+msgstr ""
+
+#: plugin.py:105
+msgid "Video only"
+msgstr ""
+
+#: plugin.py:106
+msgid "OSD only"
+msgstr ""
+
+#: plugin.py:108
+msgid "1920*1080"
+msgstr ""
+
+#: plugin.py:109
+msgid "800*450"
+msgstr ""
+
+#: plugin.py:110
+msgid "600*337"
+msgstr ""
+
+#: plugin.py:111
+msgid "Skin resolution"
+msgstr "Skin resolutie"
+
+#: plugin.py:112
+msgid "Text"
+msgstr "Text"
+
+#: plugin.py:113
+msgid "Help"
+msgstr "Help"
+
+#: plugin.py:114
+msgid "Info"
+msgstr ""
+
+#: plugin.py:115
+msgid "Long green"
+msgstr ""
+
+#: plugin.py:116
+msgid "Long red"
+msgstr ""
+
+#: plugin.py:117
+msgid "Video"
+msgstr ""
+
+#: plugin.py:118
+msgid "Mute"
+msgstr "Mute"
+
+#: plugin.py:119
+msgid "Radio"
+msgstr "Radio"
+
+#: plugin.py:192
+msgid "Preview"
+msgstr ""
+
+#: plugin.py:193
+msgid "Delete"
+msgstr ""
+
+#: plugin.py:243 plugin.py:691
+#, fuzzy
+#| msgid "Grabbing Screenshot failed !!!"
+msgid ""
+"No picture files.\n"
+"Grabbing Screenshot first"
+msgstr "Screenshot is mislukt !!!"
+
+#: plugin.py:410 plugin.py:481 plugin.py:861
+msgid ""
+"Sorry, your device for screenshots is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Sorry, de opslag lokatie voor screenshots is niet beschrijfbaar.\n"
+"\n"
+"Kies een andere opslag lokatie."
+
+#: plugin.py:458
+#, python-format
+msgid ""
+"Screenshot successfully saved as:\n"
+"%s"
+msgstr ""
+"Screenshot  met success opgeslagen als:\n"
+"%s"
+
+#: plugin.py:461
+msgid "Grabbing Screenshot failed !!!"
+msgstr "Screenshot is mislukt !!!"
+
+#: plugin.py:489
+#, fuzzy
+#| msgid "Screenshot of :"
+msgid "Screenshot saved to "
+msgstr "Screenshot van :"
+
+#: plugin.py:491
+msgid "Location not available!"
+msgstr ""
+
+#: plugin.py:493
+msgid "Failed saving file!"
+msgstr ""
+
+#: plugin.py:538
+msgid "Cancel"
+msgstr ""
+
+#: plugin.py:539
+msgid "Save"
+msgstr "Opslaan"
+
+#: plugin.py:540
+msgid "Files"
+msgstr ""
+
+#: plugin.py:541
+msgid "Files II"
+msgstr ""
+
+#: plugin.py:550
+#, fuzzy
+#| msgid "Screenshot of :"
+msgid "ScreenShot:"
+msgstr "Screenshot van :"
+
+#: plugin.py:551
+msgid "Storing Folder:"
+msgstr ""
+
+#: plugin.py:552
+#, fuzzy
+#| msgid "Format for screenshots :"
+msgid "Remote screenshot button:"
+msgstr "Screenshot formaat :"
+
+#: plugin.py:553
+#, fuzzy
+#| msgid "Picture size (width) :"
+msgid "Picture size:"
+msgstr "Foto grootte (breedte) :"
+
+#: plugin.py:554
+msgid "screenshot format/quality:"
+msgstr ""
+
+#: plugin.py:555
+msgid "Fixed Aspect ratio:"
+msgstr ""
+
+#: plugin.py:556
+msgid "Fixed Aspect ratio 4:3:"
+msgstr ""
+
+#: plugin.py:557
+msgid "Bicubic picture resize:"
+msgstr ""
+
+#: plugin.py:573 plugin.py:594
+msgid "Storing directory is not available"
+msgstr ""
+
+#: plugin.py:590
+msgid "Restart enigma2 to load new settings?"
+msgstr ""
+
+#: plugin.py:643 plugin.py:712 plugin.py:735
+msgid "loading... "
+msgstr ""
+
+#: plugin.py:683 plugin.py:716 plugin.py:739
+msgid "wait..."
+msgstr ""
+
+#: plugin.py:695
+msgid "ready..."
+msgstr ""
+
+#: plugin.py:718 plugin.py:741
+msgid "No more picture-files."
+msgstr ""
+
+#~ msgid "Allways save :"
+#~ msgstr "Altijd opslaan :"
+
+#~ msgid "Default"
+#~ msgstr "Default"
+
+#~ msgid "Enable ShootYourScreen :"
+#~ msgstr "Activeer ShootYourScreen :"
+
+#~ msgid "Exit"
+#~ msgstr "Exit"
+
+#~ msgid "Path for screenshots :"
+#~ msgstr "Opslag plaats voor screenshots :"
+
+#~ msgid "Quality of jpg picture :"
+#~ msgstr "Kwaliteit van de jpg foto :"
+
+#~ msgid "Really close without saving settings?"
+#~ msgstr "Afsluiten zonder opslaan ?"
+
+#~ msgid "Reset ShootYourScreen settings to defaults?"
+#~ msgstr "Reset ShootYourScreen settings naar standaard waardes ?"
+
+#~ msgid "Save with RECORD-Button"
+#~ msgstr "Opslaan met de Opname (REC) Toets"
+
+#~ msgid "Select a button to take a screenshot :"
+#~ msgstr "Kies een toets om een screenshot te maken :"
+
+#~ msgid "ShootYourScreen for Enigma2 STB - %s"
+#~ msgstr "ShootYourScreen voor Enigma2 STB - %s"
+
+#~ msgid "Show on screen :"
+#~ msgstr "Toon op het scherm :"
+
+#~ msgid "Use the ' "
+#~ msgstr "Gebruik toets ' "
+
+#~ msgid " ' button instead of ' "
+#~ msgstr " ' in plaats van ' "
+
+#~ msgid " long ' :"
+#~ msgstr " lang ' :"
+
+#~ msgid "Only button ' "
+#~ msgstr "Alleen toets ' "
+
+#~ msgid " long ' can be used."
+#~ msgstr " lang ' kan gebruikt worden."
+
+#~ msgid "Timeout for info message :"
+#~ msgstr "Timeout voor info bericht :"
+
+#~ msgid "make Screenshots with your Enigma2 STB"
+#~ msgstr "maak Screenshots met uw Enigma2 Ontvanger"
+
+#~ msgid "no message"
+#~ msgstr "geen bericht"
+
+#~ msgid "no timeout"
+#~ msgstr "geen Timeout"
+
+#~ msgid "Red"
+#~ msgstr "Rood"
+
+#~ msgid "Green"
+#~ msgstr "Groen"
+
+#~ msgid "Yellow"
+#~ msgstr "Geel"
+
+#~ msgid "Blue"
+#~ msgstr "Blauw"
+
+#~ msgid "TV"
+#~ msgstr "TV"
+
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid "Timer"
+#~ msgstr "Timer"
+
+#~ msgid "Version:"
+#~ msgstr "Versie:"
