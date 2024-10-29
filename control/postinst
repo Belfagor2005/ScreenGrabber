@@ -1,11 +1,9 @@
 #!/bin/sh
-echo "*                               *"
-echo "* Plugins installed successfully *"
-echo "*                               *"
-echo "* E2 restart is required        *"
-echo "*                               *"
-echo "* By Mahmoud Faraj(mFaraj57) *"
-echo "* For support visit Tunisia-sat.cm,dreamoem.com *"
-echo "* Recoded from lululla 20240915 *"
-echo "* *"
-exit
+echo ""
+echo "********************************************"
+echo "*           SimpleZOOMPanel                *"
+echo "*  select skin to enjoy new Wolrd			 *"
+echo "********************************************"
+echo ""
+sleep 2
+exit 0

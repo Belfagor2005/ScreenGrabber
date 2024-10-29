@@ -1,27 +1,18 @@
-ScrennGrabber on enigma2
-  
+Symple Zoom Panel on enigma2
+
+! Simple ZOOM Panel made by E2W!zard 
+is based on CCcam free server downloader (ZOOM) done by BextrH. 
+
+Thank you for your permission and love for our community!
+
+
 ![](https://komarev.com/ghpvc/?username=Belfagor2005)
 
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/iconafm.png?raw=true">  
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/screengrabber.png?raw=true"> 
 
 Adapted for Enigma2 Py3 and DreamOs by Lululla
 from Version 
 
 
+here offical Topic and Version
 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/1.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/2.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/3.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/4.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/5.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/6.png?raw=true"> 
-
-<img src="https://github.com/Belfagor2005/ScreenGrabber/blob/main/screen/7.png?raw=true"> 
-
+https://www.linuxsat-support.com/thread/157589-simple-zoom-panel/?pageNo=1
