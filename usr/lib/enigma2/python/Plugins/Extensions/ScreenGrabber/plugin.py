@@ -6,7 +6,7 @@
 # fixed lululla for dreamos 20240918
 from __future__ import print_function
 
-from . import _, OnclearMem
+from . import _
 
 try:
 	from Components.AVSwitch import AVSwitch
@@ -62,6 +62,16 @@ global xfilename
 global screenshot_folder
 size_w = getDesktop(0).size().width()
 size_h = getDesktop(0).size().height()
+
+
+def OnclearMem():
+	try:
+		os.system('sync')
+		os.system('echo 1 > /proc/sys/vm/drop_caches')
+		os.system('echo 2 > /proc/sys/vm/drop_caches')
+		os.system('echo 3 > /proc/sys/vm/drop_caches')
+	except:
+		pass
 
 
 def makedir(path):
