@@ -7,7 +7,7 @@
 
 from __future__ import print_function
 
-from . import _, OnclearMem
+from . import _
 
 
 try:
@@ -59,9 +59,6 @@ class sgrabberPic_Thumb(Screen):
 		size_h = getDesktop(0).size().height()
 		self.thumbsX = size_w // (self.spaceX + self.picX)
 		self.thumbsY = size_h // (self.spaceY + self.picY)
-		# self.thumbsC = self.thumbsX * self.thumbsY
-		# self.thumbsC = int(float(self.thumbsX * self.thumbsY))
-		# if file_exists('/var/lib/dpkg/status'):
 		self.thumbsC = int(round(self.thumbsX * self.thumbsY))
 		self.positionlist = []
 		skincontent = ''
@@ -73,15 +70,13 @@ class sgrabberPic_Thumb(Screen):
 				posX = 0
 			absX = self.spaceX + int(posX) * (self.spaceX + self.picX)
 			absY = self.spaceY + int(round(posY)) * (self.spaceY + self.picY)
-			# absX = self.spaceX + int(round(posX)) * (self.spaceX + self.picX)
-			# absY = self.spaceY + int(round(posY)) * (self.spaceY + self.picY)
 			self.positionlist.append((int(round(absX)), int(round(absY))))
 			skincontent += '<widget source="label' + str(x) + '" render="Label" position="' + str(absX) + ',' + str(absY + self.picY - textsize) + '" size="' + str(self.picX) + ',' + str(textsize) + '" font="Regular;18" zPosition="2" transparent="1" noWrap="1" foregroundColor="' + self.textcolor + '" />\n'
 			skincontent += '<widget name="thumb' + str(x) + '" position="' + str(absX + 5) + ',' + str(absY + 5) + '" size="' + str(self.picX - 10) + ',' + str(self.picY - textsize * 2) + '" zPosition="2" transparent="1" alphatest="on" />\n'
 
 		skinthumb = '<screen name="sgrabberPic_Thumb" position="center,center" size="' + str(size_w) + ',' + str(size_h) + '" flags="wfNoBorder" >\n'
 		skinthumb += '<eLabel position="0,0" zPosition="1" size="' + str(size_w) + ',' + str(size_h) + '" backgroundColor="' + self.color + '" />\n'
-		skinthumb += '<widget name="frame" position="35,30" size="' + str(self.picX + 5) + ',' + str(self.picY + 5) + '" scale="stretch" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/pic_frame.png" alphatest="on" zPosition="3"/>\n'
+		skinthumb += '<widget name="frame" position="35,30" size="' + str(self.picX + 5) + ',' + str(self.picY + 10) + '" scale="1" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/pic_frame.png" alphatest="on" zPosition="3"/>\n'
 		skinthumb += skincontent + '\n'
 		skinthumb += '</screen>\n'
 		self.skin = skinthumb
@@ -90,15 +85,24 @@ class sgrabberPic_Thumb(Screen):
 
 		# print('self.skin=\n', self.skin)
 		Screen.__init__(self, session)
-		self['actions'] = ActionMap(['OkCancelActions',
-									 'ColorActions',
-									 'DirectionActions',
-									 'MovieSelectionActions'], {'cancel': self.Exit,
-																'ok': self.KeyOk,
-																'left': self.key_left,
-																'right': self.key_right,
-																'up': self.key_up,
-																'down': self.key_down}, -1)
+		self['actions'] = ActionMap(
+			[
+				'OkCancelActions',
+				'ColorActions',
+				'DirectionActions',
+				'MovieSelectionActions'
+			],
+			{
+				'cancel': self.Exit,
+				'ok': self.KeyOk,
+				'left': self.key_left,
+				'right': self.key_right,
+				'up': self.key_up,
+				'down': self.key_down
+			},
+			-1
+		)
+
 		self['frame'] = MovingPixmap()
 		for x in range(self.thumbsC):
 			self['label' + str(x)] = StaticText()
@@ -114,11 +118,13 @@ class sgrabberPic_Thumb(Screen):
 		Page = 0
 		for x in piclist:
 			if x:
-				self.filelist.append((index,
-									  framePos,
-									  Page,
-									  x,
-									  path + x))
+				self.filelist.append((
+					index,
+					framePos,
+					Page,
+					x,
+					path + x
+				))
 				index += 1
 				framePos += 1
 				if framePos > self.thumbsC - 1:
@@ -131,7 +137,6 @@ class sgrabberPic_Thumb(Screen):
 		self.index = int(lastindex) - self.dirlistcount
 		if self.index < 0:
 			self.index = 0
-		# self.index = 0
 		print('init self.index=', self.index)
 		self.picload = ePicLoad()
 		if self.picload.PictureData is not None:
@@ -153,16 +158,19 @@ class sgrabberPic_Thumb(Screen):
 		scale_x = sc[0] if isinstance(sc[0], (int, float)) else 1
 		scale_y = sc[1] if isinstance(sc[1], (int, float)) else 1
 		try:
-			self.picload.setPara([self['thumb0'].instance.size().width(),
-								  self['thumb0'].instance.size().height(),
-								  scale_x,
-								  scale_y,
-								  cfg.cache.value,
-								  int(cfg.resize.value),
-								  self.color])
+			self.picload.setPara([
+				self['thumb0'].instance.size().width(),
+				self['thumb0'].instance.size().height(),
+				scale_x,
+				scale_y,
+				cfg.cache.value,
+				int(cfg.resize.value),
+				self.color
+			])
 		except Exception as e:
 			print("Errore durante setPara sgrabberPic_Thumb:", e)
 			return
+
 		self.paintFrame()
 
 	def paintFrame(self):
@@ -189,15 +197,11 @@ class sgrabberPic_Thumb(Screen):
 		self.showPic()
 
 	def showPic(self, picInfo=''):
-		OnclearMem()
 		for x in range(len(self.Thumbnaillist)):
 			img_path = self.Thumbnaillist[x][2]
-			# self.folderimage = img_path
-			# print('self folderimage=', self.folderimage)
 			if not file_exists(img_path):
 				print("Errore: Il file non esiste.", img_path)
 				return
-				# print('111 self.Thumbnaillist[x][0] =', self.Thumbnaillist[x][0])
 			if self.Thumbnaillist[x][0] == 0:
 				result = self.picload.getThumbnail(img_path)
 				if result == 1:
@@ -211,7 +215,6 @@ class sgrabberPic_Thumb(Screen):
 				break
 			elif self.Thumbnaillist[x][0] == 1:
 				self.Thumbnaillist[x][0] = 2
-				# print('self.Thumbnaillist[x][0] =', self.Thumbnaillist[x][0])
 				ptr = self.picload.getData()
 				if ptr is None:
 					print("Errore: self.PicLoad.getData() ha restituito None")
@@ -221,9 +224,6 @@ class sgrabberPic_Thumb(Screen):
 					self['thumb' + str(self.Thumbnaillist[x][1])].show()
 				except Exception as e:
 					print("Errore durante setPixmap:", e)
-			# print('x0 self.Thumbnaillist[x][0] =', self.Thumbnaillist[x][0])
-			# print('x1 self.Thumbnaillist[x][1] =', self.Thumbnaillist[x][1])
-			# print('x2 self.Thumbnaillist[x][2] =', self.Thumbnaillist[x][2])
 		return
 
 	def key_left(self):
@@ -265,7 +265,6 @@ class sgrabberPic_Thumb(Screen):
 	def Exit(self):
 		del self.picload
 		self.remove_thumbails()
-		OnclearMem()
 		self.close(self.index + self.dirlistcount)
 
 	def remove_thumbails(self):
@@ -305,16 +304,25 @@ class sgrabberPic_Full_View(Screen):
 		self.skin = skinpaint
 
 		Screen.__init__(self, session)
-		self['actions'] = ActionMap(['OkCancelActions',
-									 'ColorActions',
-									 'DirectionActions',
-									 'MovieSelectionActions'], {'cancel': self.Exit,
-																'green': self.PlayPause,
-																'yellow': self.PlayPause,
-																'blue': self.nextPic,
-																'red': self.prevPic,
-																'left': self.prevPic,
-																'right': self.nextPic}, -1)
+		self['actions'] = ActionMap(
+			[
+				'OkCancelActions',
+				'ColorActions',
+				'DirectionActions',
+				'MovieSelectionActions'
+			],
+			{
+				'cancel': self.Exit,
+				'green': self.PlayPause,
+				'yellow': self.PlayPause,
+				'blue': self.nextPic,
+				'red': self.prevPic,
+				'left': self.prevPic,
+				'right': self.nextPic
+			},
+			-1
+		)
+
 		self['point'] = Pixmap()
 		self['pic'] = Pixmap()
 		self['play_icon'] = Pixmap()
@@ -322,7 +330,7 @@ class sgrabberPic_Full_View(Screen):
 		self['file'] = StaticText(_('please wait, loading picture...'))
 		self.old_index = 0
 		self.filelist = []
-		self.lastindex = index   # -1  # test.. show next pic ??
+		self.lastindex = index
 		self.currPic = []
 		self.shownow = True
 		self.dirlistcount = 0
@@ -340,8 +348,6 @@ class sgrabberPic_Full_View(Screen):
 			else:
 				self.filelist.append(x[T_FULL])
 
-		# print('len(filelist[0])=', len(filelist[0]))
-		# print('self.filelist=', self.filelist)
 		self.maxentry = len(self.filelist) - 1
 		self.index = index - self.dirlistcount
 		if self.index < 0:
@@ -372,13 +378,16 @@ class sgrabberPic_Full_View(Screen):
 		if self['pic'].instance is None:
 			print("Errore: self['pic'].instance è None")
 			return
-		self.picload.setPara([self['pic'].instance.size().width(),
-							  self['pic'].instance.size().height(),
-							  scale_x,
-							  scale_y,
-							  cfg.cache.value,
-							  int(cfg.resize.value),
-							  self.bgcolor])
+		self.picload.setPara([
+			self['pic'].instance.size().width(),
+			self['pic'].instance.size().height(),
+			scale_x,
+			scale_y,
+			cfg.cache.value,
+			int(cfg.resize.value),
+			self.bgcolor
+		])
+
 		self['play_icon'].hide()
 		self['play_icon_show'].hide()
 		if cfg.infoline.value is False:

@@ -6,14 +6,12 @@
 # fixed lululla for dreamos 20240918
 from __future__ import print_function
 
-from . import _
-
 try:
 	from Components.AVSwitch import AVSwitch
 except ImportError:
 	from Components.AVSwitch import eAVControl as AVSwitch
 from Components.ActionMap import ActionMap
-from Components.ConfigList import ConfigListScreen
+from Components.ConfigList import ConfigList, ConfigListScreen
 from Components.Label import Label
 from Components.MenuList import MenuList
 from Components.Pixmap import Pixmap
@@ -26,22 +24,18 @@ from Components.config import (
 	configfile,
 	ConfigInteger,
 	ConfigEnableDisable,
-	ConfigText,
 )
 from Plugins.Plugin import PluginDescriptor
 from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen
 from GlobalActions import globalActionMap
 from Screens.Standby import TryQuitMainloop
-from Tools.Directories import fileExists
-from Tools.Directories import resolveFilename, SCOPE_MEDIA
+from Tools.Directories import fileExists, resolveFilename, SCOPE_MEDIA
 from Tools.Notifications import AddNotification
-from os.path import exists as file_exists
+from os.path import exists, isdir, join, isfile
 from datetime import datetime
 from keymapparser import readKeymap
 import sys
-import os
-import time
 from enigma import (
 	getDesktop,
 	ePicLoad,
@@ -50,14 +44,17 @@ from enigma import (
 from os import (
 	remove,
 	listdir,
-	path,
 	makedirs,
+	system as os_system,
+	access,
+	W_OK,
+	X_OK,
+	waitpid
 )
-
+from . import _
 
 PY3 = sys.version_info[0] == 3
 
-# global globalActionMap
 global xfilename
 global screenshot_folder
 size_w = getDesktop(0).size().width()
@@ -66,20 +63,12 @@ size_h = getDesktop(0).size().height()
 
 def OnclearMem():
 	try:
-		os.system('sync')
-		os.system('echo 1 > /proc/sys/vm/drop_caches')
-		os.system('echo 2 > /proc/sys/vm/drop_caches')
-		os.system('echo 3 > /proc/sys/vm/drop_caches')
+		os_system('sync')
+		os_system('echo 1 > /proc/sys/vm/drop_caches')
+		os_system('echo 2 > /proc/sys/vm/drop_caches')
+		os_system('echo 3 > /proc/sys/vm/drop_caches')
 	except:
 		pass
-
-
-def makedir(path):
-	try:
-		makedirs(path)
-		return True
-	except:
-		return False
 
 
 def getScale():
@@ -87,7 +76,6 @@ def getScale():
 
 
 def getMountedDevs():
-	from Tools.Directories import resolveFilename, SCOPE_MEDIA
 	from Components.Harddisk import harddiskmanager
 
 	def handleMountpoint(loc):
@@ -102,11 +90,11 @@ def getMountedDevs():
 	mountedDevs += [
 		(p.mountpoint, _(p.description) if p.description else '') for p in harddiskmanager.getMountedPartitions(True)
 	]
-	mountedDevs = [path for path in mountedDevs if os.path.isdir(path[0]) and os.access(path[0], os.W_OK | os.X_OK)]
+	mountedDevs = [path for path in mountedDevs if isdir(path[0]) and access(path[0], W_OK | X_OK)]
 	netDir = resolveFilename(SCOPE_MEDIA, 'net')
-	if os.path.isdir(netDir):
-		mountedDevs += [(os.path.join(netDir, p), _('Network mount')) for p in os.listdir(netDir)]
-	mountedDevs += [(os.path.join('/', 'tmp'), _('Tmp Folder'))]
+	if isdir(netDir):
+		mountedDevs += [(join(netDir, p), _('Network mount')) for p in listdir(netDir)]
+	mountedDevs += [(join('/', 'tmp'), _('Tmp Folder'))]
 	mountedDevs = list(map(handleMountpoint, mountedDevs))
 	return mountedDevs
 
@@ -130,7 +118,26 @@ currversion = '3.2'
 # -m MODE, --mode MODE  capture mode, values: osd, video, combined (default:
 					# combined)
 '''
-
+"""
+"Usage: grab [commands] [filename]\n\n"
+"command:\n"
+"-o only grab osd (framebuffer) when using this with png or bmp\n"
+"   fileformat you will get a 32bit pic with alphachannel\n"
+"-v only grab video\n"
+"-i (video device) to grab video (default 0)\n"
+"-d always use osd resolution (good for skinshots)\n"
+"-n dont correct 16:9 aspect ratio\n"
+"-r (size) resize to a fixed width, maximum: 1920\n"
+"-l always 4:3, create letterbox if 16:9\n"
+"-b use bicubic picture resize (slow but smooth)\n"
+"-j (quality) produce jpg files instead of bmp (quality 0-100)\n"
+"-p produce png files instead of bmp\n"
+"-q Quiet mode, don't output debug messages\n"
+"-s write to stdout instead of a file\n"
+"-h this help screen\n\n"
+"If no command is given the complete picture will be grabbed.\n"
+"If no filename is given /tmp/screenshot.[bmp/jpg/png] will be used.\n");
+"""
 
 config.sgrabber = ConfigSubsection()
 cfg = config.sgrabber
@@ -138,7 +145,7 @@ cfg.framesize = ConfigInteger(default=50, limits=(5, 99))
 cfg.slidetime = ConfigInteger(default=10, limits=(1, 60))
 cfg.resize = ConfigSelection(default='1', choices=[('0', _('simple')), ('1', _('better'))])
 cfg.cache = ConfigEnableDisable(default=True)
-cfg.lastDir = ConfigText(default=resolveFilename(SCOPE_MEDIA))
+# cfg.lastDir = ConfigText(default=resolveFilename(SCOPE_MEDIA))
 cfg.infoline = ConfigEnableDisable(default=True)
 cfg.loop = ConfigEnableDisable(default=True)
 cfg.bgcolor = ConfigSelection(default='#00000000', choices=[
@@ -159,7 +166,7 @@ cfg.textcolor = ConfigSelection(default='#00ffe875', choices=[
 ])
 
 
-if file_exists('/var/lib/dpkg/status'):
+if exists('/var/lib/dpkg/status'):
 	cfg.fixedaspectratio = ConfigSelection(default='Disabled', choices=[('Disabled', _('Off'))])
 	cfg.always43 = ConfigSelection(default='Disabled', choices=[('Disabled', _('Off'))])
 	cfg.bicubic = ConfigSelection(default='Disabled', choices=[('Disabled', _('Off'))])
@@ -221,30 +228,48 @@ else:
 		('radio', _('Radio'))
 	])
 
+
 srootfolder = cfg.storedir.value
-if path.exists(srootfolder + "/screenshots/"):
-	print('srootfolder + /screenshots/ exist')
+screenshot_folder = join(srootfolder, "screenshots")
+
+if exists(screenshot_folder):
+	print("Folder exists:", screenshot_folder)
 else:
-	makedirs(srootfolder + "/screenshots/")
-	print('makedir: srootfolder + /screenshots/ exist')
-screenshot_folder = os.path.join(srootfolder, "screenshots")
+	makedirs(screenshot_folder)
+	print("Created folder:", screenshot_folder)
 
 
 def checkfolder(folder):
-	if path.exists(folder):
+	if exists(folder):
 		return True
 	else:
 		return False
 
 
+def getPicturePath():
+	# Base path from config
+	# Append screenshots subfolder
+	picturepath = join(cfg.storedir.value, "screenshots")
+	try:
+		# Create directory if it doesn't exist
+		if not exists(picturepath):
+			makedirs(picturepath)
+	except OSError:
+		# Show error message if folder not writable or creation fails
+		msg_text = _("Sorry, your device for screenshots is not writable.\n\nPlease choose another one.")
+		msg_type = MessageBox.TYPE_ERROR
+		AddNotification(MessageBox, str(msg_text), msg_type, timeout=5)
+
+	return picturepath
+
+
 def getFilename():
 	global xfilename
-	now = time.time()
-	now = datetime.fromtimestamp(now)
-	now = now.strftime("%Y-%m-%d_%H-%M-%S")
-	fileextension = '.png'
-	format_value = cfg.formatp.value if cfg.formatp.value != 'Disabled' else cfg.formatp.value
-	if not file_exists('/var/lib/dpkg/status'):
+	now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+	fileextension = ".png"
+
+	format_value = cfg.formatp.value
+	if format_value != "Disabled" and not exists("/var/lib/dpkg/status"):
 		if "-j" in format_value:
 			fileextension = ".jpg"
 		elif format_value == "bmp":
@@ -254,23 +279,9 @@ def getFilename():
 
 	screenshottime = "screenshot_" + now
 	picturepath = getPicturePath()
-	screenshotfile = os.path.join(picturepath, screenshottime + fileextension)
+	screenshotfile = join(picturepath, screenshottime + fileextension)
 	xfilename = screenshotfile
 	return screenshotfile
-
-
-def getPicturePath():
-	picturepath = cfg.storedir.value
-	picturepath = os.path.join(picturepath, 'screenshots')
-	try:
-		if not os.path.exists(picturepath):
-			os.makedirs(picturepath)
-	except OSError:
-		msg_text = _("Sorry, your device for screenshots is not writable.\n\nPlease choose another one.")
-		msg_type = MessageBox.TYPE_ERROR
-		if msg_text:
-			AddNotification(MessageBox, str(msg_text), msg_type, timeout=5)
-	return picturepath
 
 
 class GrabPreview(Screen):
@@ -372,7 +383,7 @@ class sgrabberFilesScreen(Screen):
 				<widget name="ButtonRedtext" position="45,640" size="300,45" zPosition="11" font="Regular; 30" valign="center" halign="center" backgroundColor="#050c101b" transparent="1" foregroundColor="white" />
 			</screen>'''
 
-	if file_exists('/var/lib/dpkg/status'):
+	if exists('/var/lib/dpkg/status'):
 		skin = '''<screen name="sgrabberFilesScreen" position="center,center" size="1280,720" title="Screenshot Files" flags="wfNoBorder">
 					<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/framesd.png" position="0,0" alphatest="blend" size="1280,720" scale="stretch" />
 					<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" position="40,60" alphatest="blend" size="600,6"/>
@@ -406,7 +417,11 @@ class sgrabberFilesScreen(Screen):
 			self.PicLoad.PictureData.get().append(self.DecodePicture)
 		except:
 			self.PicLoad_conn = self.PicLoad.PictureData.connect(self.DecodePicture)
-		self.folder = cfg.storedir.value + '/screenshots/'
+		# self.folder = cfg.storedir.value + '/screenshots/'
+		self.folder = join(cfg.storedir.value, "screenshots")
+		path = self.folder
+		if not path.endswith("/"):
+			self.folder += "/"
 		self["actions"] = ActionMap(
 			["OkCancelActions", "DirectionActions", "ColorActions"],
 			{
@@ -423,8 +438,22 @@ class sgrabberFilesScreen(Screen):
 			},
 			-2
 		)
-		self.fillplgfolders()
+		self.onLayoutFinish.append(self.fillplgfolders)
 		self.onLayoutFinish.append(self.ShowPicture)
+
+	def fillplgfolders(self):
+		self['info'].setText('')
+		plgfolders = []
+		fullpath = []
+		if checkfolder(self.folder):
+			for x in listdir(self.folder):
+				if isfile(self.folder + x):
+					if x.endswith('.jpg') or x.endswith('.png') or x.endswith('.bmp') or x.endswith('.gif'):
+						plgfolders.append(x)
+						fullpath.append(x)
+
+		self['menu'].setList(plgfolders)
+		self.fullpath = fullpath
 
 	def removefile(self):
 		self['info'].setText('')
@@ -445,20 +474,6 @@ class sgrabberFilesScreen(Screen):
 		except TypeError as e:
 			self['info'].setText('unable to preview file')
 			print('error:', e)
-
-	def fillplgfolders(self):
-		self['info'].setText('')
-		plgfolders = []
-		fullpath = []
-		if checkfolder(self.folder):
-			for x in listdir(self.folder):
-				if path.isfile(self.folder + x):
-					if x.endswith('.jpg') or x.endswith('.png') or x.endswith('.bmp') or x.endswith('.gif'):
-						plgfolders.append(x)
-						fullpath.append(x)
-
-		self['menu'].setList(plgfolders)
-		self.fullpath = fullpath
 
 	def up(self):
 		try:
@@ -500,7 +515,7 @@ class sgrabberFilesScreen(Screen):
 		filename = self.folder + str(fname)
 		print('key_ok name files:', filename)
 		print('data: ', data)
-		if path.isfile(filename):
+		if isfile(filename):
 			print('filename 2: ', filename)
 			try:
 				if isinstance(size_w, tuple) or isinstance(size_h, tuple):
@@ -539,33 +554,48 @@ class sgrabberScreenGrabberView(Screen):
 		self.session = session
 		global xfilename
 		self.myConsole = Console()
-		nowService = session.nav.getCurrentlyPlayingServiceReference()
-		self.nowService = nowService
-		self.srvName = 'ScreenGrabber'
+		self.nowService = session.nav.getCurrentlyPlayingServiceReference()
+		"""
+		# cmd = "grab"
+		# if exists('/var/lib/dpkg/status'):
+			# cmd = "dreamboxctl screenshot"
+		# cmdoptiontype = str(cfg.items.value) if cfg.items.value != "All" else cfg.items.value
+		# cmdoptionsize = str(cfg.newsize.value)
+		# cmdoptionformat = str(cfg.formatp.value)
+		# fixedaspectratio = str(cfg.fixedaspectratio.value)
+		# always43 = str(cfg.always43.value)
+		# bicubic = str(cfg.bicubic.value)
+		# def append_if_not_disabled(cmd, option_value, option_name):
+			# if option_value != 'Disabled':
+				# return cmd + ' ' + option_name
+			# return cmd
+		# cmd = append_if_not_disabled(cmd, cfg.items.value, cmdoptiontype)
+		# cmd = append_if_not_disabled(cmd, cfg.newsize.value, cmdoptionsize)
+		# if cfg.formatp.value != 'Disabled' and cfg.formatp.value != 'bmp':
+			# cmd += ' ' + cmdoptionformat
+		# cmd = append_if_not_disabled(cmd, fixedaspectratio, fixedaspectratio)
+		# cmd = append_if_not_disabled(cmd, always43, always43)
+		# cmd = append_if_not_disabled(cmd, bicubic, bicubic)
+		# cmd = cmd.strip()
+		"""
 		cmd = "grab"
-		if file_exists('/var/lib/dpkg/status'):
+		if exists("/var/lib/dpkg/status"):
 			cmd = "dreamboxctl screenshot"
 
-		cmdoptiontype = str(cfg.items.value) if cfg.items.value != "All" else cfg.items.value
-		cmdoptionsize = str(cfg.newsize.value)
-		cmdoptionformat = str(cfg.formatp.value)
-		fixedaspectratio = str(cfg.fixedaspectratio.value)
-		always43 = str(cfg.always43.value)
-		bicubic = str(cfg.bicubic.value)
-
-		def append_if_not_disabled(cmd, option_value, option_name):
-			if option_value != 'Disabled':
-				return cmd + ' ' + option_name
+		def append_if_valid(cmd, value, option):
+			if value != "Disabled":
+				cmd += " " + option
 			return cmd
 
-		cmd = append_if_not_disabled(cmd, cfg.items.value, cmdoptiontype)
-		cmd = append_if_not_disabled(cmd, cfg.newsize.value, cmdoptionsize)
+		if cfg.items.value != "All" and cfg.items.value != "Disabled":
+			cmd += " " + str(cfg.items.value)
 
-		if cfg.formatp.value != 'Disabled' and cfg.formatp.value != 'bmp':
-			cmd += ' ' + cmdoptionformat
-		cmd = append_if_not_disabled(cmd, fixedaspectratio, fixedaspectratio)
-		cmd = append_if_not_disabled(cmd, always43, always43)
-		cmd = append_if_not_disabled(cmd, bicubic, bicubic)
+		cmd = append_if_valid(cmd, cfg.newsize.value, str(cfg.newsize.value))
+		if cfg.formatp.value != "Disabled" and cfg.formatp.value != "bmp":
+			cmd += " " + str(cfg.formatp.value)
+		cmd = append_if_valid(cmd, cfg.fixedaspectratio.value, str(cfg.fixedaspectratio.value))
+		cmd = append_if_valid(cmd, cfg.always43.value, str(cfg.always43.value))
+		cmd = append_if_valid(cmd, cfg.bicubic.value, str(cfg.bicubic.value))
 		cmd = cmd.strip()
 
 		extra_args = None
@@ -603,18 +633,6 @@ class sgrabberScreenGrabberView(Screen):
 		print('sgrabberScreenGrabberView onLayoutFinish self.Show_Picture=', str(self.whatPic))
 		self.onLayoutFinish.append(self.Show_Picture)
 
-	def showsetup(self):
-		self.session.open(sgrabberScreenGrabberSetup)
-		self.dexit()
-
-	def showfiles(self):
-		self.session.open(sgrabberFilesScreen)
-
-	def dexit(self):
-		self.session.nav.playService(self.nowService)
-		OnclearMem()
-		self.close()
-
 	def Show_Picture(self):
 		if fileExists(self.whatPic):
 			print('--> Show_Picture whatPic 2=', str(self.whatPic))
@@ -643,6 +661,18 @@ class sgrabberScreenGrabberView(Screen):
 		if ptr is not None:
 			self["Picture"].instance.setPixmap(ptr)
 			self["Picture"].instance.show()
+
+	def showsetup(self):
+		self.session.open(sgrabberScreenGrabberSetup)
+		self.dexit()
+
+	def showfiles(self):
+		self.session.open(sgrabberFilesScreen)
+
+	def dexit(self):
+		self.session.nav.playService(self.nowService)
+		OnclearMem()
+		self.close()
 
 	def gotScreenshot(self, result, retval, extra_args=None):
 		print('gotScreenshot extra_args:', extra_args)
@@ -678,7 +708,6 @@ class classScreenGrabber:
 		return
 
 	def gotSession(self, session):
-		# global globalActionMap
 		rcbutton = cfg.scut.value
 		ScreenGrabber_keymap = '/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/keymaps/' + rcbutton + '_keymap.xml'
 		self.session = session
@@ -706,7 +735,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 				<widget source="key_blue" render="Label" position="938,640" size="300,45" zPosition="11" font="Regular; 30" valign="center" halign="center" backgroundColor="#050c101b" transparent="1" foregroundColor="white" />
 			</screen>'''
 
-	if file_exists('/var/lib/dpkg/status'):
+	if exists('/var/lib/dpkg/status'):
 		skin = '''<screen name="sgrabberScreenGrabberSetup" position="center,center" size="1280,720" title="ScreebGrabber setup" flags="wfNoBorder">
 					<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/framesd.png" position="0,0" size="1280,720" scale="stretch" />
 					<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/iconafm.png" position="891,132" size="350,350" scale="stretch" zPosition="9" />
@@ -726,6 +755,10 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 	def __init__(self, session):
 		Screen.__init__(self, session)
 		self.session = session
+
+		self.list = []
+		self.changedEntry = []
+		self["config"] = ConfigList(self.list)
 		self.createConfigList()
 		ConfigListScreen.__init__(self, self.list, session=self.session, on_change=self.changedEntry)
 		self['key_red'] = StaticText(_('Cancel'))
@@ -746,6 +779,8 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 
 	def createConfigList(self):
 		self.list = []
+		section = '--------------------------( SCREENGRABBER SETUP )-----------------------'
+		self.list.append(getConfigListEntry(section))
 		self.list.append(getConfigListEntry(_('ScreenShot:'), cfg.items))
 		self.list.append(getConfigListEntry(_('Storing Folder:'), cfg.storedir))
 		self.list.append(getConfigListEntry(_('Remote screenshot button:'), cfg.scut))
@@ -754,12 +789,13 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self.list.append(getConfigListEntry(_('Fixed Aspect ratio:'), cfg.fixedaspectratio))
 		self.list.append(getConfigListEntry(_('Fixed Aspect ratio 4:3:'), cfg.always43))
 		self.list.append(getConfigListEntry(_('Bicubic picture resize:'), cfg.bicubic))
-		# picview config --- add lululla
+		section = '--------------------------( PICVIEW SETUP )-----------------------'
+		self.list.append(getConfigListEntry(section))
 		self.list.append(getConfigListEntry(_('Picview Framesize:'), cfg.framesize))
 		self.list.append(getConfigListEntry(_('Picview slidetime:'), cfg.slidetime))
 		self.list.append(getConfigListEntry(_('Picview resize:'), cfg.resize))
 		self.list.append(getConfigListEntry(_('Picview cache:'), cfg.cache))
-		self.list.append(getConfigListEntry(_('Picview lastDir:'), cfg.lastDir))
+		# self.list.append(getConfigListEntry(_('Picview lastDir:'), cfg.lastDir))
 		self.list.append(getConfigListEntry(_('Picview infoline:'), cfg.infoline))
 		self.list.append(getConfigListEntry(_('Picview loop:'), cfg.loop))
 		self.list.append(getConfigListEntry(_('Picview bgcolor:'), cfg.bgcolor))
@@ -767,6 +803,9 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 
 		self.onitem = cfg.items.value
 		self.scut = cfg.scut.value
+
+		self["config"].list = self.list
+		self["config"].l.setList(self.list)
 
 	def keyBlue(self):
 		self.session.open(sgrabberFilesScreen)
@@ -776,14 +815,14 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self["config"].setList(self.list)
 
 	def showfiles(self):
-		if checkfolder(str(self['config'].list[1][1].value)):
-			self.folder = cfg.storedir.value + '/screenshots/'
+		if checkfolder(str(cfg.storedir.value)):
+			self.folder = join(cfg.storedir.value, "screenshots")
 			self.session.open(GrabPreviewII, None, self.folder)
 		else:
 			self.session.open(MessageBox, text=_('Storing directory is not available'), type=MessageBox.TYPE_INFO, timeout=3, close_on_any_key=True)
 
 	def keySave(self):
-		if checkfolder(str(self['config'].list[1][1].value)):
+		if checkfolder(str(cfg.storedir.value)):
 			for x in self['config'].list:
 				x[1].save()
 			configfile.save()
@@ -803,8 +842,10 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 			self.close(True)
 
 	def keyClose(self):
-		for x in self['config'].list:
-			x[1].cancel()
+		"""
+		# for x in self['config'].list:
+			# x[1].cancel()
+		"""
 		OnclearMem()
 		self.close(False)
 
@@ -815,7 +856,7 @@ class GrabPreviewII(Screen):
 			<screen name="GrabPreviewII" flags="wfNoBorder" position="center,center" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
 				<ePixmap position="87,75" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
 				<ePixmap position="87,800" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
-				<widget name="Picture" position="87,80" size="1280,720" zPosition="1" alphatest="on" scale="stretch"  />
+				<widget name="Picture" position="87,80" size="1280,720" zPosition="5" alphatest="on" scale="1"  />
 				<widget name="menu" position="300,807" size="800,102" scrollbarMode="showOnDemand" transparent="1" zPosition="5" font="Regular; 34" itemHeight="50" />
 				<widget name="State" font="Regular;32" halign="center" position="85,8" size="1280,70" backgroundColor="#01080911" foregroundColor="#fcc000" transparent="1" zPosition="5" />
 				<eLabel name="" position="1350,895" size="55,55" halign="center" valign="center" transparent="0" cornerRadius="26" font="Regular; 22" zPosition="1" text="OK" backgroundColor="#01080911" foregroundColor="#fcc000" />
@@ -828,7 +869,7 @@ class GrabPreviewII(Screen):
 			<screen name="GrabPreviewII"  flags="wfNoBorder" position="center,center" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
 				<ePixmap position="228,70" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
 				<ePixmap position="230,590" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
-				<widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="stretch"  />
+				<widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="1"  />
 				<widget name="menu" position="355,600" size="600,105" scrollbarMode="showOnDemand" transparent="1" zPosition="5" font="Regular; 24" itemHeight="40" />
 				<widget name="State" font="Regular;20" halign="center" position="1,-3" size="1280,70" backgroundColor="#01080911" foregroundColor="#fcc000" transparent="0" zPosition="5" />
 				<eLabel name="" position="1025,650" size="55,55" halign="center" valign="center" transparent="0" cornerRadius="26" font="Regular; 22" zPosition="1" text="OK" backgroundColor="#01080911" foregroundColor="#fcc000" />
@@ -837,13 +878,13 @@ class GrabPreviewII(Screen):
 				<widget name="ButtonYellowtext" position="964,600" size="250,45" zPosition="11" font="Regular; 24" valign="center" halign="center" backgroundColor="#050c101b" transparent="1" foregroundColor="white" />
 			</screen>"""
 
-	if file_exists('/var/lib/dpkg/status'):
+	if exists('/var/lib/dpkg/status'):
 		if (getDesktop(0).size().width()) > 1030:
 			skin = """
 				<screen name="GrabPreviewII" flags="wfNoBorder" position="center,center" size="1480,963" title="GrabPreview Explorer" backgroundColor="#00121214">
 					<ePixmap position="87,75" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
 					<ePixmap position="87,800" size="1280,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
-					<widget name="Picture" position="87,80" size="1280,720" zPosition="1" alphatest="on" scale="stretch" />
+					<widget name="Picture" position="87,80" size="1280,720" zPosition="1" alphatest="on" scale="1" />
 					<widget name="menu" position="300,807" size="800,102" scrollbarMode="showOnDemand" transparent="1" zPosition="5" itemHeight="50" />
 					<widget name="State" font="Regular;32" halign="center" position="85,8" size="1280,70" backgroundColor="#01080911" foregroundColor="#fcc000" transparent="1" zPosition="5" />
 					<eLabel name="" position="1350,895" size="55,55" halign="center" valign="center" transparent="0" cornerRadius="26" font="Regular; 22" zPosition="1" text="OK" backgroundColor="#01080911" foregroundColor="#fcc000" />
@@ -856,7 +897,7 @@ class GrabPreviewII(Screen):
 				<screen name="GrabPreviewII"  flags="wfNoBorder" position="center,center" size="1280,720" title="GrabPreview Explorer" backgroundColor="#00121214">
 					<ePixmap position="228,70" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
 					<ePixmap position="230,590" size="850,6" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/ScreenGrabber/images/slider.png" alphatest="blend" transparent="1" backgroundColor="#ff000000" />
-					<widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="stretch"  />
+					<widget name="Picture" position="228,70" size="850,520" zPosition="1" alphatest="on" scale="1"  />
 					<widget name="menu" position="355,600" size="600,105" scrollbarMode="showOnDemand" transparent="1" zPosition="5" itemHeight="40" />
 					<widget name="State" font="Regular;20" halign="center" position="1,-3" size="1280,70" backgroundColor="#01080911" foregroundColor="#fcc000" transparent="0" zPosition="5" />
 					<eLabel name="" position="1025,650" size="55,55" halign="center" valign="center" transparent="0" cornerRadius="26" font="Regular; 22" zPosition="1" text="OK" backgroundColor="#01080911" foregroundColor="#fcc000" />
@@ -869,15 +910,16 @@ class GrabPreviewII(Screen):
 		self.skin = GrabPreviewII.skin
 		Screen.__init__(self, session)
 		self.session = session
-		self["State"] = Label(_('loading... '))
-		self.whatPic = whatPic
-		if self.whatPic is None:
-			self.whatPic = None
-		self.whatDir = whatDir
-		print('folder picture is:', self.whatDir)
-		print('whatPic picture is:', self.whatPic)
 		self.picList = []
 		self['menu'] = MenuList(self.picList)
+		self["State"] = Label(_('loading... '))
+		self.whatPic = whatPic if whatPic is not None else None
+		self.whatDir = whatDir if whatDir is not None else None
+		path = self.whatDir
+		if not path.endswith("/"):
+			self.whatDir += "/"
+		print('whatDir picture is:', self.whatDir)
+		print('whatPic picture is:', self.whatPic)
 		self["Picture"] = Pixmap()
 		self.EXscale = getScale()
 		self.EXpicload = ePicLoad()
@@ -905,16 +947,18 @@ class GrabPreviewII(Screen):
 			self.EXpicload.PictureData.get().append(self.DecodeAction)
 		except:
 			self.EXpicload_conn = self.EXpicload.PictureData.connect(self.DecodeAction)
-
 		self.onLayoutFinish.append(self.Show_Picture)
 
 	def Show_Picture(self):
 		if self.whatDir is not None and checkfolder(self.whatDir):
+			print('self.whatDir is not None and checkfolder(self.whatDir)')
 			for x in listdir(self.whatDir):
-				if path.isfile(self.whatDir + x):
+				print("GrabPreviewII x files:", x)
+				if isfile(self.whatDir + x):
 					if x.endswith('.jpg') or x.endswith('.png') or x.endswith('.bmp') or x.endswith('.gif'):
 						self.picList.append(x)
-				self.picList = sorted(self.picList, reverse=True)
+
+			self.picList = sorted(self.picList, reverse=True)
 			self['menu'].setList(self.picList)
 
 			if len(self.picList) > 0:
@@ -963,7 +1007,7 @@ class GrabPreviewII(Screen):
 			if self.whatDir is not None and checkfolder(self.whatDir):
 				fname = self['menu'].getCurrent()
 				filename = self.whatDir + fname
-				if path.isfile(filename):
+				if isfile(filename):
 					remove(filename)
 				newPicList = [x for x in self.picList if x != fname]
 				self.picList = newPicList
@@ -974,57 +1018,48 @@ class GrabPreviewII(Screen):
 		except Exception as e:
 			print(e)
 
-	def Pright(self):
-		self["menu"].down()
+	def _loadCurrentPicture(self):
 		if len(self.picList) > 0:
 			fname = self['menu'].getCurrent()
 			self.whatPic = self.whatDir + fname
 			self["State"].setText(_('loading... ' + self.whatPic))
+			self.EXpicload.setPara([
+				self["Picture"].instance.size().width(),
+				self["Picture"].instance.size().height(),
+				self.EXscale[0], self.EXscale[1], 0, 1, "#ff000000"
+			])
+			self.EXpicload.startDecode(self.whatPic)
 		else:
 			self["State"].setText(_("..."))
 			self.session.open(MessageBox, _('No more picture-files.'), MessageBox.TYPE_INFO, timeout=3)
 
-		if len(self.picList) > 0:
-			self.EXpicload.setPara([self["Picture"].instance.size().width(), self["Picture"].instance.size().height(), self.EXscale[0], self.EXscale[1], 0, 1, "#ff000000"])
-			self.EXpicload.startDecode(self.whatPic)
+	def Pright(self):
+		self["menu"].down()
+		self._loadCurrentPicture()
 
 	def Pleft(self):
 		self["menu"].up()
-		if len(self.picList) > 0:
-			fname = self['menu'].getCurrent()
-			self.whatPic = self.whatDir + fname
-			self["State"].setText(_('loading... ' + self.whatPic))
-		else:
-			self["State"].setText(_("..."))
-			self.session.open(MessageBox, _('No more picture-files.'), MessageBox.TYPE_INFO, timeout=3)
-
-		if len(self.picList) > 0:
-			self.EXpicload.setPara([self["Picture"].instance.size().width(), self["Picture"].instance.size().height(), self.EXscale[0], self.EXscale[1], 0, 1, "#ff000000"])
-			self.EXpicload.startDecode(self.whatPic)
+		self._loadCurrentPicture()
 
 	def key_ok(self):
-		if self.whatPic is not None and len(self.picList) > 0:
-			fname = self['menu'].getCurrent()
-			self.whatPic = self.whatDir + fname
-			print('GrabPreviewII key_ok whatPic:', self.whatPic)
-			self.EXpicload.setPara([self["Picture"].instance.size().width(), self["Picture"].instance.size().height(), self.EXscale[0], self.EXscale[1], 0, 1, "#ff000000"])
-			self.EXpicload.startDecode(self.whatPic)
+		if len(self.picList) > 0:
+			self._loadCurrentPicture()
+			print("GrabPreviewII key_ok whatPic:", self.whatPic)
 
 
 class ConsoleItem:
 	def __init__(self, containers, cmd, callback, extra_args, binary=False):
+
 		self.filenamesaved = getFilename()
-		if file_exists('/var/lib/dpkg/status'):
+		global xfilename
+		xfilename = self.filenamesaved
+		if exists('/var/lib/dpkg/status'):
 			cmd += " -f %s" % self.filenamesaved
 		else:
 			cmd += " %s" % self.filenamesaved
 
-		global xfilename
-		xfilename = self.filenamesaved
-
 		self.containers = containers
 		self.callback = callback
-		self.extra_args = self.filenamesaved
 		self.extraArgs = extra_args if extra_args else self.filenamesaved  # []
 		self.binary = binary
 		self.container = eConsoleAppContainer()
@@ -1037,7 +1072,6 @@ class ConsoleItem:
 
 		if isinstance(cmd, str):
 			cmd = [cmd]
-		name = cmd
 
 		if callback:
 			self.appResults = []
@@ -1062,7 +1096,7 @@ class ConsoleItem:
 		if self.callback is None:
 			pid = self.container.getPID()
 			try:
-				os.waitpid(pid, 0)
+				waitpid(pid, 0)
 			except OSError as err:
 				print("[Console] Error %s: Wait for command on PID %d to terminate failed!  (%s)" % (err.errno, pid, err.strerror))
 
@@ -1097,7 +1131,7 @@ class ConsoleItem:
 				print("[Error] Failed to join appResults:", e)
 				# return
 
-			if file_exists('/var/lib/dpkg/status'):
+			if exists('/var/lib/dpkg/status'):
 				data = data if self.binary else data.decode()
 				print("[Debug] Data length after join:", len(data))
 
