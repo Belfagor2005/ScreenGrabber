@@ -24,6 +24,8 @@ from Components.config import (
 	configfile,
 	ConfigInteger,
 	ConfigEnableDisable,
+	ConfigNothing,
+	NoSave
 )
 from Plugins.Plugin import PluginDescriptor
 from Screens.MessageBox import MessageBox
@@ -712,7 +714,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 	def createConfigList(self):
 		self.list = []
 		section = '--------------------------( SCREENGRABBER SETUP )-----------------------'
-		self.list.append((_(section), None))
+		self.list.append((_(section), NoSave(ConfigNothing())))
 		self.list.append(getConfigListEntry(_('ScreenShot:'), cfg.items))
 		self.list.append(getConfigListEntry(_('Storing Folder:'), cfg.storedir))
 		self.list.append(getConfigListEntry(_('Remote screenshot button:'), cfg.scut))
@@ -722,7 +724,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self.list.append(getConfigListEntry(_('Fixed Aspect ratio 4:3:'), cfg.always43))
 		self.list.append(getConfigListEntry(_('Bicubic picture resize:'), cfg.bicubic))
 		section = '--------------------------( PICVIEW SETUP )-----------------------'
-		self.list.append((_(section), None))
+		self.list.append((_(section), NoSave(ConfigNothing())))
 		self.list.append(getConfigListEntry(_('Picview Framesize:'), cfg.framesize))
 		self.list.append(getConfigListEntry(_('Picview slidetime:'), cfg.slidetime))
 		self.list.append(getConfigListEntry(_('Picview resize:'), cfg.resize))
@@ -745,6 +747,10 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self.createConfigList()
 		self["config"].setList(self.list)
 
+	def _onConfigEntryChanged(self):
+		for x in self.onChangedEntry:
+			x()
+
 	def showfiles(self):
 		if checkfolder(str(cfg.storedir.value)):
 			self.folder = join(cfg.storedir.value, "screenshots")
@@ -758,7 +764,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 				if isinstance(x, tuple) and len(x) > 1 and hasattr(x[1], "save"):
 					x[1].save()
 			configfile.save()
-			self.changedEntry()
+			# self.changedEntry()
 			if not self.onitem == cfg.items.value or not self.scut == cfg.scut.value:
 				self.session.openWithCallback(self.restartenigma, MessageBox, _('Restart enigma2 to load new settings?'), MessageBox.TYPE_YESNO)
 			else:
