@@ -101,44 +101,6 @@ def getMountedDevs():
 
 currversion = '3.2'
 
-
-'''
-# FOR DREAMBOX
-# -h, --help            show this help message and exit
-# -f FILENAME, --filename FILENAME
-					# filename for the screenshot (requires full path)
-					# (default: /tmp/screenshot.png)
-# -iw WIDTH, --width WIDTH
-					# image width. 0 for original size (default: 0)
-# -ih HEIGHT, --height HEIGHT
-					# image height. 0 for original size (default: 0)
-# -d DESKTOP, --desktop DESKTOP
-					# desktop to take a screenshot of. 0 for TV, 1 for
-					# display (default: 0)
-# -m MODE, --mode MODE  capture mode, values: osd, video, combined (default:
-					# combined)
-'''
-"""
-"Usage: grab [commands] [filename]\n\n"
-"command:\n"
-"-o only grab osd (framebuffer) when using this with png or bmp\n"
-"   fileformat you will get a 32bit pic with alphachannel\n"
-"-v only grab video\n"
-"-i (video device) to grab video (default 0)\n"
-"-d always use osd resolution (good for skinshots)\n"
-"-n dont correct 16:9 aspect ratio\n"
-"-r (size) resize to a fixed width, maximum: 1920\n"
-"-l always 4:3, create letterbox if 16:9\n"
-"-b use bicubic picture resize (slow but smooth)\n"
-"-j (quality) produce jpg files instead of bmp (quality 0-100)\n"
-"-p produce png files instead of bmp\n"
-"-q Quiet mode, don't output debug messages\n"
-"-s write to stdout instead of a file\n"
-"-h this help screen\n\n"
-"If no command is given the complete picture will be grabbed.\n"
-"If no filename is given /tmp/screenshot.[bmp/jpg/png] will be used.\n");
-"""
-
 config.sgrabber = ConfigSubsection()
 cfg = config.sgrabber
 cfg.framesize = ConfigInteger(default=50, limits=(5, 99))
@@ -247,19 +209,14 @@ def checkfolder(folder):
 
 
 def getPicturePath():
-	# Base path from config
-	# Append screenshots subfolder
 	picturepath = join(cfg.storedir.value, "screenshots")
 	try:
-		# Create directory if it doesn't exist
 		if not exists(picturepath):
 			makedirs(picturepath)
 	except OSError:
-		# Show error message if folder not writable or creation fails
 		msg_text = _("Sorry, your device for screenshots is not writable.\n\nPlease choose another one.")
 		msg_type = MessageBox.TYPE_ERROR
 		AddNotification(MessageBox, str(msg_text), msg_type, timeout=5)
-
 	return picturepath
 
 
@@ -267,7 +224,6 @@ def getFilename():
 	global xfilename
 	now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 	fileextension = ".png"
-
 	format_value = cfg.formatp.value
 	if format_value != "Disabled" and not exists("/var/lib/dpkg/status"):
 		if "-j" in format_value:
@@ -417,7 +373,6 @@ class sgrabberFilesScreen(Screen):
 			self.PicLoad.PictureData.get().append(self.DecodePicture)
 		except:
 			self.PicLoad_conn = self.PicLoad.PictureData.connect(self.DecodePicture)
-		# self.folder = cfg.storedir.value + '/screenshots/'
 		self.folder = join(cfg.storedir.value, "screenshots")
 		path = self.folder
 		if not path.endswith("/"):
@@ -521,8 +476,8 @@ class sgrabberFilesScreen(Screen):
 				if isinstance(size_w, tuple) or isinstance(size_h, tuple):
 					print("Error: size_w or size_h is a tuple, expected integers.")
 					return
-				width = 550  # size_w
-				height = 350  # size_h
+				width = 550
+				height = 350
 				scale_x = self.scale[0] if isinstance(self.scale[0], (int, float)) else 1
 				scale_y = self.scale[1] if isinstance(self.scale[1], (int, float)) else 1
 				self.PicLoad.setPara([width, height, scale_x, scale_y, 0, 1, "#ff000000"])
@@ -555,29 +510,6 @@ class sgrabberScreenGrabberView(Screen):
 		global xfilename
 		self.myConsole = Console()
 		self.nowService = session.nav.getCurrentlyPlayingServiceReference()
-		"""
-		# cmd = "grab"
-		# if exists('/var/lib/dpkg/status'):
-			# cmd = "dreamboxctl screenshot"
-		# cmdoptiontype = str(cfg.items.value) if cfg.items.value != "All" else cfg.items.value
-		# cmdoptionsize = str(cfg.newsize.value)
-		# cmdoptionformat = str(cfg.formatp.value)
-		# fixedaspectratio = str(cfg.fixedaspectratio.value)
-		# always43 = str(cfg.always43.value)
-		# bicubic = str(cfg.bicubic.value)
-		# def append_if_not_disabled(cmd, option_value, option_name):
-			# if option_value != 'Disabled':
-				# return cmd + ' ' + option_name
-			# return cmd
-		# cmd = append_if_not_disabled(cmd, cfg.items.value, cmdoptiontype)
-		# cmd = append_if_not_disabled(cmd, cfg.newsize.value, cmdoptionsize)
-		# if cfg.formatp.value != 'Disabled' and cfg.formatp.value != 'bmp':
-			# cmd += ' ' + cmdoptionformat
-		# cmd = append_if_not_disabled(cmd, fixedaspectratio, fixedaspectratio)
-		# cmd = append_if_not_disabled(cmd, always43, always43)
-		# cmd = append_if_not_disabled(cmd, bicubic, bicubic)
-		# cmd = cmd.strip()
-		"""
 		cmd = "grab"
 		if exists("/var/lib/dpkg/status"):
 			cmd = "dreamboxctl screenshot"
@@ -780,7 +712,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 	def createConfigList(self):
 		self.list = []
 		section = '--------------------------( SCREENGRABBER SETUP )-----------------------'
-		self.list.append(getConfigListEntry(section))
+		self.list.append((_(section), None))
 		self.list.append(getConfigListEntry(_('ScreenShot:'), cfg.items))
 		self.list.append(getConfigListEntry(_('Storing Folder:'), cfg.storedir))
 		self.list.append(getConfigListEntry(_('Remote screenshot button:'), cfg.scut))
@@ -790,12 +722,11 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self.list.append(getConfigListEntry(_('Fixed Aspect ratio 4:3:'), cfg.always43))
 		self.list.append(getConfigListEntry(_('Bicubic picture resize:'), cfg.bicubic))
 		section = '--------------------------( PICVIEW SETUP )-----------------------'
-		self.list.append(getConfigListEntry(section))
+		self.list.append((_(section), None))
 		self.list.append(getConfigListEntry(_('Picview Framesize:'), cfg.framesize))
 		self.list.append(getConfigListEntry(_('Picview slidetime:'), cfg.slidetime))
 		self.list.append(getConfigListEntry(_('Picview resize:'), cfg.resize))
 		self.list.append(getConfigListEntry(_('Picview cache:'), cfg.cache))
-		# self.list.append(getConfigListEntry(_('Picview lastDir:'), cfg.lastDir))
 		self.list.append(getConfigListEntry(_('Picview infoline:'), cfg.infoline))
 		self.list.append(getConfigListEntry(_('Picview loop:'), cfg.loop))
 		self.list.append(getConfigListEntry(_('Picview bgcolor:'), cfg.bgcolor))
@@ -824,7 +755,8 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 	def keySave(self):
 		if checkfolder(str(cfg.storedir.value)):
 			for x in self['config'].list:
-				x[1].save()
+				if isinstance(x, tuple) and len(x) > 1 and hasattr(x[1], "save"):
+					x[1].save()
 			configfile.save()
 			self.changedEntry()
 			if not self.onitem == cfg.items.value or not self.scut == cfg.scut.value:
@@ -842,10 +774,10 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 			self.close(True)
 
 	def keyClose(self):
-		"""
-		# for x in self['config'].list:
-			# x[1].cancel()
-		"""
+		for x in self['config'].list:
+			if isinstance(x, tuple) and len(x) > 1 and hasattr(x[1], "cancel"):
+				x[1].cancel()
+			x[1].cancel()
 		OnclearMem()
 		self.close(False)
 
