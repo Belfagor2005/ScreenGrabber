@@ -170,14 +170,6 @@ msgstr ""
 #| "Sorry, your device for screenshots is not writeable.\n"
 #| "\n"
 #| "Please choose another one."
-msgid ""
-"Sorry, your device for screenshots is not writable.\n"
-"\n"
-"Please choose another one."
-msgstr ""
-"Spiacenti, il tuo dispositivo per gli screenshot non è scrivibile.\n"
-"\n"
-"Si prega di sceglierne un altro."
 
 #: plugin.py:422
 msgid "Preview"
@@ -197,12 +189,6 @@ msgstr ""
 
 #: plugin.py:680
 #, python-format
-msgid ""
-"Screenshot successfully saved as:\n"
-"%s"
-msgstr ""
-"Screenshot salvato con successo in:\n"
-"%s"
 
 #: plugin.py:683
 msgid "Grabbing Screenshot failed !!!"

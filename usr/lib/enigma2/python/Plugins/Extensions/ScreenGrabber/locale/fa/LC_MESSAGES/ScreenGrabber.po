@@ -140,29 +140,11 @@ msgstr ""
 #: plugin.py:243 plugin.py:691
 #, fuzzy
 #| msgid "Grabbing Screenshot failed !!!"
-msgid ""
-"No picture files.\n"
-"Grabbing Screenshot first"
-msgstr "گرفتن عکس ناموفق بود !!!"
 
 #: plugin.py:410 plugin.py:481 plugin.py:861
-msgid ""
-"Sorry, your device for screenshots is not writeable.\n"
-"\n"
-"Please choose another one."
-msgstr ""
-"Sorry, your device for screenshots is not writeable.\n"
-"\n"
-"Please choose another one."
 
 #: plugin.py:458
 #, python-format
-msgid ""
-"Screenshot successfully saved as:\n"
-"%s"
-msgstr ""
-"Screenshot successfully saved as:\n"
-"%s"
 
 #: plugin.py:461
 msgid "Grabbing Screenshot failed !!!"
