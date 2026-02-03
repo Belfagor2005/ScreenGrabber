@@ -1,0 +1,213 @@
+# ScreenGrabber translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ScreenGrabber\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-02-03 16:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "BMP"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Bicubic picture resize:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Files II"
+msgstr ""
+
+msgid "Fixed Aspect ratio 4:3:"
+msgstr ""
+
+msgid "Fixed Aspect ratio:"
+msgstr ""
+
+msgid "Grab All"
+msgstr ""
+
+msgid "Grabbing Screenshot failed !!!"
+msgstr "Screenshot fallito !!!"
+
+msgid "Harddisk"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Long green"
+msgstr ""
+
+msgid "Long red"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Network mount"
+msgstr ""
+
+msgid "No more picture-files."
+msgstr ""
+
+msgid "OSD only"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "PNG"
+msgstr ""
+
+msgid "Picture size:"
+msgstr "Formato immagine:"
+
+msgid "Picview"
+msgstr ""
+
+msgid "Picview Framesize:"
+msgstr "Formato immagine:"
+
+msgid "Picview bgcolor:"
+msgstr ""
+
+msgid "Picview cache:"
+msgstr ""
+
+msgid "Picview infoline:"
+msgstr ""
+
+msgid "Picview loop:"
+msgstr ""
+
+msgid "Picview resize:"
+msgstr "Formato immagine:"
+
+msgid "Picview slidetime:"
+msgstr ""
+
+msgid "Picview textcolor:"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Remote screenshot button:"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Restart enigma2 to load new settings?"
+msgstr ""
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "ScreenShot:"
+msgstr "Screenshot:"
+
+msgid "Skin resolution"
+msgstr "Risoluzione Schermo"
+
+msgid "Storing Folder:"
+msgstr ""
+
+msgid "Storing directory is not available"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Tmp Folder"
+msgstr ""
+
+msgid "USB Device"
+msgstr ""
+
+msgid "VIDEO only"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video only"
+msgstr ""
+
+msgid "better"
+msgstr ""
+
+msgid "black"
+msgstr ""
+
+msgid "blue"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "jpg100"
+msgstr ""
+
+msgid "jpg20"
+msgstr ""
+
+msgid "jpg40"
+msgstr ""
+
+msgid "jpg60"
+msgstr ""
+
+msgid "jpg80"
+msgstr ""
+
+msgid "loading..."
+msgstr ""
+
+msgid "please wait, loading picture..."
+msgstr ""
+
+msgid "red"
+msgstr ""
+
+msgid "screenshot format/quality:"
+msgstr ""
+
+msgid "simple"
+msgstr ""
+
+msgid "trasparent"
+msgstr ""
+
+msgid "yellow"
+msgstr ""
