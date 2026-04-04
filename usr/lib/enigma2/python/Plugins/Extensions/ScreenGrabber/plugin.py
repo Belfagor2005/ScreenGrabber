@@ -53,7 +53,7 @@ from os import (
 	X_OK,
 	waitpid
 )
-from . import _
+from . import _, __version__
 
 PY3 = sys.version_info[0] == 3
 
@@ -100,8 +100,6 @@ def getMountedDevs():
 	mountedDevs = list(map(handleMountpoint, mountedDevs))
 	return mountedDevs
 
-
-currversion = '3.2'
 
 config.sgrabber = ConfigSubsection()
 cfg = config.sgrabber
@@ -699,7 +697,7 @@ class sgrabberScreenGrabberSetup(Screen, ConfigListScreen):
 		self['key_green'] = StaticText(_('Save'))
 		self['key_yellow'] = StaticText(_('Files'))
 		self['key_blue'] = StaticText(_('Files II'))
-		self['info'] = Label('ScreenGrabber V.%s mfaraj - Mod. by Lululla' % currversion)
+		self['info'] = Label('ScreenGrabber V.%s mfaraj - Mod. by Lululla' % __version__)
 		self["setupActions"] = ActionMap(
 			["SetupActions", "ColorActions"],
 			{
@@ -1154,7 +1152,7 @@ def Plugins(**kwargs):
 		PluginDescriptor(
 			icon='screengrabber.png',
 			name='ScreenGrabber',
-			description='Grab screen image V.%s' % currversion,
+			description='Grab screen image V.%s' % __version__,
 			where=PluginDescriptor.WHERE_PLUGINMENU,
 			fnc=main
 		)
