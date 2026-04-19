@@ -1,6 +1,11 @@
-# 📸 ScreenGrabber for Enigma2
+<h1 align="center">📸 ScreenGrabber for Enigma2</h1>
 
-![](https://komarev.com/ghpvc/?username=Belfagor2005)
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Version](https://img.shields.io/badge/Version-3.2-blue.svg)](https://github.com/Belfagor2005/ScreenGrabber)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python](https://img.shields.io/badge/Python-2.7%2F3.x-yellow.svg)](https://python.org)
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
+
 
 ---
 
