@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Itzuli"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Irudi bikubikoa aldatzea:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Utzi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ezabatu"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Gaituta"
 
 msgid "Files"
-msgstr ""
+msgstr "Fitxategiak"
 
 msgid "Files II"
-msgstr ""
+msgstr "Espedienteak II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Aspektu-erlazio finkoa 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Aspektu-erlazio finkoa:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hartu guztiak"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Disko gogorra"
 
 msgid "Help"
-msgstr ""
+msgstr "Laguntza"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Berde luzea"
 
 msgid "Long red"
-msgstr ""
+msgstr "Gorri luzea"
 
 msgid "Mute"
-msgstr ""
+msgstr "Isildu"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Sareko muntaia"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Ez dago argazki-fitxategi gehiago."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD soilik"
 
 msgid "Off"
-msgstr ""
+msgstr "Desaktibatuta"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview cachea:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview infolinea:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview begizta:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview diapositiba-denbora:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview testuaren kolorea:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Aurrebista"
 
 msgid "Radio"
-msgstr ""
+msgstr "Irratia"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Urruneko pantaila-argazkiaren botoia:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Kendu"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Berrabiarazi enigma2 ezarpen berriak kargatzeko?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Karpeta gordetzea:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Biltegiratzeko direktorioa ez dago erabilgarri"
 
 msgid "Text"
-msgstr ""
+msgstr "Testua"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp karpeta"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB gailua"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "BIDEOA soilik"
 
 msgid "Video"
-msgstr ""
+msgstr "Bideoa"
 
 msgid "Video only"
-msgstr ""
+msgstr "Bideoa soilik"
 
 msgid "better"
-msgstr ""
+msgstr "hobeto"
 
 msgid "black"
-msgstr ""
+msgstr "beltza"
 
 msgid "blue"
-msgstr ""
+msgstr "urdina"
 
 msgid "green"
-msgstr ""
+msgstr "berdea"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "kargatzen..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "itxaron mesedez, argazkia kargatzen..."
 
 msgid "red"
-msgstr ""
+msgstr "gorria"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "pantaila-argazkiaren formatua/kalitatea:"
 
 msgid "simple"
-msgstr ""
+msgstr "sinplea"
 
 msgid "trasparent"
-msgstr ""
+msgstr "gardena"
 
 msgid "yellow"
-msgstr ""
+msgstr "horia"

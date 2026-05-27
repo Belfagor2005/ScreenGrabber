@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "ബിഎംപി"
 
 msgid "Back"
-msgstr ""
+msgstr "തിരികെ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "ബിക്യൂബിക് ചിത്രത്തിൻ്റെ വലുപ്പം:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 msgid "Delete"
-msgstr ""
+msgstr "ഇല്ലാതാക്കുക"
 
 msgid "Enabled"
-msgstr ""
+msgstr "പ്രവർത്തനക്ഷമമാക്കി"
 
 msgid "Files"
-msgstr ""
+msgstr "ഫയലുകൾ"
 
 msgid "Files II"
-msgstr ""
+msgstr "ഫയലുകൾ II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "നിശ്ചിത വീക്ഷണാനുപാതം 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "നിശ്ചിത വീക്ഷണ അനുപാതം:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "എല്ലാം പിടിക്കുക"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ഹാർഡ് ഡ്രൈവ്"
 
 msgid "Help"
-msgstr ""
+msgstr "സഹായം"
 
 msgid "Info"
-msgstr ""
+msgstr "വിവരം"
 
 msgid "Long green"
-msgstr ""
+msgstr "നീണ്ട പച്ച"
 
 msgid "Long red"
-msgstr ""
+msgstr "നീണ്ട ചുവപ്പ്"
 
 msgid "Mute"
-msgstr ""
+msgstr "നിശബ്ദമാക്കുക"
 
 msgid "Network mount"
-msgstr ""
+msgstr "നെറ്റ്‌വർക്ക് മൗണ്ട്"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ഇനി ചിത്ര-ഫയലുകളൊന്നുമില്ല."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD മാത്രം"
 
 msgid "Off"
-msgstr ""
+msgstr "ഓഫ്"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "പിക്വ്യൂ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview കാഷെ:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview ഇൻഫോലൈൻ:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview ലൂപ്പ്:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview സ്ലൈഡ്ടൈം:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview ടെക്സ്റ്റ് നിറം:"
 
 msgid "Preview"
-msgstr ""
+msgstr "പ്രിവ്യൂ"
 
 msgid "Radio"
-msgstr ""
+msgstr "റേഡിയോ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "റിമോട്ട് സ്ക്രീൻഷോട്ട് ബട്ടൺ:"
 
 msgid "Remove"
-msgstr ""
+msgstr "നീക്കം ചെയ്യുക"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "പുതിയ ക്രമീകരണങ്ങൾ ലോഡുചെയ്യാൻ enigma2 പുനരാരംഭിക്കണോ?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "സംഭരിക്കുന്ന ഫോൾഡർ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "സംഭരണ ​​ഡയറക്‌ടറി ലഭ്യമല്ല"
 
 msgid "Text"
-msgstr ""
+msgstr "വാചകം"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ഫോൾഡർ"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ഉപകരണം"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "വീഡിയോ മാത്രം"
 
 msgid "Video"
-msgstr ""
+msgstr "വീഡിയോ"
 
 msgid "Video only"
-msgstr ""
+msgstr "വീഡിയോ മാത്രം"
 
 msgid "better"
-msgstr ""
+msgstr "മെച്ചപ്പെട്ട"
 
 msgid "black"
-msgstr ""
+msgstr "കറുപ്പ്"
 
 msgid "blue"
-msgstr ""
+msgstr "നീല"
 
 msgid "green"
-msgstr ""
+msgstr "പച്ച"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ലോഡ് ചെയ്യുന്നു..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ദയവായി കാത്തിരിക്കൂ, ചിത്രം ലോഡ് ചെയ്യുന്നു..."
 
 msgid "red"
-msgstr ""
+msgstr "ചുവപ്പ്"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് ഫോർമാറ്റ്/ഗുണനിലവാരം:"
 
 msgid "simple"
-msgstr ""
+msgstr "ലളിതമായ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "സുതാര്യമായ"
 
 msgid "yellow"
-msgstr ""
+msgstr "മഞ്ഞ"

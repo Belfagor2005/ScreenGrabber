@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Reen"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikuba bildo regrandigo:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Nuligi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ebligita"
 
 msgid "Files"
-msgstr ""
+msgstr "Dosieroj"
 
 msgid "Files II"
-msgstr ""
+msgstr "Dosieroj II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fiksa bildformato 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fiksa Bildformato:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Prenu Ĉion"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Malmola disko"
 
 msgid "Help"
-msgstr ""
+msgstr "Helpu"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Longa verda"
 
 msgid "Long red"
-msgstr ""
+msgstr "Longa ruĝa"
 
 msgid "Mute"
 msgstr ""
 
 msgid "Network mount"
-msgstr ""
+msgstr "Reta monto"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Ne plu bilddosieroj."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD nur"
 
 msgid "Off"
-msgstr ""
+msgstr "Malŝaltita"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview kaŝmemoro:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview infolinio:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview-buklo:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview slidetempo:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview tekstokoloro:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Antaŭrigardo"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Butono de fora ekrankopio:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Rekomenci enigma2 por ŝargi novajn agordojn?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Stokado de dosierujo:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Stoki dosierujon ne haveblas"
 
 msgid "Text"
-msgstr ""
+msgstr "Teksto"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp Dosierujo"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB Aparato"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Nur VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Nur video"
 
 msgid "better"
-msgstr ""
+msgstr "pli bone"
 
 msgid "black"
-msgstr ""
+msgstr "nigra"
 
 msgid "blue"
-msgstr ""
+msgstr "blua"
 
 msgid "green"
-msgstr ""
+msgstr "verda"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ŝarĝante..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "bonvolu atendi, ŝarĝante bildon..."
 
 msgid "red"
-msgstr ""
+msgstr "ruĝa"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "formato/kvalito de ekrankopio:"
 
 msgid "simple"
-msgstr ""
+msgstr "simpla"
 
 msgid "trasparent"
-msgstr ""
+msgstr "travidebla"
 
 msgid "yellow"
-msgstr ""
+msgstr "flava"

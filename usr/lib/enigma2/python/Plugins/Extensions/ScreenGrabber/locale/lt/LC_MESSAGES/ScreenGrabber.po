@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Atgal"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubinio paveikslėlio dydžio keitimas:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ištrinti"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Įjungta"
 
 msgid "Files"
-msgstr ""
+msgstr "Failai"
 
 msgid "Files II"
-msgstr ""
+msgstr "Failai II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fiksuotas formato santykis 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fiksuotas formato santykis:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Griebk Viską"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Kietasis diskas"
 
 msgid "Help"
-msgstr ""
+msgstr "Pagalba"
 
 msgid "Info"
-msgstr ""
+msgstr "Informacija"
 
 msgid "Long green"
-msgstr ""
+msgstr "Ilgai žalia"
 
 msgid "Long red"
-msgstr ""
+msgstr "Ilgas raudonas"
 
 msgid "Mute"
-msgstr ""
+msgstr "Nutildyti"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tinklo tvirtinimas"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Daugiau jokių nuotraukų failų."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Tik OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Išjungta"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "„Picview“ talpykla:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview informacinė linija:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Vaizdo peržiūros ciklas:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Vaizdo peržiūros trukmė:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Vaizdo peržiūros teksto spalva:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Peržiūra"
 
 msgid "Radio"
-msgstr ""
+msgstr "Radijas"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Nuotolinio ekrano kopijos mygtukas:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Iš naujo paleisti enigma2, kad įkeltumėte naujus nustatymus?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Saugojimo aplankas:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Katalogo saugojimas nepasiekiamas"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekstas"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp aplankas"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB įrenginys"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Tik VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Vaizdo įrašas"
 
 msgid "Video only"
-msgstr ""
+msgstr "Tik vaizdo įrašas"
 
 msgid "better"
-msgstr ""
+msgstr "geriau"
 
 msgid "black"
-msgstr ""
+msgstr "juodas"
 
 msgid "blue"
-msgstr ""
+msgstr "mėlyna"
 
 msgid "green"
-msgstr ""
+msgstr "žalias"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "įkeliama..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "prašome palaukti, įkeliama nuotrauka..."
 
 msgid "red"
-msgstr ""
+msgstr "raudona"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ekrano kopijos formatas / kokybė:"
 
 msgid "simple"
-msgstr ""
+msgstr "paprastas"
 
 msgid "trasparent"
-msgstr ""
+msgstr "skaidrus"
 
 msgid "yellow"
-msgstr ""
+msgstr "geltona"

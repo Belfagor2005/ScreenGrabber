@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Ändra storlek på bikubisk bild:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Avboka"
 
 msgid "Delete"
-msgstr ""
+msgstr "Radera"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverad"
 
 msgid "Files"
-msgstr ""
+msgstr "Filer"
 
 msgid "Files II"
-msgstr ""
+msgstr "Filer II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fast bildförhållande 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fast bildförhållande:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Ta tag i alla"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hårddisk"
 
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Lång grön"
 
 msgid "Long red"
-msgstr ""
+msgstr "Lång röd"
 
 msgid "Mute"
-msgstr ""
+msgstr "Stum"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Nätverksfäste"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Inga fler bildfiler."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Endast OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgid "PNG"
 msgstr ""
@@ -111,25 +111,25 @@ msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Bildvisningstid:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview textfärg:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Förhandsvisning"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Fjärrkontrollknapp för skärmdump:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Starta om enigma2 för att ladda nya inställningar?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Lagra mapp:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Lagring av katalog är inte tillgänglig"
 
 msgid "Text"
 msgstr ""
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp mapp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-enhet"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Endast VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Endast video"
 
 msgid "better"
-msgstr ""
+msgstr "bättre"
 
 msgid "black"
-msgstr ""
+msgstr "svart"
 
 msgid "blue"
-msgstr ""
+msgstr "blå"
 
 msgid "green"
-msgstr ""
+msgstr "grön"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "belastning..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "vänligen vänta, laddar bilden..."
 
 msgid "red"
-msgstr ""
+msgstr "röd"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "skärmdumpsformat/kvalitet:"
 
 msgid "simple"
-msgstr ""
+msgstr "enkel"
 
 msgid "trasparent"
-msgstr ""
+msgstr "genomskinlig"
 
 msgid "yellow"
-msgstr ""
+msgstr "gul"

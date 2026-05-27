@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Enrere"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Canvi de mida de la imatge bicúbica:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel·la"
 
 msgid "Delete"
-msgstr ""
+msgstr "Suprimeix"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitat"
 
 msgid "Files"
-msgstr ""
+msgstr "Fitxers"
 
 msgid "Files II"
-msgstr ""
+msgstr "Expedients II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Relació d'aspecte fixa 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Relació d'aspecte fixa:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Agafa-ho tot"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Disc dur"
 
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgid "Info"
-msgstr ""
+msgstr "Informació"
 
 msgid "Long green"
-msgstr ""
+msgstr "Verd llarg"
 
 msgid "Long red"
-msgstr ""
+msgstr "Vermell llarg"
 
 msgid "Mute"
-msgstr ""
+msgstr "Silenciar"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Muntatge en xarxa"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "No més fitxers d'imatge."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Només OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Apagat"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Memòria cau de Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Línia d'informació de Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Bucle Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Temps de visualització de diapositives:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Color del text Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Vista prèvia"
 
 msgid "Radio"
-msgstr ""
+msgstr "Ràdio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Botó de captura de pantalla remota:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Reinicieu enigma2 per carregar nous paràmetres?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Carpeta d'emmagatzematge:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "El directori d'emmagatzematge no està disponible"
 
 msgid "Text"
 msgstr ""
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Carpeta Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Dispositiu USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Només VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Només vídeo"
 
 msgid "better"
-msgstr ""
+msgstr "millor"
 
 msgid "black"
-msgstr ""
+msgstr "negre"
 
 msgid "blue"
-msgstr ""
+msgstr "blau"
 
 msgid "green"
-msgstr ""
+msgstr "verd"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "carregant..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "si us plau, espereu, carregant la imatge..."
 
 msgid "red"
-msgstr ""
+msgstr "vermell"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/qualitat de la captura de pantalla:"
 
 msgid "simple"
-msgstr ""
+msgstr "senzill"
 
 msgid "trasparent"
-msgstr ""
+msgstr "transparent"
 
 msgid "yellow"
-msgstr ""
+msgstr "groc"

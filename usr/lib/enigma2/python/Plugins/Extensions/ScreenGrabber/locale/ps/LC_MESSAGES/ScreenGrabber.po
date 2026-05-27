@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "شاته"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "د بایکوبیک عکس اندازه کول:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغوه کړئ"
 
 msgid "Delete"
-msgstr ""
+msgstr "ړنګول"
 
 msgid "Enabled"
-msgstr ""
+msgstr "فعال شوی"
 
 msgid "Files"
-msgstr ""
+msgstr "فایلونه"
 
 msgid "Files II"
-msgstr ""
+msgstr "دوتنې II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "ثابت اړخ نسبت 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "ثابت اړخ نسبت:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "ټول واخلئ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "هارډ ډرایو"
 
 msgid "Help"
-msgstr ""
+msgstr "مرسته"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Long green"
-msgstr ""
+msgstr "اوږده شنه"
 
 msgid "Long red"
-msgstr ""
+msgstr "اوږد سور"
 
 msgid "Mute"
-msgstr ""
+msgstr "خاموش"
 
 msgid "Network mount"
-msgstr ""
+msgstr "د شبکې نصبول"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "نور د عکس فایلونه نشته."
 
 msgid "OSD only"
-msgstr ""
+msgstr "یوازې OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "بند"
 
 msgid "PNG"
 msgstr ""
@@ -95,40 +95,40 @@ msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "د انځور لید bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "د انځور لید زیرمه:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "د انځور لید معلومات:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "د انځور لید لوپ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "د عکس سلایډ وخت:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "د انځور لید متن رنګ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "مخکتنه"
 
 msgid "Radio"
-msgstr ""
+msgstr "راډیو"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "د ریموټ سکرین شاټ تڼۍ:"
 
 msgid "Remove"
-msgstr ""
+msgstr "لرې کړئ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "د نوي تنظیماتو بارولو لپاره enigma2 بیا پیل کړئ؟"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "د ذخیره کولو فولډر:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "د ذخیره کولو لارښود شتون نلري"
 
 msgid "Text"
-msgstr ""
+msgstr "متن"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "د Tmp فولډر"
 
 msgid "USB Device"
-msgstr ""
+msgstr "د USB وسیله"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "یوازې ویډیو"
 
 msgid "Video"
-msgstr ""
+msgstr "ویډیو"
 
 msgid "Video only"
-msgstr ""
+msgstr "یوازې ویډیو"
 
 msgid "better"
-msgstr ""
+msgstr "ښه"
 
 msgid "black"
-msgstr ""
+msgstr "تور"
 
 msgid "blue"
-msgstr ""
+msgstr "آبي"
 
 msgid "green"
-msgstr ""
+msgstr "شین"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "بار کول..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "مهرباني وکړئ انتظار وکړئ، انځور پورته کول ..."
 
 msgid "red"
-msgstr ""
+msgstr "سور"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "د سکرین شاټ بڼه / کیفیت:"
 
 msgid "simple"
-msgstr ""
+msgstr "ساده"
 
 msgid "trasparent"
-msgstr ""
+msgstr "شفاف"
 
 msgid "yellow"
-msgstr ""
+msgstr "ژیړ"

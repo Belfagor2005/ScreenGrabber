@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Бозгашт"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Андозаи тасвири бикубӣ:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Бекор кардан"
 
 msgid "Delete"
-msgstr ""
+msgstr "Нобуд кунед"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Фаъол"
 
 msgid "Files"
-msgstr ""
+msgstr "Файлҳо"
 
 msgid "Files II"
-msgstr ""
+msgstr "Файлҳо II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Таносуби собит 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Таносуби собит:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Ҳамаро гиред"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Диски сахт"
 
 msgid "Help"
-msgstr ""
+msgstr "Кӯмак"
 
 msgid "Info"
-msgstr ""
+msgstr "Маълумот"
 
 msgid "Long green"
-msgstr ""
+msgstr "Сабз дароз"
 
 msgid "Long red"
-msgstr ""
+msgstr "Сурхи дароз"
 
 msgid "Mute"
-msgstr ""
+msgstr "Хомӯш кардан"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Монтажи шабака"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Дигар файлҳои тасвирӣ нест."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Танҳо OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Хомӯш"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Намоиши тасвирӣ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Кэши Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Намоиши иттилоотӣ:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Давраи Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Вақти намоиши слайд:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Ранги матни Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Пешнамоиш"
 
 msgid "Radio"
-msgstr ""
+msgstr "Радио"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Тугмаи скриншоти дурдаст:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Хориҷ кунед"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Барои бор кардани танзимоти нав enigma2-ро аз нав оғоз кунед?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Папкаи нигоҳдорӣ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Феҳристи нигоҳдорӣ дастрас нест"
 
 msgid "Text"
-msgstr ""
+msgstr "Матн"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Папкаи Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Дастгоҳи USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Танҳо ВИДЕО"
 
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 msgid "Video only"
-msgstr ""
+msgstr "Танҳо видео"
 
 msgid "better"
-msgstr ""
+msgstr "бехтар"
 
 msgid "black"
-msgstr ""
+msgstr "сиёҳ"
 
 msgid "blue"
-msgstr ""
+msgstr "кабуд"
 
 msgid "green"
-msgstr ""
+msgstr "сабз"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "бор карда мешавад..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "лутфан интизор шавед, тасвир бор карда мешавад..."
 
 msgid "red"
-msgstr ""
+msgstr "сурх"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "формат/сифати скриншот:"
 
 msgid "simple"
-msgstr ""
+msgstr "содда"
 
 msgid "trasparent"
-msgstr ""
+msgstr "шаффоф"
 
 msgid "yellow"
-msgstr ""
+msgstr "зард"

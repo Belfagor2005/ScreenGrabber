@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Lura"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Id-daqs tal-istampa bikubiku:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ikkanċella"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ħassar"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ippermettiet"
 
 msgid "Files"
-msgstr ""
+msgstr "Fajls"
 
 msgid "Files II"
-msgstr ""
+msgstr "Fajls II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Proporzjon tal-aspett fiss 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Proporzjon tal-aspett fiss:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Aqbad Kollha"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hard drive"
 
 msgid "Help"
-msgstr ""
+msgstr "Għajnuna"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Aħdar twil"
 
 msgid "Long red"
-msgstr ""
+msgstr "Aħmar twil"
 
 msgid "Mute"
 msgstr ""
 
 msgid "Network mount"
-msgstr ""
+msgstr "Immonta tan-netwerk"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Ebda aktar stampa-fajls."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD biss"
 
 msgid "Off"
-msgstr ""
+msgstr "Mitfi"
 
 msgid "PNG"
 msgstr ""
@@ -101,7 +101,7 @@ msgid "Picview cache:"
 msgstr ""
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Infoline Picview:"
 
 msgid "Picview loop:"
 msgstr ""
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Kulur tat-test Picview:"
 
 msgid "Preview"
 msgstr ""
 
 msgid "Radio"
-msgstr ""
+msgstr "Radju"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Buttuna ta' screenshot mill-bogħod:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Neħħi"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ibda mill-ġdid enigma2 biex tagħbija settings ġodda?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Folder tal-Ħżin:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Id-direttorju tal-ħażna mhuwiex disponibbli"
 
 msgid "Text"
-msgstr ""
+msgstr "Test"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Folder Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Apparat USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO biss"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Video biss"
 
 msgid "better"
-msgstr ""
+msgstr "aħjar"
 
 msgid "black"
-msgstr ""
+msgstr "iswed"
 
 msgid "blue"
-msgstr ""
+msgstr "blu"
 
 msgid "green"
-msgstr ""
+msgstr "aħdar"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "tagħbija..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "jekk jogħġbok stenna, tagħbija stampa..."
 
 msgid "red"
-msgstr ""
+msgstr "aħmar"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/kwalità ta' screenshot:"
 
 msgid "simple"
-msgstr ""
+msgstr "sempliċi"
 
 msgid "trasparent"
-msgstr ""
+msgstr "trasparenti"
 
 msgid "yellow"
-msgstr ""
+msgstr "isfar"

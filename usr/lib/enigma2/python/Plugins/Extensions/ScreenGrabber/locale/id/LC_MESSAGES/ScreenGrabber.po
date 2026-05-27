@@ -20,34 +20,34 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Pengubahan ukuran gambar bikubik:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 msgid "Delete"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Diaktifkan"
 
 msgid "Files"
-msgstr ""
+msgstr "File"
 
 msgid "Files II"
-msgstr ""
+msgstr "File II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Rasio Aspek Tetap 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Rasio Aspek Tetap:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Ambil Semua"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
@@ -56,31 +56,31 @@ msgid "Harddisk"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Membantu"
 
 msgid "Info"
-msgstr ""
+msgstr "Informasi"
 
 msgid "Long green"
-msgstr ""
+msgstr "Hijau panjang"
 
 msgid "Long red"
-msgstr ""
+msgstr "Merah panjang"
 
 msgid "Mute"
-msgstr ""
+msgstr "Bisu"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Pemasangan jaringan"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Tidak ada lagi file gambar."
 
 msgid "OSD only"
-msgstr ""
+msgstr "hanya OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Mati"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "tampilan gambar"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Tampilan gambar bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Tembolok tampilan gambar:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Saluran info tampilan gambar:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Lingkaran tampilan gambar:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Waktu slide tampilan gambar:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Warna teks tampilan gambar:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Pratinjau"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Tombol tangkapan layar jarak jauh:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Mulai ulang enigma2 untuk memuat pengaturan baru?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Folder Penyimpanan:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Direktori penyimpanan tidak tersedia"
 
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Folder Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Perangkat USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO saja"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Hanya video"
 
 msgid "better"
-msgstr ""
+msgstr "lebih baik"
 
 msgid "black"
-msgstr ""
+msgstr "hitam"
 
 msgid "blue"
-msgstr ""
+msgstr "biru"
 
 msgid "green"
-msgstr ""
+msgstr "hijau"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "memuat..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "harap tunggu, sedang memuat gambar..."
 
 msgid "red"
-msgstr ""
+msgstr "merah"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/kualitas tangkapan layar:"
 
 msgid "simple"
-msgstr ""
+msgstr "sederhana"
 
 msgid "trasparent"
-msgstr ""
+msgstr "transparan"
 
 msgid "yellow"
-msgstr ""
+msgstr "kuning"

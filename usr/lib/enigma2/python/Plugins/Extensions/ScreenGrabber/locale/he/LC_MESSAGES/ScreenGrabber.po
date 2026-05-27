@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "בְּחֲזָרָה"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "שינוי גודל תמונה דו-קובי:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "לְבַטֵל"
 
 msgid "Delete"
-msgstr ""
+msgstr "לִמְחוֹק"
 
 msgid "Enabled"
-msgstr ""
+msgstr "מופעל"
 
 msgid "Files"
-msgstr ""
+msgstr "קבצים"
 
 msgid "Files II"
-msgstr ""
+msgstr "קבצים II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "יחס גובה-רוחב קבוע 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "יחס גובה-רוחב קבוע:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "תפוס הכל"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "כונן קשיח"
 
 msgid "Help"
-msgstr ""
+msgstr "עֶזרָה"
 
 msgid "Info"
-msgstr ""
+msgstr "מידע"
 
 msgid "Long green"
-msgstr ""
+msgstr "ירוק ארוך"
 
 msgid "Long red"
-msgstr ""
+msgstr "אדום ארוך"
 
 msgid "Mute"
-msgstr ""
+msgstr "לְהַשְׁתִיק"
 
 msgid "Network mount"
-msgstr ""
+msgstr "תושבת לרשת"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "אין יותר קבצי תמונה."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD בלבד"
 
 msgid "Off"
-msgstr ""
+msgstr "כבוי"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "מטמון Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "ליין המידע של Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "לולאת Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "זמן השקופיות של Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "צבע טקסט של Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "תצוגה מקדימה"
 
 msgid "Radio"
-msgstr ""
+msgstr "רָדִיוֹ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "כפתור צילום מסך מרחוק:"
 
 msgid "Remove"
-msgstr ""
+msgstr "לְהַסִיר"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "להפעיל מחדש את enigma2 כדי לטעון הגדרות חדשות?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "אחסון תיקיה:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "אחסון ספרייה אינו זמין"
 
 msgid "Text"
-msgstr ""
+msgstr "טֶקסט"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "תיקיית Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "התקן USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "וידאו בלבד"
 
 msgid "Video"
-msgstr ""
+msgstr "וִידֵאוֹ"
 
 msgid "Video only"
-msgstr ""
+msgstr "וידאו בלבד"
 
 msgid "better"
-msgstr ""
+msgstr "לְשַׁפֵּר"
 
 msgid "black"
-msgstr ""
+msgstr "שָׁחוֹר"
 
 msgid "blue"
-msgstr ""
+msgstr "כְּחוֹל"
 
 msgid "green"
-msgstr ""
+msgstr "יָרוֹק"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "טְעִינָה..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "אנא המתן, טוען תמונה..."
 
 msgid "red"
-msgstr ""
+msgstr "אָדוֹם"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "פורמט/איכות צילום מסך:"
 
 msgid "simple"
-msgstr ""
+msgstr "פָּשׁוּט"
 
 msgid "trasparent"
-msgstr ""
+msgstr "שקוף"
 
 msgid "yellow"
-msgstr ""
+msgstr "צָהוֹב"

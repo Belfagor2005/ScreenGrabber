@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Ետ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Երկխորանարդ պատկերի չափափոխում."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Չեղարկել"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ջնջել"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Միացված է"
 
 msgid "Files"
-msgstr ""
+msgstr "Ֆայլեր"
 
 msgid "Files II"
-msgstr ""
+msgstr "Ֆայլեր II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Ֆիքսված ասպեկտի հարաբերակցություն 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Ֆիքսված ասպեկտի հարաբերակցություն."
 
 msgid "Grab All"
-msgstr ""
+msgstr "Գրավել բոլորը"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Կոշտ սկավառակ"
 
 msgid "Help"
-msgstr ""
+msgstr "Օգնություն"
 
 msgid "Info"
-msgstr ""
+msgstr "Ինֆո"
 
 msgid "Long green"
-msgstr ""
+msgstr "Երկար կանաչ"
 
 msgid "Long red"
-msgstr ""
+msgstr "Երկար կարմիր"
 
 msgid "Mute"
-msgstr ""
+msgstr "Խլացնել"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Ցանցի ամրացում"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Այլևս նկար-ֆայլեր չկան:"
 
 msgid "OSD only"
-msgstr ""
+msgstr "Միայն OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Անջատված"
 
 msgid "PNG"
 msgstr ""
@@ -98,13 +98,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview քեշ."
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview տեղեկատվական գիծ."
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview հանգույց."
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview տեքստի գույնը."
 
 msgid "Preview"
-msgstr ""
+msgstr "Նախադիտում"
 
 msgid "Radio"
-msgstr ""
+msgstr "Ռադիո"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Հեռավոր սքրինշոթ կոճակ."
 
 msgid "Remove"
-msgstr ""
+msgstr "Հեռացնել"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Վերագործարկե՞լ enigma2-ը՝ նոր կարգավորումներ բեռնելու համար:"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Պահպանման թղթապանակ."
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Պահպանման գրացուցակը հասանելի չէ"
 
 msgid "Text"
-msgstr ""
+msgstr "Տեքստ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp Թղթապանակ"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB սարք"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Միայն ՏԵՍԱՆՅՈՒԹ"
 
 msgid "Video"
-msgstr ""
+msgstr "Տեսանյութ"
 
 msgid "Video only"
-msgstr ""
+msgstr "Միայն տեսանյութ"
 
 msgid "better"
-msgstr ""
+msgstr "ավելի լավ"
 
 msgid "black"
-msgstr ""
+msgstr "սև"
 
 msgid "blue"
-msgstr ""
+msgstr "կապույտ"
 
 msgid "green"
-msgstr ""
+msgstr "կանաչ"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "բեռնում..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "խնդրում ենք սպասել, նկարը բեռնվում է..."
 
 msgid "red"
-msgstr ""
+msgstr "կարմիր"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "սքրինշոթի ձևաչափ/որակ."
 
 msgid "simple"
-msgstr ""
+msgstr "պարզ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "թափանցիկ"
 
 msgid "yellow"
-msgstr ""
+msgstr "դեղին"

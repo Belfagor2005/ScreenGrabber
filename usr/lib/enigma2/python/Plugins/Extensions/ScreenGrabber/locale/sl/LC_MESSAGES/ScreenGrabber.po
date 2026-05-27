@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Nazaj"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubična velikost slike:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Omogočeno"
 
 msgid "Files"
-msgstr ""
+msgstr "Datoteke"
 
 msgid "Files II"
-msgstr ""
+msgstr "Datoteke II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fiksno razmerje stranic 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fiksno razmerje stranic:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Zgrabi vse"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Trdi disk"
 
 msgid "Help"
-msgstr ""
+msgstr "pomoč"
 
 msgid "Info"
-msgstr ""
+msgstr "Informacije"
 
 msgid "Long green"
-msgstr ""
+msgstr "Dolga zelena"
 
 msgid "Long red"
-msgstr ""
+msgstr "Dolga rdeča"
 
 msgid "Mute"
 msgstr ""
 
 msgid "Network mount"
-msgstr ""
+msgstr "Omrežni nosilec"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Nič več slikovnih datotek."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Samo OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Izključeno"
 
 msgid "PNG"
 msgstr ""
@@ -99,13 +99,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview predpomnilnik:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Info vrstica Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview zanka:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -114,22 +114,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Barva besedila Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Predogled"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Gumb za oddaljeni posnetek zaslona:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstrani"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ponovno zagnati enigmo2 za nalaganje novih nastavitev?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Mapa za shranjevanje:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Imenik za shranjevanje ni na voljo"
 
 msgid "Text"
-msgstr ""
+msgstr "Besedilo"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Mapa Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Naprava USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Samo VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Samo video"
 
 msgid "better"
-msgstr ""
+msgstr "boljše"
 
 msgid "black"
-msgstr ""
+msgstr "črna"
 
 msgid "blue"
-msgstr ""
+msgstr "modra"
 
 msgid "green"
-msgstr ""
+msgstr "zelena"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "nalaganje..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "prosim počakajte, nalaganje slike ..."
 
 msgid "red"
-msgstr ""
+msgstr "rdeča"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/kakovost posnetka zaslona:"
 
 msgid "simple"
-msgstr ""
+msgstr "preprosto"
 
 msgid "trasparent"
-msgstr ""
+msgstr "prozoren"
 
 msgid "yellow"
-msgstr ""
+msgstr "rumena"

@@ -17,118 +17,118 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "骨形態發生蛋白"
 
 msgid "Back"
-msgstr ""
+msgstr "後退"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "雙三次圖片調整大小："
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 msgid "Enabled"
-msgstr ""
+msgstr "啟用"
 
 msgid "Files"
-msgstr ""
+msgstr "文件"
 
 msgid "Files II"
-msgstr ""
+msgstr "檔案二"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "固定寬高比 4:3："
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "固定縱橫比："
 
 msgid "Grab All"
-msgstr ""
+msgstr "全部搶奪"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "硬碟"
 
 msgid "Help"
-msgstr ""
+msgstr "幫助"
 
 msgid "Info"
-msgstr ""
+msgstr "資訊"
 
 msgid "Long green"
-msgstr ""
+msgstr "長綠色"
 
 msgid "Long red"
-msgstr ""
+msgstr "長紅"
 
 msgid "Mute"
-msgstr ""
+msgstr "沉默的"
 
 msgid "Network mount"
-msgstr ""
+msgstr "網路掛載"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "不再有圖片檔。"
 
 msgid "OSD only"
-msgstr ""
+msgstr "僅 OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "離開"
 
 msgid "PNG"
-msgstr ""
+msgstr "巴布亞紐幾內亞"
 
 msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "圖片瀏覽器"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Picview背景顏色："
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "圖片視圖快取："
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview 資訊線："
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "圖片視圖循環："
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview投影片時間："
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "圖片檢視文字顏色："
 
 msgid "Preview"
-msgstr ""
+msgstr "預覽"
 
 msgid "Radio"
-msgstr ""
+msgstr "收音機"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "遠端截圖按鈕："
 
 msgid "Remove"
-msgstr ""
+msgstr "消除"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "重新啟動 enigma2 來載入新設定？"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,73 +140,73 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "儲存資料夾："
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "儲存目錄不可用"
 
 msgid "Text"
-msgstr ""
+msgstr "文字"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "臨時資料夾"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB裝置"
 
 msgid "VIDEO only"
 msgstr ""
 
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 msgid "Video only"
-msgstr ""
+msgstr "僅視頻"
 
 msgid "better"
-msgstr ""
+msgstr "更好的"
 
 msgid "black"
-msgstr ""
+msgstr "黑色的"
 
 msgid "blue"
-msgstr ""
+msgstr "藍色的"
 
 msgid "green"
-msgstr ""
+msgstr "綠色的"
 
 msgid "jpg100"
-msgstr ""
+msgstr "jpg100張"
 
 msgid "jpg20"
-msgstr ""
+msgstr ".jpg20"
 
 msgid "jpg40"
-msgstr ""
+msgstr ".jpg40"
 
 msgid "jpg60"
-msgstr ""
+msgstr ".jpg60"
 
 msgid "jpg80"
-msgstr ""
+msgstr ".jpg80"
 
 msgid "loading..."
-msgstr ""
+msgstr "載入中..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "請稍候，正在加載圖片..."
 
 msgid "red"
-msgstr ""
+msgstr "紅色的"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "截圖格式/品質："
 
 msgid "simple"
-msgstr ""
+msgstr "簡單的"
 
 msgid "trasparent"
-msgstr ""
+msgstr "透明的"
 
 msgid "yellow"
-msgstr ""
+msgstr "黃色的"

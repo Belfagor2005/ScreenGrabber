@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Air ais"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Ath-mheudachadh dealbh bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Sguir dheth"
 
 msgid "Delete"
-msgstr ""
+msgstr "Sguab às"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Air a chomasachadh"
 
 msgid "Files"
-msgstr ""
+msgstr "Faidhlichean"
 
 msgid "Files II"
-msgstr ""
+msgstr "Faidhlichean II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Co-mheas taobh stèidhichte 4: 3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Co-mheas taobh stèidhichte:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Gabh a h-uile"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Dràibhear cruaidh"
 
 msgid "Help"
-msgstr ""
+msgstr "Cuideachadh"
 
 msgid "Info"
-msgstr ""
+msgstr "Fiosrachadh"
 
 msgid "Long green"
-msgstr ""
+msgstr "Fada uaine"
 
 msgid "Long red"
-msgstr ""
+msgstr "Dearg fada"
 
 msgid "Mute"
-msgstr ""
+msgstr "Mut"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Stàladh lìonra"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Chan eil barrachd fhaidhlichean dhealbhan ann."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD a-mhàin"
 
 msgid "Off"
-msgstr ""
+msgstr "dheth"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Sealladh picteil"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Dealbh bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Tasgadh Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Loidhne-fiosrachaidh Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Lùb Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Ùine sleamhnag Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Dath teacsa Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Ro-shealladh"
 
 msgid "Radio"
-msgstr ""
+msgstr "Rèidio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Putan glacadh-sgrìn iomallach:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Thoir air falbh"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ath-thòiseachadh enigma2 gus roghainnean ùra a luchdachadh?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,73 +140,73 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Pasgan stòraidh:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Chan eil eòlaire stòraidh ri fhaighinn"
 
 msgid "Text"
-msgstr ""
+msgstr "Teacs"
 
 msgid "Tmp Folder"
 msgstr ""
 
 msgid "USB Device"
-msgstr ""
+msgstr "Inneal USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO a-mhàin"
 
 msgid "Video"
-msgstr ""
+msgstr "Bhideo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Video a-mhàin"
 
 msgid "better"
-msgstr ""
+msgstr "nas fheàrr"
 
 msgid "black"
-msgstr ""
+msgstr "dubh"
 
 msgid "blue"
-msgstr ""
+msgstr "gorm"
 
 msgid "green"
-msgstr ""
+msgstr "uaine"
 
 msgid "jpg100"
-msgstr ""
+msgstr "jpg 100"
 
 msgid "jpg20"
 msgstr ""
 
 msgid "jpg40"
-msgstr ""
+msgstr "jpg 40"
 
 msgid "jpg60"
-msgstr ""
+msgstr "jpg 60"
 
 msgid "jpg80"
-msgstr ""
+msgstr "jpg 80"
 
 msgid "loading..."
-msgstr ""
+msgstr "a' luchdachadh..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "fuirich thusa mionaid gus a luchdadh a-nuas dealbh. ."
 
 msgid "red"
-msgstr ""
+msgstr "dearg"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "cruth / càileachd dealbh-sgrìn:"
 
 msgid "simple"
-msgstr ""
+msgstr "sìmplidh"
 
 msgid "trasparent"
-msgstr ""
+msgstr "follaiseach"
 
 msgid "yellow"
-msgstr ""
+msgstr "buidhe"

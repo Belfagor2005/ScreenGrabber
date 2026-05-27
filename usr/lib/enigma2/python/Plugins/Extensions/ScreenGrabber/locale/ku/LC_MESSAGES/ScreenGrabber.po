@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Paş"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Mezinahiya wêneya Bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bişûndekirin"
 
 msgid "Delete"
-msgstr ""
+msgstr "Jêbirin"
 
 msgid "Enabled"
 msgstr ""
 
 msgid "Files"
-msgstr ""
+msgstr "Pelên"
 
 msgid "Files II"
-msgstr ""
+msgstr "Pelên II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Rêjeya dîmenê ya rast 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Rêjeya Aspectê ya sabît:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hemî bigire"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hard drive"
 
 msgid "Help"
-msgstr ""
+msgstr "Alîkarî"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Dirêj kesk"
 
 msgid "Long red"
-msgstr ""
+msgstr "Dirêj sor"
 
 msgid "Mute"
-msgstr ""
+msgstr "Bêdeng"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tora mount"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Wêne-pelên din tune."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD tenê"
 
 msgid "Off"
-msgstr ""
+msgstr "Ji"
 
 msgid "PNG"
 msgstr ""
@@ -101,10 +101,10 @@ msgid "Picview cache:"
 msgstr ""
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Agahdariya Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Xala Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Rengê nivîsê Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Pêşnerîn"
 
 msgid "Radio"
-msgstr ""
+msgstr "Radyo"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Bişkojka dîmendera dûr:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dûrxistin"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ji bo barkirina mîhengên nû enigma2 ji nû ve bidin destpêkirin?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Peldanka hilanînê:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Peldanka hilanînê ne berdest e"
 
 msgid "Text"
-msgstr ""
+msgstr "Nivîstok"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Peldanka Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Cîhaza USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VÎDEO tenê"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Tenê vîdyoyê"
 
 msgid "better"
-msgstr ""
+msgstr "baştir"
 
 msgid "black"
-msgstr ""
+msgstr "reş"
 
 msgid "blue"
-msgstr ""
+msgstr "şîn"
 
 msgid "green"
-msgstr ""
+msgstr "kesk"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "barkirin..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Ji kerema xwe li bendê bin, wêneyê bar dike..."
 
 msgid "red"
-msgstr ""
+msgstr "sor"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "Format/kalîteya dîmenê:"
 
 msgid "simple"
-msgstr ""
+msgstr "asan"
 
 msgid "trasparent"
-msgstr ""
+msgstr "zelal"
 
 msgid "yellow"
-msgstr ""
+msgstr "zer"

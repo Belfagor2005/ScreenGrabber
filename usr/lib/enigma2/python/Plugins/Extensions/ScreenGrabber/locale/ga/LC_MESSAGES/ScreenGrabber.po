@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Ar ais"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Athraigh méid pictiúr bicúbach:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 msgid "Delete"
-msgstr ""
+msgstr "Scrios"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Cumasaithe"
 
 msgid "Files"
-msgstr ""
+msgstr "Comhaid"
 
 msgid "Files II"
-msgstr ""
+msgstr "Comhaid II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Cóimheas Gné Sheasta 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Cóimheas Gné Sheasta:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Grab Uile"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Tiomántán crua"
 
 msgid "Help"
-msgstr ""
+msgstr "Cabhrú"
 
 msgid "Info"
-msgstr ""
+msgstr "Eolas"
 
 msgid "Long green"
-msgstr ""
+msgstr "Fada glas"
 
 msgid "Long red"
-msgstr ""
+msgstr "Fada dearg"
 
 msgid "Mute"
-msgstr ""
+msgstr "Balbhaigh"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Suiteáil líonra"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Níl níos mó pictiúr-chomhaid."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD amháin"
 
 msgid "Off"
-msgstr ""
+msgstr "as"
 
 msgid "PNG"
 msgstr ""
@@ -90,7 +90,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Amharc Pictiúr"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Taisce Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Líne faisnéise Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Lúb Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Am sleamhnáin Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Dath téacs Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Réamhamharc"
 
 msgid "Radio"
-msgstr ""
+msgstr "Raidió"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Cnaipe scáileáin cianda:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Bain"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Atosaigh enigma2 chun socruithe nua a luchtú?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,73 +141,73 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Fillteán Stórála:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Níl an t-eolaire stórála ar fáil"
 
 msgid "Text"
-msgstr ""
+msgstr "Téacs"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Fillteán Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Gléas USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO amháin"
 
 msgid "Video"
-msgstr ""
+msgstr "Físeán"
 
 msgid "Video only"
-msgstr ""
+msgstr "Físeán amháin"
 
 msgid "better"
-msgstr ""
+msgstr "níos fearr"
 
 msgid "black"
-msgstr ""
+msgstr "dubh"
 
 msgid "blue"
-msgstr ""
+msgstr "gorm"
 
 msgid "green"
-msgstr ""
+msgstr "glas"
 
 msgid "jpg100"
-msgstr ""
+msgstr "jpg 100"
 
 msgid "jpg20"
 msgstr ""
 
 msgid "jpg40"
-msgstr ""
+msgstr "jpg 40"
 
 msgid "jpg60"
-msgstr ""
+msgstr "jpg 60"
 
 msgid "jpg80"
-msgstr ""
+msgstr "jpg 80"
 
 msgid "loading..."
-msgstr ""
+msgstr "ag lódáil..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Fan go fóill, pictiúr á lódáil..."
 
 msgid "red"
-msgstr ""
+msgstr "dearg"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "formáid/cáilíocht scáileáin:"
 
 msgid "simple"
-msgstr ""
+msgstr "simplí"
 
 msgid "trasparent"
-msgstr ""
+msgstr "trédhearcach"
 
 msgid "yellow"
-msgstr ""
+msgstr "buí"

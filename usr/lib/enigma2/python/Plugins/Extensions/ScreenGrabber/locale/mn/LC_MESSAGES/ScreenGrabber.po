@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Буцах"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Бикуб зургийн хэмжээг өөрчлөх:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Цуцлах"
 
 msgid "Delete"
-msgstr ""
+msgstr "Устгах"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Идэвхжүүлсэн"
 
 msgid "Files"
-msgstr ""
+msgstr "Файлууд"
 
 msgid "Files II"
-msgstr ""
+msgstr "Файлууд II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Тогтмол талуудын харьцаа 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Тогтмол харьцаа:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Бүгдийг нь тат"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Хатуу диск"
 
 msgid "Help"
-msgstr ""
+msgstr "Туслаач"
 
 msgid "Info"
-msgstr ""
+msgstr "Мэдээлэл"
 
 msgid "Long green"
-msgstr ""
+msgstr "Урт ногоон"
 
 msgid "Long red"
-msgstr ""
+msgstr "Урт улаан"
 
 msgid "Mute"
-msgstr ""
+msgstr "Дууг хаах"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Сүлжээний холболт"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Зургийн файл байхгүй."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Зөвхөн OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Унтраах"
 
 msgid "PNG"
 msgstr ""
@@ -95,40 +95,40 @@ msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "bgcolor Picview:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview кэш:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Зургийг харах мэдээллийн шугам:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Зургийг үзэх гогцоо:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Зураг үзэх слайд:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Зургийн текстийн өнгө:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Урьдчилан үзэх"
 
 msgid "Radio"
-msgstr ""
+msgstr "Радио"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Алсын дэлгэцийн товчлуур:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Устгах"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Шинэ тохиргоог ачаалахын тулд enigma2-г дахин эхлүүлэх үү?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Хадгалах хавтас:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Хадгалах лавлах боломжгүй"
 
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp хавтас"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB төхөөрөмж"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Зөвхөн VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 msgid "Video only"
-msgstr ""
+msgstr "Зөвхөн видео"
 
 msgid "better"
-msgstr ""
+msgstr "илүү сайн"
 
 msgid "black"
-msgstr ""
+msgstr "хар"
 
 msgid "blue"
-msgstr ""
+msgstr "цэнхэр"
 
 msgid "green"
-msgstr ""
+msgstr "ногоон"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ачаалж байна..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "түр хүлээнэ үү, зургийг ачаалж байна..."
 
 msgid "red"
-msgstr ""
+msgstr "улаан"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "дэлгэцийн зургийн формат/чанар:"
 
 msgid "simple"
-msgstr ""
+msgstr "энгийн"
 
 msgid "trasparent"
-msgstr ""
+msgstr "ил тод"
 
 msgid "yellow"
-msgstr ""
+msgstr "шар"

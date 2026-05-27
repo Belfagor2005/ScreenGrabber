@@ -21,34 +21,34 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Endre størrelse på bikubisk bilde:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kansellere"
 
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivert"
 
 msgid "Files"
-msgstr ""
+msgstr "Filer"
 
 msgid "Files II"
-msgstr ""
+msgstr "Filer II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fast sideforhold 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fast sideforhold:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Ta tak i alle"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
@@ -57,31 +57,31 @@ msgid "Harddisk"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Lang grønn"
 
 msgid "Long red"
-msgstr ""
+msgstr "Lang rød"
 
 msgid "Mute"
-msgstr ""
+msgstr "Stum"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Nettverksfeste"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Ingen flere bildefiler."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Bare OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgid "PNG"
 msgstr ""
@@ -90,7 +90,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Bildevisning"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -111,25 +111,25 @@ msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Bildevisningstid:"
 
 msgid "Picview textcolor:"
 msgstr ""
 
 msgid "Preview"
-msgstr ""
+msgstr "Forhåndsvisning"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Fjernkontrollknapp for skjermbilde:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjerne"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Start enigma2 på nytt for å laste inn nye innstillinger?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Lagringsmappe:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Lagring av katalog er ikke tilgjengelig"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp-mappe"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-enhet"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Kun VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Kun video"
 
 msgid "better"
-msgstr ""
+msgstr "bedre"
 
 msgid "black"
-msgstr ""
+msgstr "svart"
 
 msgid "blue"
-msgstr ""
+msgstr "blå"
 
 msgid "green"
-msgstr ""
+msgstr "grønn"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "laster inn..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "vennligst vent, laster inn bildet..."
 
 msgid "red"
-msgstr ""
+msgstr "rød"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "skjermbildeformat/kvalitet:"
 
 msgid "simple"
-msgstr ""
+msgstr "enkel"
 
 msgid "trasparent"
-msgstr ""
+msgstr "gjennomsiktig"
 
 msgid "yellow"
-msgstr ""
+msgstr "gul"

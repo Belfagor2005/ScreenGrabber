@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "Veículo de combate de infantaria"
 
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Redimensionamento de imagem bicúbica:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Delete"
-msgstr ""
+msgstr "Excluir"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitado"
 
 msgid "Files"
-msgstr ""
+msgstr "Arquivos"
 
 msgid "Files II"
-msgstr ""
+msgstr "Arquivos II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Proporção fixa 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Proporção fixa:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Pegue tudo"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Disco rígido"
 
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgid "Info"
-msgstr ""
+msgstr "Informações"
 
 msgid "Long green"
-msgstr ""
+msgstr "Verde longo"
 
 msgid "Long red"
-msgstr ""
+msgstr "Vermelho longo"
 
 msgid "Mute"
-msgstr ""
+msgstr "Mudo"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montagem em rede"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Não há mais arquivos de imagem."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Somente OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Desligado"
 
 msgid "PNG"
-msgstr ""
+msgstr "png"
 
 msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Visualização de imagem"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Cache de visualização de imagem:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Linha de informações do Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Loop de visualização de imagem:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Tempo de slide do Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Cor do texto do Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Visualização"
 
 msgid "Radio"
-msgstr ""
+msgstr "Rádio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Botão de captura de tela remota:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Reinicie o enigma2 para carregar novas configurações?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Pasta de armazenamento:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "O diretório de armazenamento não está disponível"
 
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Pasta Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Dispositivo USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Somente VÍDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Somente vídeo"
 
 msgid "better"
-msgstr ""
+msgstr "melhorar"
 
 msgid "black"
-msgstr ""
+msgstr "preto"
 
 msgid "blue"
-msgstr ""
+msgstr "azul"
 
 msgid "green"
-msgstr ""
+msgstr "verde"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "carregando..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "aguarde, carregando foto..."
 
 msgid "red"
-msgstr ""
+msgstr "vermelho"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "formato/qualidade da captura de tela:"
 
 msgid "simple"
-msgstr ""
+msgstr "simples"
 
 msgid "trasparent"
-msgstr ""
+msgstr "transparente"
 
 msgid "yellow"
-msgstr ""
+msgstr "amarelo"

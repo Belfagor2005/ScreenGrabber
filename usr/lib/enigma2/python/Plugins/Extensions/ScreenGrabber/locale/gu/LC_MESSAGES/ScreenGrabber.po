@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "પાછળ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "બાયક્યુબિક ચિત્રનું કદ બદલો:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "રદ કરો"
 
 msgid "Delete"
-msgstr ""
+msgstr "કાઢી નાખો"
 
 msgid "Enabled"
-msgstr ""
+msgstr "સક્ષમ"
 
 msgid "Files"
-msgstr ""
+msgstr "ફાઇલો"
 
 msgid "Files II"
-msgstr ""
+msgstr "ફાઇલો II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "નિશ્ચિત પાસા રેશિયો 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "સ્થિર પાસા ગુણોત્તર:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "બધાને પકડો"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "હાર્ડ ડ્રાઈવ"
 
 msgid "Help"
-msgstr ""
+msgstr "મદદ"
 
 msgid "Info"
-msgstr ""
+msgstr "માહિતી"
 
 msgid "Long green"
-msgstr ""
+msgstr "લાંબી લીલા"
 
 msgid "Long red"
-msgstr ""
+msgstr "લાંબો લાલ"
 
 msgid "Mute"
-msgstr ""
+msgstr "મ્યૂટ કરો"
 
 msgid "Network mount"
-msgstr ""
+msgstr "નેટવર્ક માઉન્ટ"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "વધુ ચિત્ર-ફાઈલો નથી."
 
 msgid "OSD only"
-msgstr ""
+msgstr "માત્ર OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "બંધ"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview કૅશ:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "પિકવ્યૂ ઇન્ફોલાઇન:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview લૂપ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "પિકવ્યૂ સ્લાઇડટાઇમ:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview ટેક્સ્ટનો રંગ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "પૂર્વાવલોકન"
 
 msgid "Radio"
-msgstr ""
+msgstr "રેડિયો"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "દૂરસ્થ સ્ક્રીનશૉટ બટન:"
 
 msgid "Remove"
-msgstr ""
+msgstr "દૂર કરો"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "નવી સેટિંગ્સ લોડ કરવા માટે enigma2 પુનઃપ્રારંભ કરીએ?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "સંગ્રહિત ફોલ્ડર:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "સ્ટોરિંગ ડિરેક્ટરી ઉપલબ્ધ નથી"
 
 msgid "Text"
-msgstr ""
+msgstr "ટેક્સ્ટ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ફોલ્ડર"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ઉપકરણ"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "માત્ર VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "વિડિયો"
 
 msgid "Video only"
-msgstr ""
+msgstr "માત્ર વિડિયો"
 
 msgid "better"
-msgstr ""
+msgstr "વધુ સારું"
 
 msgid "black"
-msgstr ""
+msgstr "કાળો"
 
 msgid "blue"
-msgstr ""
+msgstr "વાદળી"
 
 msgid "green"
-msgstr ""
+msgstr "લીલો"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "લોડ કરી રહ્યું છે..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "કૃપા કરીને રાહ જુઓ, ચિત્ર લોડ કરી રહ્યું છે..."
 
 msgid "red"
-msgstr ""
+msgstr "લાલ"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "સ્ક્રીનશોટ ફોર્મેટ/ગુણવત્તા:"
 
 msgid "simple"
-msgstr ""
+msgstr "સરળ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "પારદર્શક"
 
 msgid "yellow"
-msgstr ""
+msgstr "પીળો"

@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "뒤쪽에"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "쌍입방 그림 크기 조정:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 msgid "Enabled"
-msgstr ""
+msgstr "활성화됨"
 
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 msgid "Files II"
-msgstr ""
+msgstr "파일 II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "고정 화면비 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "고정 종횡비:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "모두 잡아"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "하드 드라이브"
 
 msgid "Help"
-msgstr ""
+msgstr "돕다"
 
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 msgid "Long green"
-msgstr ""
+msgstr "롱 그린"
 
 msgid "Long red"
-msgstr ""
+msgstr "롱 레드"
 
 msgid "Mute"
-msgstr ""
+msgstr "무음"
 
 msgid "Network mount"
-msgstr ""
+msgstr "네트워크 마운트"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "더 이상 사진 파일이 없습니다."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD 전용"
 
 msgid "Off"
-msgstr ""
+msgstr "끄다"
 
 msgid "PNG"
 msgstr ""
@@ -90,46 +90,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "픽뷰"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Picview 배경색상:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview 캐시:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview 정보라인:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview 루프:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview 슬라이드타임:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview 텍스트 색상:"
 
 msgid "Preview"
-msgstr ""
+msgstr "시사"
 
 msgid "Radio"
-msgstr ""
+msgstr "라디오"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "원격 스크린샷 버튼:"
 
 msgid "Remove"
-msgstr ""
+msgstr "제거하다"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "새로운 설정을 로드하려면 enigma2를 다시 시작하시겠습니까?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "저장 폴더:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "저장 디렉터리를 사용할 수 없습니다."
 
 msgid "Text"
-msgstr ""
+msgstr "텍스트"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "TMP 폴더"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB 장치"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "비디오만"
 
 msgid "Video"
-msgstr ""
+msgstr "동영상"
 
 msgid "Video only"
-msgstr ""
+msgstr "비디오만"
 
 msgid "better"
-msgstr ""
+msgstr "더 나은"
 
 msgid "black"
-msgstr ""
+msgstr "검은색"
 
 msgid "blue"
-msgstr ""
+msgstr "파란색"
 
 msgid "green"
-msgstr ""
+msgstr "녹색"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "로드 중..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "사진을 로드하는 중입니다..."
 
 msgid "red"
-msgstr ""
+msgstr "빨간색"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "스크린샷 형식/품질:"
 
 msgid "simple"
-msgstr ""
+msgstr "단순한"
 
 msgid "trasparent"
-msgstr ""
+msgstr "투명한"
 
 msgid "yellow"
-msgstr ""
+msgstr "노란색"

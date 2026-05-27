@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Atpakaļ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubiskā attēla izmēra maiņa:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atcelt"
 
 msgid "Delete"
-msgstr ""
+msgstr "Dzēst"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Iespējots"
 
 msgid "Files"
-msgstr ""
+msgstr "Faili"
 
 msgid "Files II"
-msgstr ""
+msgstr "Faili II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fiksēta malu attiecība 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fiksēta malu attiecība:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Grab visu"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Cietais disks"
 
 msgid "Help"
-msgstr ""
+msgstr "Palīdzība"
 
 msgid "Info"
-msgstr ""
+msgstr "Informācija"
 
 msgid "Long green"
-msgstr ""
+msgstr "Gari zaļš"
 
 msgid "Long red"
-msgstr ""
+msgstr "Garš sarkans"
 
 msgid "Mute"
-msgstr ""
+msgstr "Izslēgt skaņu"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tīkla stiprinājums"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Vairs nav attēlu failu."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Tikai OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Izslēgts"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview kešatmiņa:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview infolīnija:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Attēla skata cilpa:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Attēla slaida laiks:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Attēla skata teksta krāsa:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Priekšskatījums"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Attālā ekrānuzņēmuma poga:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Noņemt"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Vai restartēt enigma2, lai ielādētu jaunus iestatījumus?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Uzglabāšanas mape:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Uzglabāšanas direktorijs nav pieejams"
 
 msgid "Text"
-msgstr ""
+msgstr "Teksts"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp mape"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ierīce"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Tikai VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Tikai video"
 
 msgid "better"
-msgstr ""
+msgstr "labāk"
 
 msgid "black"
-msgstr ""
+msgstr "melns"
 
 msgid "blue"
-msgstr ""
+msgstr "zils"
 
 msgid "green"
-msgstr ""
+msgstr "zaļš"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "tiek ielādēts..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "lūdzu uzgaidiet, tiek ielādēts attēls..."
 
 msgid "red"
-msgstr ""
+msgstr "sarkans"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ekrānuzņēmuma formāts/kvalitāte:"
 
 msgid "simple"
-msgstr ""
+msgstr "vienkārši"
 
 msgid "trasparent"
-msgstr ""
+msgstr "caurspīdīgs"
 
 msgid "yellow"
-msgstr ""
+msgstr "dzeltens"

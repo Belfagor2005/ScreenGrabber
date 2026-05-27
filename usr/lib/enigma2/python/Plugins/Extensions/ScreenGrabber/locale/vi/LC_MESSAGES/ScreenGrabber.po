@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Thay đổi kích thước hình ảnh bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 msgid "Files"
-msgstr ""
+msgstr "Tập tin"
 
 msgid "Files II"
-msgstr ""
+msgstr "Tập tin II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Tỷ lệ khung hình cố định 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Tỷ lệ khung hình cố định:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Lấy tất cả"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Ổ cứng"
 
 msgid "Help"
-msgstr ""
+msgstr "Giúp đỡ"
 
 msgid "Info"
-msgstr ""
+msgstr "Thông tin"
 
 msgid "Long green"
-msgstr ""
+msgstr "Màu xanh lá cây dài"
 
 msgid "Long red"
-msgstr ""
+msgstr "Màu đỏ dài"
 
 msgid "Mute"
-msgstr ""
+msgstr "Tắt tiếng"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Gắn mạng"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Không còn tập tin hình ảnh."
 
 msgid "OSD only"
-msgstr ""
+msgstr "chỉ OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Tắt"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Bộ đệm Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Đường dây thông tin Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Vòng lặp Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Thời gian trượt Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Màu văn bản Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Xem trước"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Nút chụp màn hình từ xa:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Khởi động lại engma2 để tải cài đặt mới?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Thư mục lưu trữ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Thư mục lưu trữ không có sẵn"
 
 msgid "Text"
-msgstr ""
+msgstr "Chữ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Thư mục tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Thiết bị USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "chỉ VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Băng hình"
 
 msgid "Video only"
-msgstr ""
+msgstr "Chỉ video"
 
 msgid "better"
-msgstr ""
+msgstr "tốt hơn"
 
 msgid "black"
-msgstr ""
+msgstr "đen"
 
 msgid "blue"
-msgstr ""
+msgstr "màu xanh da trời"
 
 msgid "green"
-msgstr ""
+msgstr "màu xanh lá"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "đang tải..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "vui lòng đợi, đang tải ảnh..."
 
 msgid "red"
-msgstr ""
+msgstr "màu đỏ"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "định dạng/chất lượng ảnh chụp màn hình:"
 
 msgid "simple"
-msgstr ""
+msgstr "đơn giản"
 
 msgid "trasparent"
-msgstr ""
+msgstr "trong suốt"
 
 msgid "yellow"
-msgstr ""
+msgstr "màu vàng"

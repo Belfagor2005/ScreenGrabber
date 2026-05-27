@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "במפּ"
 
 msgid "Back"
-msgstr ""
+msgstr "צוריק"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "גרייס פון ביקוביק בילד:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "באָטל מאַכן"
 
 msgid "Delete"
-msgstr ""
+msgstr "ויסמעקן"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ענאַבלעד"
 
 msgid "Files"
-msgstr ""
+msgstr "טעקעס"
 
 msgid "Files II"
-msgstr ""
+msgstr "טעקעס וו"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "פאַרפעסטיקט אַספּעקט פאַרהעלטעניש 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "פאַרפעסטיקט אַספּעקט פאַרהעלטעניש:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "כאַפּן אַלע"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "שווער פאָר"
 
 msgid "Help"
-msgstr ""
+msgstr "הילף"
 
 msgid "Info"
-msgstr ""
+msgstr "אינפֿאָרמאַציע"
 
 msgid "Long green"
-msgstr ""
+msgstr "לאנג גרין"
 
 msgid "Long red"
-msgstr ""
+msgstr "לאנג רויט"
 
 msgid "Mute"
-msgstr ""
+msgstr "שטום"
 
 msgid "Network mount"
-msgstr ""
+msgstr "נעץ אָנקלאַפּן"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ניט מער בילד-פיילס."
 
 msgid "OSD only"
-msgstr ""
+msgstr "בלויז OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "אַוועק"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "פּיקוויעוו"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,13 +98,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "פּיקוויעוו קאַש:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview אינפֿאָרמאַציע:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "פּיקוויעוו שלייף:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -113,16 +113,16 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "פּיקוויעוו טעקסט קאָליר:"
 
 msgid "Preview"
-msgstr ""
+msgstr "פאָרויסיקע ווייַזונג"
 
 msgid "Radio"
-msgstr ""
+msgstr "ראַדיאָ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ווייַט סקרעענשאָט קנעפּל:"
 
 msgid "Remove"
 msgstr ""
@@ -143,37 +143,37 @@ msgid "Storing Folder:"
 msgstr ""
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "סטאָרינג וועגווייַזער איז ניט בנימצא"
 
 msgid "Text"
-msgstr ""
+msgstr "טעקסט"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "טמפּ טעקע"
 
 msgid "USB Device"
-msgstr ""
+msgstr "וסב דיווייס"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "בלויז ווידעא"
 
 msgid "Video"
-msgstr ""
+msgstr "ווידעא"
 
 msgid "Video only"
-msgstr ""
+msgstr "בלויז ווידעא"
 
 msgid "better"
-msgstr ""
+msgstr "בעסער"
 
 msgid "black"
-msgstr ""
+msgstr "שוואַרץ"
 
 msgid "blue"
-msgstr ""
+msgstr "בלוי"
 
 msgid "green"
-msgstr ""
+msgstr "גרין"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "לאָודינג ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ביטע וואַרטן, לאָודינג בילד ..."
 
 msgid "red"
-msgstr ""
+msgstr "רויט"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "סקרעענשאָט פֿאָרמאַט / קוואַליטעט:"
 
 msgid "simple"
-msgstr ""
+msgstr "פּשוט"
 
 msgid "trasparent"
-msgstr ""
+msgstr "טראַנספּאַרענט"
 
 msgid "yellow"
-msgstr ""
+msgstr "געל"

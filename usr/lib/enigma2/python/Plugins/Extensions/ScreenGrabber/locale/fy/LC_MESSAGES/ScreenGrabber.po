@@ -20,31 +20,31 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Rêch"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubyske ôfbylding feroarje grutte:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ofbrekke"
 
 msgid "Delete"
-msgstr ""
+msgstr "Wiskje"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ynskeakele"
 
 msgid "Files"
-msgstr ""
+msgstr "Bestannen"
 
 msgid "Files II"
 msgstr ""
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fêste aspektferhâlding 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fêste aspektferhâlding:"
 
 msgid "Grab All"
 msgstr ""
@@ -53,7 +53,7 @@ msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hurde skiif"
 
 msgid "Help"
 msgstr ""
@@ -62,25 +62,25 @@ msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Lang grien"
 
 msgid "Long red"
-msgstr ""
+msgstr "Lang read"
 
 msgid "Mute"
 msgstr ""
 
 msgid "Network mount"
-msgstr ""
+msgstr "Netwurk mount"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Gjin foto-bestannen mear."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD allinich"
 
 msgid "Off"
-msgstr ""
+msgstr "Út"
 
 msgid "PNG"
 msgstr ""
@@ -95,7 +95,7 @@ msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Foto bgcolor:"
 
 msgid "Picview cache:"
 msgstr ""
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview tekstkleur:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Foarbyld"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Skermprintknop op ôfstân:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fuortsmite"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Enigma2 opnij starte om nije ynstellings te laden?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Folder opslaan:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Opslaan triemtafel is net beskikber"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgid "Tmp Folder"
 msgstr ""
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-apparaat"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Allinnich VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Allinnich fideo"
 
 msgid "better"
 msgstr ""
 
 msgid "black"
-msgstr ""
+msgstr "swart"
 
 msgid "blue"
-msgstr ""
+msgstr "blau"
 
 msgid "green"
-msgstr ""
+msgstr "grien"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "laden..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "wachtsje asjebleaft, foto laden ..."
 
 msgid "red"
-msgstr ""
+msgstr "read"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "skermprintformaat/kwaliteit:"
 
 msgid "simple"
-msgstr ""
+msgstr "ienfâldich"
 
 msgid "trasparent"
-msgstr ""
+msgstr "trochsichtich"
 
 msgid "yellow"
-msgstr ""
+msgstr "giel"

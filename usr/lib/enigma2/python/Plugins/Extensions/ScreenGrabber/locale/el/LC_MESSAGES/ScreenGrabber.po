@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Αλλαγή μεγέθους δικυβικής εικόνας:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ματαίωση"
 
 msgid "Delete"
-msgstr ""
+msgstr "Διαγράφω"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ενεργοποιημένο"
 
 msgid "Files"
-msgstr ""
+msgstr "Αρχεία"
 
 msgid "Files II"
-msgstr ""
+msgstr "Αρχεία II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Σταθερή αναλογία διαστάσεων 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Σταθερός λόγος διαστάσεων:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Αρπάξτε όλα"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Σκληρός δίσκος"
 
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 msgid "Info"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "Long green"
-msgstr ""
+msgstr "Μακρύ πράσινο"
 
 msgid "Long red"
-msgstr ""
+msgstr "Μακρύ κόκκινο"
 
 msgid "Mute"
-msgstr ""
+msgstr "Βουβός"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Βάση δικτύου"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Όχι άλλα αρχεία εικόνων."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Μόνο OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Μακριά από"
 
 msgid "PNG"
 msgstr ""
@@ -99,13 +99,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Προσωρινή μνήμη Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Γραμμή πληροφοριών Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Βρόχος Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -114,22 +114,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Χρώμα κειμένου Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Πρεμιέρα"
 
 msgid "Radio"
-msgstr ""
+msgstr "Ραδιόφωνο"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Κουμπί απομακρυσμένου στιγμιότυπου οθόνης:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Αφαιρώ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Επανεκκίνηση του enigma2 για φόρτωση νέων ρυθμίσεων;"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Φάκελος αποθήκευσης:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Ο κατάλογος αποθήκευσης δεν είναι διαθέσιμος"
 
 msgid "Text"
-msgstr ""
+msgstr "Κείμενο"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Φάκελος Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Συσκευή USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Μόνο ΒΙΝΤΕΟ"
 
 msgid "Video"
-msgstr ""
+msgstr "Βίντεο"
 
 msgid "Video only"
-msgstr ""
+msgstr "Μόνο βίντεο"
 
 msgid "better"
-msgstr ""
+msgstr "καλύτερα"
 
 msgid "black"
-msgstr ""
+msgstr "μαύρος"
 
 msgid "blue"
-msgstr ""
+msgstr "μπλε"
 
 msgid "green"
-msgstr ""
+msgstr "πράσινος"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "φόρτωση..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Παρακαλώ περιμένετε, φόρτωση εικόνας..."
 
 msgid "red"
-msgstr ""
+msgstr "κόκκινος"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "Μορφή/ποιότητα στιγμιότυπου οθόνης:"
 
 msgid "simple"
-msgstr ""
+msgstr "απλός"
 
 msgid "trasparent"
-msgstr ""
+msgstr "διαφανής"
 
 msgid "yellow"
-msgstr ""
+msgstr "κίτρινος"

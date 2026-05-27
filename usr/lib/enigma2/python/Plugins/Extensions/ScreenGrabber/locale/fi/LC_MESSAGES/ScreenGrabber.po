@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic-kuvan koon muuttaminen:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuttaa"
 
 msgid "Delete"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Käytössä"
 
 msgid "Files"
-msgstr ""
+msgstr "Tiedostot"
 
 msgid "Files II"
-msgstr ""
+msgstr "Tiedostot II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Kiinteä kuvasuhde 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Kiinteä kuvasuhde:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Tartu kaikkiin"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Kiintolevy"
 
 msgid "Help"
-msgstr ""
+msgstr "Auttaa"
 
 msgid "Info"
-msgstr ""
+msgstr "Tiedot"
 
 msgid "Long green"
-msgstr ""
+msgstr "Pitkä vihreä"
 
 msgid "Long red"
-msgstr ""
+msgstr "Pitkä punainen"
 
 msgid "Mute"
-msgstr ""
+msgstr "Mykistä"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Verkkokiinnitys"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Ei enää kuvatiedostoja."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Vain OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Pois"
 
 msgid "PNG"
 msgstr ""
@@ -90,46 +90,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Kuvanäkymä"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Kuvanäkymä bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Kuvanäkymän välimuisti:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Kuvanäkymän infoline:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Kuvasilmukka:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Kuvan dia-aika:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Kuvanäkymän tekstin väri:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Esikatselu"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Etäkuvakaappauspainike:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Käynnistetäänkö enigma2 uudelleen uusien asetusten lataamiseksi?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Tallennuskansio:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Hakemiston tallennus ei ole käytettävissä"
 
 msgid "Text"
-msgstr ""
+msgstr "Teksti"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp-kansio"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-laite"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "vain VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Vain video"
 
 msgid "better"
-msgstr ""
+msgstr "paremmin"
 
 msgid "black"
-msgstr ""
+msgstr "musta"
 
 msgid "blue"
-msgstr ""
+msgstr "sininen"
 
 msgid "green"
-msgstr ""
+msgstr "vihreä"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ladataan..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "odota, kuvaa ladataan..."
 
 msgid "red"
-msgstr ""
+msgstr "punainen"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "kuvakaappauksen muoto/laatu:"
 
 msgid "simple"
-msgstr ""
+msgstr "yksinkertainen"
 
 msgid "trasparent"
-msgstr ""
+msgstr "läpinäkyvä"
 
 msgid "yellow"
-msgstr ""
+msgstr "keltainen"

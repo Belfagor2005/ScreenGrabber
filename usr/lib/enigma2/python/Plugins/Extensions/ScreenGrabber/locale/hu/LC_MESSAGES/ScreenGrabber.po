@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic kép átméretezése:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 msgid "Delete"
-msgstr ""
+msgstr "Töröl"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Engedélyezve"
 
 msgid "Files"
-msgstr ""
+msgstr "Fájlok"
 
 msgid "Files II"
-msgstr ""
+msgstr "Iratok II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Rögzített képarány 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Rögzített képarány:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Fogd meg az összeset"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Merevlemez"
 
 msgid "Help"
-msgstr ""
+msgstr "Segítség"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Hosszú zöld"
 
 msgid "Long red"
-msgstr ""
+msgstr "Hosszú piros"
 
 msgid "Mute"
-msgstr ""
+msgstr "Néma"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Hálózati rögzítés"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Nincs több képfájl."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Csak OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Le"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Képnézet gyorsítótár:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Képnézet infovonal:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Képnézet hurok:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Képnézet diaidő:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Képnézet szöveg színe:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Előnézet"
 
 msgid "Radio"
-msgstr ""
+msgstr "Rádió"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Távoli képernyőkép gomb:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Távolítsa el"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Indítsa újra az enigma2-t az új beállítások betöltéséhez?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Tároló mappa:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "A könyvtár tárolása nem érhető el"
 
 msgid "Text"
-msgstr ""
+msgstr "Szöveg"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp mappa"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-eszköz"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Csak VIDEÓ"
 
 msgid "Video"
-msgstr ""
+msgstr "Videó"
 
 msgid "Video only"
-msgstr ""
+msgstr "Csak videó"
 
 msgid "better"
-msgstr ""
+msgstr "jobb"
 
 msgid "black"
-msgstr ""
+msgstr "fekete"
 
 msgid "blue"
-msgstr ""
+msgstr "kék"
 
 msgid "green"
-msgstr ""
+msgstr "zöld"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "terhelés..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "kérlek várj, kép betöltődik..."
 
 msgid "red"
-msgstr ""
+msgstr "piros"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "képernyőkép formátuma/minősége:"
 
 msgid "simple"
-msgstr ""
+msgstr "egyszerű"
 
 msgid "trasparent"
-msgstr ""
+msgstr "átlátszó"
 
 msgid "yellow"
-msgstr ""
+msgstr "sárga"

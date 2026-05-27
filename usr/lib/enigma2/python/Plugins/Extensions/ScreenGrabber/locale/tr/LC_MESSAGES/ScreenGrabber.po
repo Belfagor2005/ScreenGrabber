@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikübik resmin yeniden boyutlandırılması:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal etmek"
 
 msgid "Delete"
-msgstr ""
+msgstr "Silmek"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 msgid "Files"
-msgstr ""
+msgstr "Dosyalar"
 
 msgid "Files II"
-msgstr ""
+msgstr "Dosyalar II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Sabit En-Boy oranı 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Sabit En-Boy oranı:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hepsini Yakala"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Sabit sürücü"
 
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgid "Info"
-msgstr ""
+msgstr "Bilgi"
 
 msgid "Long green"
-msgstr ""
+msgstr "Uzun yeşil"
 
 msgid "Long red"
-msgstr ""
+msgstr "Uzun kırmızı"
 
 msgid "Mute"
-msgstr ""
+msgstr "Sesini kapatmak"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Ağ montajı"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Artık resim dosyası yok."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Yalnızca OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "PNG"
 msgstr ""
@@ -90,46 +90,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Resim görünümü"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Picview arka plan rengi:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview önbelleği:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview bilgi satırı:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview döngüsü:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview slayt süresi:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview metin rengi:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Önizleme"
 
 msgid "Radio"
-msgstr ""
+msgstr "Radyo"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Uzaktan ekran görüntüsü düğmesi:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Kaldırmak"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Yeni ayarları yüklemek için enigma2 yeniden başlatılsın mı?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Klasörün Saklanması:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Dizin saklama mevcut değil"
 
 msgid "Text"
-msgstr ""
+msgstr "Metin"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp Klasörü"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB Aygıtı"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Yalnızca VİDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Yalnızca video"
 
 msgid "better"
-msgstr ""
+msgstr "daha iyi"
 
 msgid "black"
-msgstr ""
+msgstr "siyah"
 
 msgid "blue"
-msgstr ""
+msgstr "mavi"
 
 msgid "green"
-msgstr ""
+msgstr "yeşil"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "yükleniyor..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "lütfen bekleyin, resim yükleniyor..."
 
 msgid "red"
-msgstr ""
+msgstr "kırmızı"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ekran görüntüsü formatı/kalite:"
 
 msgid "simple"
-msgstr ""
+msgstr "basit"
 
 msgid "trasparent"
-msgstr ""
+msgstr "şeffaf"
 
 msgid "yellow"
-msgstr ""
+msgstr "sarı"

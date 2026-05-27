@@ -20,52 +20,52 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "قايتىش"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic رەسىمنىڭ چوڭلۇقى:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "بىكار قىلىش"
 
 msgid "Delete"
-msgstr ""
+msgstr "ئۆچۈرۈش"
 
 msgid "Enabled"
-msgstr ""
+msgstr "قوزغىتىلدى"
 
 msgid "Files"
-msgstr ""
+msgstr "ھۆججەتلەر"
 
 msgid "Files II"
 msgstr ""
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "مۇقىم تەرەپ نىسبىتى 4: 3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "مۇقىم تەرەپ نىسبىتى:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "ھەممىنى تۇتۇڭ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "قاتتىق دىسكا"
 
 msgid "Help"
-msgstr ""
+msgstr "ياردەم"
 
 msgid "Info"
-msgstr ""
+msgstr "ئۇچۇر"
 
 msgid "Long green"
-msgstr ""
+msgstr "ئۇزۇن يېشىل"
 
 msgid "Long red"
-msgstr ""
+msgstr "ئۇزۇن قىزىل"
 
 msgid "Mute"
 msgstr ""
@@ -74,10 +74,10 @@ msgid "Network mount"
 msgstr ""
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ئەمدى رەسىم-ھۆججەت يوق."
 
 msgid "OSD only"
-msgstr ""
+msgstr "پەقەت OSD"
 
 msgid "Off"
 msgstr ""
@@ -110,25 +110,25 @@ msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "رەسىملىك ​​كۆرۈنۈش ۋاقتى:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview تېكىست رەڭگى:"
 
 msgid "Preview"
-msgstr ""
+msgstr "ئالدىن كۆرۈش"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "يىراقتىن رەسىمگە تارتىش كۇنۇپكىسى:"
 
 msgid "Remove"
-msgstr ""
+msgstr "ئۆچۈرۈڭ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "يېڭى تەڭشەكلەرنى يۈكلەش ئۈچۈن enigma2 نى قايتا قوزغىتىڭ؟"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ھۆججەت قىسقۇچنى ساقلاش:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "مۇندەرىجىنى ساقلاشقا بولمايدۇ"
 
 msgid "Text"
-msgstr ""
+msgstr "تېكىست"
 
 msgid "Tmp Folder"
 msgstr ""
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ئۈسكۈنىسى"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "پەقەت VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "پەقەت سىن"
 
 msgid "better"
-msgstr ""
+msgstr "تېخىمۇ ياخشى"
 
 msgid "black"
 msgstr ""
 
 msgid "blue"
-msgstr ""
+msgstr "كۆك"
 
 msgid "green"
-msgstr ""
+msgstr "يېشىل"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "يۈكلەۋاتىدۇ ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ساقلاپ تۇرۇڭ ، رەسىم يۈكلەڭ ..."
 
 msgid "red"
-msgstr ""
+msgstr "قىزىل"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ئېكران رەسىمى / سۈپىتى:"
 
 msgid "simple"
-msgstr ""
+msgstr "ئاددىي"
 
 msgid "trasparent"
 msgstr ""
 
 msgid "yellow"
-msgstr ""
+msgstr "سېرىق"

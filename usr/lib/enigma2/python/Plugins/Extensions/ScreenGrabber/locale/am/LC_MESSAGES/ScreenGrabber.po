@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "ቢኤምፒ"
 
 msgid "Back"
-msgstr ""
+msgstr "ተመለስ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "የቢኩቢክ ምስል መጠን;"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Delete"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ነቅቷል"
 
 msgid "Files"
-msgstr ""
+msgstr "ፋይሎች"
 
 msgid "Files II"
-msgstr ""
+msgstr "ፋይሎች II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "ቋሚ ምጥጥነ ገጽታ 4:3፡"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "ቋሚ ምጥጥነ ገጽታ፡"
 
 msgid "Grab All"
-msgstr ""
+msgstr "ሁሉንም ያዙ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ሃርድ ድራይቭ"
 
 msgid "Help"
-msgstr ""
+msgstr "እገዛ"
 
 msgid "Info"
-msgstr ""
+msgstr "መረጃ"
 
 msgid "Long green"
-msgstr ""
+msgstr "ረዥም አረንጓዴ"
 
 msgid "Long red"
-msgstr ""
+msgstr "ረዥም ቀይ"
 
 msgid "Mute"
-msgstr ""
+msgstr "ድምጸ-ከል አድርግ"
 
 msgid "Network mount"
-msgstr ""
+msgstr "የአውታረ መረብ ጭነት"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ከእንግዲህ የምስል ፋይሎች የሉም።"
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD ብቻ"
 
 msgid "Off"
-msgstr ""
+msgstr "ጠፍቷል"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "የምስል እይታ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "የምስል እይታ bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "የፒክ እይታ መሸጎጫ፡"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "የምስል እይታ መረጃ መስመር፡"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "የምስል እይታ ዑደት፡"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "የምስል እይታ ስላይድ ጊዜ፡"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "የምስል እይታ ጽሑፍ ቀለም፡-"
 
 msgid "Preview"
-msgstr ""
+msgstr "ቅድመ እይታ"
 
 msgid "Radio"
-msgstr ""
+msgstr "ሬዲዮ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "የርቀት ቅጽበታዊ ገጽ እይታ አዝራር;"
 
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "አዲስ ቅንብሮችን ለመጫን enigma2 እንደገና ይጀመር?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "አቃፊ በማከማቸት ላይ፡"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "የማከማቻ ማውጫ አይገኝም"
 
 msgid "Text"
-msgstr ""
+msgstr "ጽሑፍ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp አቃፊ"
 
 msgid "USB Device"
-msgstr ""
+msgstr "የዩኤስቢ መሣሪያ"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "ቪዲዮ ብቻ"
 
 msgid "Video"
-msgstr ""
+msgstr "ቪዲዮ"
 
 msgid "Video only"
-msgstr ""
+msgstr "ቪዲዮ ብቻ"
 
 msgid "better"
-msgstr ""
+msgstr "የተሻለ"
 
 msgid "black"
-msgstr ""
+msgstr "ጥቁር"
 
 msgid "blue"
-msgstr ""
+msgstr "ሰማያዊ"
 
 msgid "green"
-msgstr ""
+msgstr "አረንጓዴ"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "በመጫን ላይ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "እባክህ ጠብቅ፣ ፎቶ በመጫን ላይ..."
 
 msgid "red"
-msgstr ""
+msgstr "ቀይ"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ቅጽበታዊ ገጽ እይታ ቅርጸት/ጥራት፡"
 
 msgid "simple"
-msgstr ""
+msgstr "ቀላል"
 
 msgid "trasparent"
-msgstr ""
+msgstr "ግልጽነት ያለው"
 
 msgid "yellow"
-msgstr ""
+msgstr "ቢጫ"

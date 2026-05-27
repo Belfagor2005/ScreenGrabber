@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "БМП"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Промена на големина на бикубна слика:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 msgid "Delete"
-msgstr ""
+msgstr "Избриши"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Овозможено"
 
 msgid "Files"
-msgstr ""
+msgstr "Датотеки"
 
 msgid "Files II"
-msgstr ""
+msgstr "Датотеки II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Фиксен сооднос 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Фиксен сооднос:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Земи ги сите"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Хард диск"
 
 msgid "Help"
-msgstr ""
+msgstr "Помош"
 
 msgid "Info"
-msgstr ""
+msgstr "Инфо"
 
 msgid "Long green"
-msgstr ""
+msgstr "Долго зелено"
 
 msgid "Long red"
-msgstr ""
+msgstr "Долго црвено"
 
 msgid "Mute"
-msgstr ""
+msgstr "Исклучи звук"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Мрежна монтажа"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Нема повеќе датотеки со слики."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Само OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Исклучено"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Кеш Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Информативна линија за Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Јамка Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview слајдвреме:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Боја на текстот Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Преглед"
 
 msgid "Radio"
-msgstr ""
+msgstr "Радио"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Копче за далечинска слика од екранот:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Отстрани"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Да се ​​рестартира enigma2 за да се вчитаат нови поставки?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Папка за чување:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Складирањето директориум не е достапен"
 
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp папка"
 
 msgid "USB Device"
-msgstr ""
+msgstr "УСБ-уред"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Само ВИДЕО"
 
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 msgid "Video only"
-msgstr ""
+msgstr "Само видео"
 
 msgid "better"
-msgstr ""
+msgstr "подобро"
 
 msgid "black"
-msgstr ""
+msgstr "црна"
 
 msgid "blue"
-msgstr ""
+msgstr "сина боја"
 
 msgid "green"
-msgstr ""
+msgstr "зелена"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "се вчитува..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Ве молиме почекајте, се вчитува слика..."
 
 msgid "red"
-msgstr ""
+msgstr "црвено"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "формат/квалитет на скриншот:"
 
 msgid "simple"
-msgstr ""
+msgstr "едноставно"
 
 msgid "trasparent"
-msgstr ""
+msgstr "проѕирни"
 
 msgid "yellow"
-msgstr ""
+msgstr "жолта"

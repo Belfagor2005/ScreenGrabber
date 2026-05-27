@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Späť"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubická zmena veľkosti obrázka:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 msgid "Delete"
-msgstr ""
+msgstr "Odstrániť"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Povolené"
 
 msgid "Files"
-msgstr ""
+msgstr "Súbory"
 
 msgid "Files II"
-msgstr ""
+msgstr "Súbory II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Pevný pomer strán 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Pevný pomer strán:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Chyť všetko"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Pevný disk"
 
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Dlhá zelená"
 
 msgid "Long red"
-msgstr ""
+msgstr "Dlhá červená"
 
 msgid "Mute"
-msgstr ""
+msgstr "Stlmiť"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Sieťové pripojenie"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Už žiadne obrazové súbory."
 
 msgid "OSD only"
-msgstr ""
+msgstr "len OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Vypnuté"
 
 msgid "PNG"
 msgstr ""
@@ -96,40 +96,40 @@ msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Obrázok bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Vyrovnávacia pamäť Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Infolinka Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Slučka obrázkov:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Čas zobrazenia obrázka:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Farba textu obrázka:"
 
 msgid "Preview"
 msgstr ""
 
 msgid "Radio"
-msgstr ""
+msgstr "Rádio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Tlačidlo na vzdialenú snímku obrazovky:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstrániť"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Reštartovať enigmu2, aby sa načítali nové nastavenia?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Ukladací priečinok:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Ukladanie adresára nie je k dispozícii"
 
 msgid "Text"
 msgstr ""
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Priečinok Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Zariadenie USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Iba VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Iba video"
 
 msgid "better"
-msgstr ""
+msgstr "lepšie"
 
 msgid "black"
-msgstr ""
+msgstr "čierna"
 
 msgid "blue"
-msgstr ""
+msgstr "modrá"
 
 msgid "green"
-msgstr ""
+msgstr "zelená"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "načítavam..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "prosím čakajte, načítava sa obrázok..."
 
 msgid "red"
-msgstr ""
+msgstr "červená"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "formát/kvalita snímky obrazovky:"
 
 msgid "simple"
-msgstr ""
+msgstr "jednoduché"
 
 msgid "trasparent"
-msgstr ""
+msgstr "priehľadný"
 
 msgid "yellow"
-msgstr ""
+msgstr "žltá"

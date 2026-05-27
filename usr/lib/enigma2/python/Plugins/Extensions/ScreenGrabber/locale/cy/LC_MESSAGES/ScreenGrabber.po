@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Yn ol"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Newid maint llun biciwbig:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canslo"
 
 msgid "Delete"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Galluogwyd"
 
 msgid "Files"
-msgstr ""
+msgstr "Ffeiliau"
 
 msgid "Files II"
-msgstr ""
+msgstr "Ffeiliau II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Cymhareb Agwedd Sefydlog 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Cymhareb Agwedd Sefydlog:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Cydio Pawb"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Gyriant caled"
 
 msgid "Help"
 msgstr ""
 
 msgid "Info"
-msgstr ""
+msgstr "Gwybodaeth"
 
 msgid "Long green"
-msgstr ""
+msgstr "Gwyrdd hir"
 
 msgid "Long red"
-msgstr ""
+msgstr "Coch hir"
 
 msgid "Mute"
-msgstr ""
+msgstr "Tewi"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Mownt rhwydwaith"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Dim mwy o ffeiliau lluniau."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD yn unig"
 
 msgid "Off"
-msgstr ""
+msgstr "I ffwrdd"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "storfa Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Llinell wybodaeth Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Dolen Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Amser sleidiau Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Lliw testun Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Rhagolwg"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Botwm sgrin o bell:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ailgychwyn enigma2 i lwytho gosodiadau newydd?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,49 +140,49 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Ffolder Storio:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Nid yw cyfeiriadur storio ar gael"
 
 msgid "Text"
-msgstr ""
+msgstr "Testun"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Ffolder Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Dyfais USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "FIDEO yn unig"
 
 msgid "Video"
-msgstr ""
+msgstr "Fideo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Fideo yn unig"
 
 msgid "better"
-msgstr ""
+msgstr "well"
 
 msgid "black"
-msgstr ""
+msgstr "du"
 
 msgid "blue"
-msgstr ""
+msgstr "glas"
 
 msgid "green"
-msgstr ""
+msgstr "gwyrdd"
 
 msgid "jpg100"
-msgstr ""
+msgstr "jpg 100"
 
 msgid "jpg20"
 msgstr ""
 
 msgid "jpg40"
-msgstr ""
+msgstr "jpg 40"
 
 msgid "jpg60"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "llwytho..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "arhoswch, llwytho llun..."
 
 msgid "red"
-msgstr ""
+msgstr "coch"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "fformat/ansawdd sgrinlun:"
 
 msgid "simple"
-msgstr ""
+msgstr "syml"
 
 msgid "trasparent"
-msgstr ""
+msgstr "tryloyw"
 
 msgid "yellow"
-msgstr ""
+msgstr "melyn"

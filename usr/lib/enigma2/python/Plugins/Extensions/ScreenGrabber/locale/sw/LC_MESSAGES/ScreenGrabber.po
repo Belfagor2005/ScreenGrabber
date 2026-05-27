@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Nyuma"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Badilisha ukubwa wa picha ya bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ghairi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Futa"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Imewashwa"
 
 msgid "Files"
-msgstr ""
+msgstr "Faili"
 
 msgid "Files II"
-msgstr ""
+msgstr "Faili II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Uwiano wa Kipengele kisichobadilika 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Uwiano wa Kipengele kisichobadilika:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Kunyakua Yote"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hifadhi ngumu"
 
 msgid "Help"
-msgstr ""
+msgstr "Msaada"
 
 msgid "Info"
-msgstr ""
+msgstr "Habari"
 
 msgid "Long green"
-msgstr ""
+msgstr "Muda mrefu wa kijani"
 
 msgid "Long red"
-msgstr ""
+msgstr "Nyekundu ndefu"
 
 msgid "Mute"
-msgstr ""
+msgstr "Nyamazisha"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Mlima wa mtandao"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Hakuna faili za picha zaidi."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD pekee"
 
 msgid "Off"
-msgstr ""
+msgstr "Imezimwa"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Mtazamo wa picha"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Akiba ya picha:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Mtazamo wa habari wa picha:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Mtazamo wa picha:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview wakati wa slaidi:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Rangi ya maandishi ya picha:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Hakiki"
 
 msgid "Radio"
-msgstr ""
+msgstr "Redio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Kitufe cha picha ya skrini ya mbali:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ondoa"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Ungependa kuanzisha upya enigma2 ili kupakia mipangilio mipya?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Kuhifadhi Folda:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Saraka ya kuhifadhi haipatikani"
 
 msgid "Text"
-msgstr ""
+msgstr "Maandishi"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Folda ya Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Kifaa cha USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO pekee"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Video pekee"
 
 msgid "better"
-msgstr ""
+msgstr "bora"
 
 msgid "black"
-msgstr ""
+msgstr "nyeusi"
 
 msgid "blue"
-msgstr ""
+msgstr "bluu"
 
 msgid "green"
-msgstr ""
+msgstr "kijani"
 
 msgid "jpg100"
 msgstr ""
@@ -185,28 +185,28 @@ msgid "jpg40"
 msgstr ""
 
 msgid "jpg60"
-msgstr ""
+msgstr "jpg 60"
 
 msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "inapakia..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "tafadhali subiri, inapakia picha..."
 
 msgid "red"
-msgstr ""
+msgstr "nyekundu"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "umbizo/ubora wa picha ya skrini:"
 
 msgid "simple"
-msgstr ""
+msgstr "rahisi"
 
 msgid "trasparent"
-msgstr ""
+msgstr "uwazi"
 
 msgid "yellow"
-msgstr ""
+msgstr "njano"

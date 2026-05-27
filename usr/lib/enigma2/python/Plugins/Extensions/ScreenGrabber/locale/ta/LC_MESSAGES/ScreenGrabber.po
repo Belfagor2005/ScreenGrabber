@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic படத்தின் அளவு:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து செய்"
 
 msgid "Delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "Enabled"
-msgstr ""
+msgstr "இயக்கப்பட்டது"
 
 msgid "Files"
-msgstr ""
+msgstr "கோப்புகள்"
 
 msgid "Files II"
-msgstr ""
+msgstr "கோப்புகள் II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "நிலையான தோற்ற விகிதம் 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "நிலையான தோற்ற விகிதம்:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "அனைத்தையும் கைப்பற்றவும்"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ஹார்ட் டிரைவ்"
 
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 msgid "Info"
-msgstr ""
+msgstr "தகவல்"
 
 msgid "Long green"
-msgstr ""
+msgstr "நீண்ட பச்சை"
 
 msgid "Long red"
-msgstr ""
+msgstr "நீளமான சிவப்பு"
 
 msgid "Mute"
-msgstr ""
+msgstr "முடக்கு"
 
 msgid "Network mount"
-msgstr ""
+msgstr "நெட்வொர்க் மவுண்ட்"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "இனி பட கோப்புகள் இல்லை."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD மட்டும்"
 
 msgid "Off"
-msgstr ""
+msgstr "ஆஃப்"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview தற்காலிக சேமிப்பு:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview இன்ஃபோலைன்:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview லூப்:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview ஸ்லைடுடைம்:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview உரை நிறம்:"
 
 msgid "Preview"
-msgstr ""
+msgstr "முன்னோட்டம்"
 
 msgid "Radio"
-msgstr ""
+msgstr "வானொலி"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ரிமோட் ஸ்கிரீன்ஷாட் பொத்தான்:"
 
 msgid "Remove"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "புதிய அமைப்புகளை ஏற்ற enigma2 ஐ மீண்டும் தொடங்கவா?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "சேமிப்பு கோப்புறை:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "சேமிப்பக கோப்பகம் கிடைக்கவில்லை"
 
 msgid "Text"
-msgstr ""
+msgstr "உரை"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp கோப்புறை"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB சாதனம்"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "வீடியோ மட்டும்"
 
 msgid "Video"
-msgstr ""
+msgstr "வீடியோ"
 
 msgid "Video only"
-msgstr ""
+msgstr "வீடியோ மட்டும்"
 
 msgid "better"
-msgstr ""
+msgstr "சிறந்தது"
 
 msgid "black"
-msgstr ""
+msgstr "கருப்பு"
 
 msgid "blue"
-msgstr ""
+msgstr "நீலம்"
 
 msgid "green"
-msgstr ""
+msgstr "பச்சை"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ஏற்றுகிறது..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "தயவுசெய்து காத்திருக்கவும், படத்தை ஏற்றுகிறது..."
 
 msgid "red"
-msgstr ""
+msgstr "சிவப்பு"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ஸ்கிரீன்ஷாட் வடிவம்/தரம்:"
 
 msgid "simple"
-msgstr ""
+msgstr "எளிய"
 
 msgid "trasparent"
-msgstr ""
+msgstr "வெளிப்படையான"
 
 msgid "yellow"
-msgstr ""
+msgstr "மஞ்சள்"

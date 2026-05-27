@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "De volta"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Cambio de tamaño da imaxe bicúbica:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activado"
 
 msgid "Files"
-msgstr ""
+msgstr "Arquivos"
 
 msgid "Files II"
-msgstr ""
+msgstr "Expedientes II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Relación de aspecto fixa 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Relación de aspecto fixo:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Colle todo"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Disco duro"
 
 msgid "Help"
-msgstr ""
+msgstr "Axuda"
 
 msgid "Info"
-msgstr ""
+msgstr "Información"
 
 msgid "Long green"
-msgstr ""
+msgstr "Verde longo"
 
 msgid "Long red"
-msgstr ""
+msgstr "Longo vermello"
 
 msgid "Mute"
-msgstr ""
+msgstr "Silenciar"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montaxe en rede"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Non máis ficheiros de imaxes."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Só OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgid "PNG"
 msgstr ""
@@ -98,13 +98,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Caché de Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Liña informativa de Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview bucle:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Cor do texto Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Vista previa"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Botón de captura de pantalla remota:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Reiniciar enigma2 para cargar novas opcións?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,73 +140,73 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Carpeta de almacenamento:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "O directorio de almacenamento non está dispoñible"
 
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Cartafol Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Dispositivo USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Só VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Só vídeo"
 
 msgid "better"
-msgstr ""
+msgstr "mellor"
 
 msgid "black"
-msgstr ""
+msgstr "negro"
 
 msgid "blue"
-msgstr ""
+msgstr "azul"
 
 msgid "green"
-msgstr ""
+msgstr "verde"
 
 msgid "jpg100"
-msgstr ""
+msgstr "jpg 100"
 
 msgid "jpg20"
-msgstr ""
+msgstr "jpg 20"
 
 msgid "jpg40"
-msgstr ""
+msgstr "jpg 40"
 
 msgid "jpg60"
-msgstr ""
+msgstr "jpg 60"
 
 msgid "jpg80"
-msgstr ""
+msgstr "jpg 80"
 
 msgid "loading..."
-msgstr ""
+msgstr "cargando..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "agarde, cargando imaxe..."
 
 msgid "red"
-msgstr ""
+msgstr "vermello"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "formato/calidade da captura de pantalla:"
 
 msgid "simple"
-msgstr ""
+msgstr "sinxelo"
 
 msgid "trasparent"
-msgstr ""
+msgstr "transparente"
 
 msgid "yellow"
-msgstr ""
+msgstr "amarelo"

@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "บีเอ็มพี"
 
 msgid "Back"
-msgstr ""
+msgstr "กลับ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "ปรับขนาดรูปภาพ Bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "เปิดใช้งานแล้ว"
 
 msgid "Files"
-msgstr ""
+msgstr "ไฟล์"
 
 msgid "Files II"
-msgstr ""
+msgstr "ไฟล์ที่สอง"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "อัตราส่วนภาพคงที่ 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "อัตราส่วนภาพคงที่:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "คว้าทั้งหมด"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ฮาร์ดไดรฟ์"
 
 msgid "Help"
-msgstr ""
+msgstr "ช่วย"
 
 msgid "Info"
-msgstr ""
+msgstr "ข้อมูล"
 
 msgid "Long green"
-msgstr ""
+msgstr "สีเขียวยาว"
 
 msgid "Long red"
-msgstr ""
+msgstr "สีแดงยาว"
 
 msgid "Mute"
-msgstr ""
+msgstr "ปิดเสียง"
 
 msgid "Network mount"
-msgstr ""
+msgstr "การติดตั้งเครือข่าย"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ไม่มีไฟล์รูปภาพอีกต่อไป"
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD เท่านั้น"
 
 msgid "Off"
-msgstr ""
+msgstr "ปิด"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "พิควิว"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "แคช Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "ข้อมูล Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "ลูป Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "เวลาสไลด์ของ Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "สีข้อความของ Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "ดูตัวอย่าง"
 
 msgid "Radio"
-msgstr ""
+msgstr "วิทยุ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ปุ่มจับภาพหน้าจอระยะไกล:"
 
 msgid "Remove"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "รีสตาร์ท enigma2 เพื่อโหลดการตั้งค่าใหม่หรือไม่"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "โฟลเดอร์จัดเก็บ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "ไดเร็กทอรีการจัดเก็บไม่พร้อมใช้งาน"
 
 msgid "Text"
-msgstr ""
+msgstr "ข้อความ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "โฟลเดอร์ ทีเอ็มพี"
 
 msgid "USB Device"
-msgstr ""
+msgstr "อุปกรณ์ยูเอสบี"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "วิดีโอเท่านั้น"
 
 msgid "Video"
-msgstr ""
+msgstr "วีดีโอ"
 
 msgid "Video only"
-msgstr ""
+msgstr "วิดีโอเท่านั้น"
 
 msgid "better"
-msgstr ""
+msgstr "ดีกว่า"
 
 msgid "black"
-msgstr ""
+msgstr "สีดำ"
 
 msgid "blue"
-msgstr ""
+msgstr "สีฟ้า"
 
 msgid "green"
-msgstr ""
+msgstr "สีเขียว"
 
 msgid "jpg100"
 msgstr ""
@@ -182,7 +182,7 @@ msgid "jpg20"
 msgstr ""
 
 msgid "jpg40"
-msgstr ""
+msgstr "JPG40"
 
 msgid "jpg60"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "กำลังโหลด..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "กรุณารอสักครู่ กำลังโหลดภาพ..."
 
 msgid "red"
-msgstr ""
+msgstr "สีแดง"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "รูปแบบภาพหน้าจอ/คุณภาพ:"
 
 msgid "simple"
-msgstr ""
+msgstr "เรียบง่าย"
 
 msgid "trasparent"
-msgstr ""
+msgstr "โปร่งใส"
 
 msgid "yellow"
-msgstr ""
+msgstr "สีเหลือง"

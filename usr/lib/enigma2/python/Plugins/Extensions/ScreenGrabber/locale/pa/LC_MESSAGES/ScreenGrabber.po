@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "ਵਾਪਸ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "ਬਾਈਕੂਬਿਕ ਤਸਵੀਰ ਦਾ ਆਕਾਰ ਬਦਲੋ:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 msgid "Delete"
-msgstr ""
+msgstr "ਮਿਟਾਓ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ਸਮਰਥਿਤ"
 
 msgid "Files"
-msgstr ""
+msgstr "ਫਾਈਲਾਂ"
 
 msgid "Files II"
-msgstr ""
+msgstr "ਫਾਈਲਾਂ II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "ਸਥਿਰ ਪੱਖ ਅਨੁਪਾਤ 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "ਸਥਿਰ ਪੱਖ ਅਨੁਪਾਤ:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "ਸਭ ਨੂੰ ਫੜੋ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ਹਾਰਡ ਡਰਾਈਵ"
 
 msgid "Help"
-msgstr ""
+msgstr "ਮਦਦ ਕਰੋ"
 
 msgid "Info"
-msgstr ""
+msgstr "ਜਾਣਕਾਰੀ"
 
 msgid "Long green"
-msgstr ""
+msgstr "ਲੰਬੇ ਹਰੇ"
 
 msgid "Long red"
-msgstr ""
+msgstr "ਲੰਬਾ ਲਾਲ"
 
 msgid "Mute"
-msgstr ""
+msgstr "ਚੁੱਪ"
 
 msgid "Network mount"
-msgstr ""
+msgstr "ਨੈੱਟਵਰਕ ਮਾਊਂਟ"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ਕੋਈ ਹੋਰ ਤਸਵੀਰ-ਫਾਇਲਾਂ ਨਹੀਂ।"
 
 msgid "OSD only"
-msgstr ""
+msgstr "ਸਿਰਫ਼ ਓ.ਐਸ.ਡੀ"
 
 msgid "Off"
-msgstr ""
+msgstr "ਬੰਦ"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ ਕੈਸ਼:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ ਜਾਣਕਾਰੀ:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ ਲੂਪ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ ਸਲਾਈਡਟਾਈਮ:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "ਪਿਕਵਿਊ ਟੈਕਸਟ ਰੰਗ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "ਝਲਕ"
 
 msgid "Radio"
-msgstr ""
+msgstr "ਰੇਡੀਓ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ਰਿਮੋਟ ਸਕ੍ਰੀਨਸ਼ੌਟ ਬਟਨ:"
 
 msgid "Remove"
-msgstr ""
+msgstr "ਹਟਾਓ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "ਨਵੀਂਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਲੋਡ ਕਰਨ ਲਈ enigma2 ਨੂੰ ਰੀਸਟਾਰਟ ਕਰਨਾ ਹੈ?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ਸਟੋਰਿੰਗ ਫੋਲਡਰ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "ਸਟੋਰਿੰਗ ਡਾਇਰੈਕਟਰੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
 
 msgid "Text"
-msgstr ""
+msgstr "ਟੈਕਸਟ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ਫੋਲਡਰ"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ਡਿਵਾਈਸ"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "ਸਿਰਫ਼ ਵੀਡੀਓ"
 
 msgid "Video"
-msgstr ""
+msgstr "ਵੀਡੀਓ"
 
 msgid "Video only"
-msgstr ""
+msgstr "ਸਿਰਫ਼ ਵੀਡੀਓ"
 
 msgid "better"
-msgstr ""
+msgstr "ਬਿਹਤਰ"
 
 msgid "black"
-msgstr ""
+msgstr "ਕਾਲਾ"
 
 msgid "blue"
-msgstr ""
+msgstr "ਨੀਲਾ"
 
 msgid "green"
-msgstr ""
+msgstr "ਹਰਾ"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ, ਤਸਵੀਰ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ..."
 
 msgid "red"
-msgstr ""
+msgstr "ਲਾਲ"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ਸਕ੍ਰੀਨਸ਼ੌਟ ਫਾਰਮੈਟ/ਗੁਣਵੱਤਾ:"
 
 msgid "simple"
-msgstr ""
+msgstr "ਸਧਾਰਨ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "ਪਾਰਦਰਸ਼ੀ"
 
 msgid "yellow"
-msgstr ""
+msgstr "ਪੀਲਾ"

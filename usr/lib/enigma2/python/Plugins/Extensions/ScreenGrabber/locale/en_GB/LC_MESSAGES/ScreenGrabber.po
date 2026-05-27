@@ -53,7 +53,7 @@ msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hard drive"
 
 msgid "Help"
 msgstr ""
@@ -113,7 +113,7 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview text color:"
 
 msgid "Preview"
 msgstr ""

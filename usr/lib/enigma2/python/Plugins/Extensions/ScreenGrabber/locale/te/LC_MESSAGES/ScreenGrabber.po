@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "వెనుకకు"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "బిక్యూబిక్ చిత్రం పరిమాణం:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దు చేయి"
 
 msgid "Delete"
-msgstr ""
+msgstr "తొలగించు"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ప్రారంభించబడింది"
 
 msgid "Files"
-msgstr ""
+msgstr "ఫైళ్లు"
 
 msgid "Files II"
-msgstr ""
+msgstr "ఫైల్స్ II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "స్థిర కారక నిష్పత్తి 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "స్థిర కారక నిష్పత్తి:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "అన్నీ పట్టుకోండి"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "హార్డ్ డ్రైవ్"
 
 msgid "Help"
-msgstr ""
+msgstr "సహాయం"
 
 msgid "Info"
-msgstr ""
+msgstr "సమాచారం"
 
 msgid "Long green"
-msgstr ""
+msgstr "పొడవాటి ఆకుపచ్చ"
 
 msgid "Long red"
-msgstr ""
+msgstr "పొడవాటి ఎరుపు"
 
 msgid "Mute"
-msgstr ""
+msgstr "మ్యూట్ చేయండి"
 
 msgid "Network mount"
-msgstr ""
+msgstr "నెట్‌వర్క్ మౌంట్"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ఇకపై చిత్ర-ఫైళ్లు లేవు."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD మాత్రమే"
 
 msgid "Off"
-msgstr ""
+msgstr "ఆఫ్"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "పిక్వ్యూ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview కాష్:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview ఇన్ఫోలైన్:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview లూప్:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview స్లయిడ్‌టైమ్:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview టెక్స్ట్ రంగు:"
 
 msgid "Preview"
-msgstr ""
+msgstr "ప్రివ్యూ"
 
 msgid "Radio"
-msgstr ""
+msgstr "రేడియో"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "రిమోట్ స్క్రీన్‌షాట్ బటన్:"
 
 msgid "Remove"
-msgstr ""
+msgstr "తొలగించు"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "కొత్త సెట్టింగ్‌లను లోడ్ చేయడానికి enigma2ని పునఃప్రారంభించాలా?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "నిల్వ ఫోల్డర్:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "నిల్వ డైరెక్టరీ అందుబాటులో లేదు"
 
 msgid "Text"
-msgstr ""
+msgstr "వచనం"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ఫోల్డర్"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB పరికరం"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "వీడియో మాత్రమే"
 
 msgid "Video"
-msgstr ""
+msgstr "వీడియో"
 
 msgid "Video only"
-msgstr ""
+msgstr "వీడియో మాత్రమే"
 
 msgid "better"
-msgstr ""
+msgstr "మెరుగైన"
 
 msgid "black"
-msgstr ""
+msgstr "నలుపు"
 
 msgid "blue"
-msgstr ""
+msgstr "నీలం"
 
 msgid "green"
-msgstr ""
+msgstr "ఆకుపచ్చ"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "లోడ్ అవుతోంది..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "దయచేసి వేచి ఉండండి, చిత్రాన్ని లోడ్ చేస్తోంది..."
 
 msgid "red"
-msgstr ""
+msgstr "ఎరుపు"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "స్క్రీన్‌షాట్ ఫార్మాట్/నాణ్యత:"
 
 msgid "simple"
-msgstr ""
+msgstr "సాధారణ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "పారదర్శకమైన"
 
 msgid "yellow"
-msgstr ""
+msgstr "పసుపు"

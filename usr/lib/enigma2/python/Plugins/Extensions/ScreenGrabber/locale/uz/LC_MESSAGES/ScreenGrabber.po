@@ -20,31 +20,31 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Orqaga"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Ikki kubikli rasm hajmini o'zgartirish:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bekor qilish"
 
 msgid "Delete"
-msgstr ""
+msgstr "Oʻchirish"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Yoqilgan"
 
 msgid "Files"
-msgstr ""
+msgstr "Fayllar"
 
 msgid "Files II"
-msgstr ""
+msgstr "Fayllar II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Ruxsat etilgan tomonlar nisbati 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Ruxsat etilgan tomonlar nisbati:"
 
 msgid "Grab All"
 msgstr ""
@@ -56,31 +56,31 @@ msgid "Harddisk"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Yordam"
 
 msgid "Info"
-msgstr ""
+msgstr "Ma'lumot"
 
 msgid "Long green"
-msgstr ""
+msgstr "Uzoq yashil"
 
 msgid "Long red"
-msgstr ""
+msgstr "Uzun qizil"
 
 msgid "Mute"
-msgstr ""
+msgstr "Ovozsiz"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tarmoq o'rnatish"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Boshqa rasm fayllari yo'q."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Faqat OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Oʻchirilgan"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview keshi:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview tsikli:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview slayd vaqti:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview matn rangi:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Ko‘rib chiqish"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Masofaviy skrinshot tugmasi:"
 
 msgid "Remove"
-msgstr ""
+msgstr "O'chirish"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Yangi sozlamalarni yuklash uchun enigma2 qayta ishga tushirilsinmi?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Jildni saqlash:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Saqlash katalogi mavjud emas"
 
 msgid "Text"
-msgstr ""
+msgstr "Matn"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp papkasi"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB qurilmasi"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Faqat VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Faqat video"
 
 msgid "better"
-msgstr ""
+msgstr "yaxshiroq"
 
 msgid "black"
-msgstr ""
+msgstr "qora"
 
 msgid "blue"
-msgstr ""
+msgstr "ko'k"
 
 msgid "green"
-msgstr ""
+msgstr "yashil"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "yuklanmoqda..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Iltimos, kuting, rasm yuklanmoqda..."
 
 msgid "red"
-msgstr ""
+msgstr "qizil"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "Skrinshot formati/sifati:"
 
 msgid "simple"
-msgstr ""
+msgstr "oddiy"
 
 msgid "trasparent"
-msgstr ""
+msgstr "shaffof"
 
 msgid "yellow"
-msgstr ""
+msgstr "sariq"

@@ -18,118 +18,118 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "БМП"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Бикубна промена величине слике:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 msgid "Delete"
-msgstr ""
+msgstr "Избриши"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Омогућено"
 
 msgid "Files"
-msgstr ""
+msgstr "Фајлови"
 
 msgid "Files II"
-msgstr ""
+msgstr "Фајлови ИИ"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Фиксна размера 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Фиксна размера:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Зграби све"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Хард диск"
 
 msgid "Help"
-msgstr ""
+msgstr "Помоћ"
 
 msgid "Info"
-msgstr ""
+msgstr "Инфо"
 
 msgid "Long green"
-msgstr ""
+msgstr "Дуга зелена"
 
 msgid "Long red"
-msgstr ""
+msgstr "Дуга црвена"
 
 msgid "Mute"
-msgstr ""
+msgstr "Муте"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Мрежни носач"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Нема више датотека са сликама."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Само на екрану"
 
 msgid "Off"
-msgstr ""
+msgstr "Офф"
 
 msgid "PNG"
-msgstr ""
+msgstr "ПНГ"
 
 msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Пицвиев"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Пицвиев бгцолор:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Пицвиев кеш:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Пицвиев инфолине:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Петља за приказ слике:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Пицвиев време слајдова:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Боја текста за приказ слике:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Преглед"
 
 msgid "Radio"
-msgstr ""
+msgstr "Радио"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Дугме за даљински снимак екрана:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Уклони"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Поново покренути енигма2 да бисте учитали нова подешавања?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,73 +141,73 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Директоријум за складиштење:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Складиштење именика није доступно"
 
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Тмп фолдер"
 
 msgid "USB Device"
-msgstr ""
+msgstr "УСБ уређај"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Само ВИДЕО"
 
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 msgid "Video only"
-msgstr ""
+msgstr "Само видео"
 
 msgid "better"
-msgstr ""
+msgstr "боље"
 
 msgid "black"
-msgstr ""
+msgstr "црна"
 
 msgid "blue"
-msgstr ""
+msgstr "плава"
 
 msgid "green"
-msgstr ""
+msgstr "зелена"
 
 msgid "jpg100"
-msgstr ""
+msgstr "јпг100"
 
 msgid "jpg20"
-msgstr ""
+msgstr "јпг20"
 
 msgid "jpg40"
-msgstr ""
+msgstr "јпг40"
 
 msgid "jpg60"
-msgstr ""
+msgstr "јпг60"
 
 msgid "jpg80"
-msgstr ""
+msgstr "јпг80"
 
 msgid "loading..."
-msgstr ""
+msgstr "лоадинг..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "сачекајте, слика се учитава..."
 
 msgid "red"
-msgstr ""
+msgstr "црвена"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "Формат/квалитет снимка екрана:"
 
 msgid "simple"
-msgstr ""
+msgstr "једноставан"
 
 msgid "trasparent"
-msgstr ""
+msgstr "провидан"
 
 msgid "yellow"
-msgstr ""
+msgstr "жута"

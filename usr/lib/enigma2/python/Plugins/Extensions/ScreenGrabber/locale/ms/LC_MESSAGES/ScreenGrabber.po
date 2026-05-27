@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "belakang"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Saiz gambar bikubik:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Delete"
-msgstr ""
+msgstr "Padam"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Didayakan"
 
 msgid "Files"
-msgstr ""
+msgstr "Fail"
 
 msgid "Files II"
-msgstr ""
+msgstr "Fail II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Nisbah aspek tetap 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Nisbah aspek tetap:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Rebut Semua"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "cakera keras"
 
 msgid "Help"
-msgstr ""
+msgstr "Tolong"
 
 msgid "Info"
-msgstr ""
+msgstr "info"
 
 msgid "Long green"
-msgstr ""
+msgstr "Hijau panjang"
 
 msgid "Long red"
-msgstr ""
+msgstr "Merah panjang"
 
 msgid "Mute"
-msgstr ""
+msgstr "bisu"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Lekapan rangkaian"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Tiada lagi fail gambar."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD sahaja"
 
 msgid "Off"
-msgstr ""
+msgstr "Mati"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Cache Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Garis maklumat picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Gelung Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Masa slaid picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Warna teks picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Pratonton"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Butang tangkapan skrin jauh:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Alih keluar"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Mulakan semula enigma2 untuk memuatkan tetapan baharu?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Menyimpan Folder:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Direktori penyimpanan tidak tersedia"
 
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Folder Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Peranti USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO sahaja"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Video sahaja"
 
 msgid "better"
-msgstr ""
+msgstr "lebih baik"
 
 msgid "black"
-msgstr ""
+msgstr "hitam"
 
 msgid "blue"
-msgstr ""
+msgstr "biru"
 
 msgid "green"
-msgstr ""
+msgstr "hijau"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "memuatkan..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "sila tunggu, memuatkan gambar..."
 
 msgid "red"
-msgstr ""
+msgstr "merah"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/kualiti tangkapan skrin:"
 
 msgid "simple"
-msgstr ""
+msgstr "ringkas"
 
 msgid "trasparent"
-msgstr ""
+msgstr "telus"
 
 msgid "yellow"
-msgstr ""
+msgstr "kuning"

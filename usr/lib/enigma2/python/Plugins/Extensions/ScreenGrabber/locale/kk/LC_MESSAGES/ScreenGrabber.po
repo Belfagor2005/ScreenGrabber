@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Артқа"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Бикубтық сурет өлшемі:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Бас тарту"
 
 msgid "Delete"
-msgstr ""
+msgstr "Жою"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Қосылған"
 
 msgid "Files"
-msgstr ""
+msgstr "Файлдар"
 
 msgid "Files II"
-msgstr ""
+msgstr "Файлдар II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Бекітілген арақатынасы 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Бекітілген арақатынасы:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Барлығын алыңыз"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Қатты диск"
 
 msgid "Help"
-msgstr ""
+msgstr "Көмек"
 
 msgid "Info"
-msgstr ""
+msgstr "Ақпарат"
 
 msgid "Long green"
-msgstr ""
+msgstr "Ұзын жасыл"
 
 msgid "Long red"
-msgstr ""
+msgstr "Ұзын қызыл"
 
 msgid "Mute"
-msgstr ""
+msgstr "Дыбысты өшіру"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Желіні орнату"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Енді сурет файлдары жоқ."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Тек OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Өшірулі"
 
 msgid "PNG"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Суретті көру"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview кэші:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Суретті көру ақпарат жолы:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview циклі:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Суретті көру слайд уақыты:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Суретті көру мәтінінің түсі:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Алдын ала қарау"
 
 msgid "Radio"
-msgstr ""
+msgstr "Радио"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Қашықтағы скриншот түймесі:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Жою"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Жаңа параметрлерді жүктеу үшін enigma2 қайта іске қосылсын ба?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Сақтау қалтасы:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Сақтау каталогы қолжетімді емес"
 
 msgid "Text"
-msgstr ""
+msgstr "Мәтін"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp қалтасы"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB құрылғысы"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Тек ВИДЕО"
 
 msgid "Video"
-msgstr ""
+msgstr "Бейне"
 
 msgid "Video only"
-msgstr ""
+msgstr "Тек бейне"
 
 msgid "better"
-msgstr ""
+msgstr "жақсырақ"
 
 msgid "black"
-msgstr ""
+msgstr "қара"
 
 msgid "blue"
-msgstr ""
+msgstr "көк"
 
 msgid "green"
-msgstr ""
+msgstr "жасыл"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "жүктелуде..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "күте тұрыңыз, сурет жүктелуде..."
 
 msgid "red"
-msgstr ""
+msgstr "қызыл"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "скриншот пішімі/сапасы:"
 
 msgid "simple"
-msgstr ""
+msgstr "қарапайым"
 
 msgid "trasparent"
-msgstr ""
+msgstr "мөлдір"
 
 msgid "yellow"
-msgstr ""
+msgstr "сары"

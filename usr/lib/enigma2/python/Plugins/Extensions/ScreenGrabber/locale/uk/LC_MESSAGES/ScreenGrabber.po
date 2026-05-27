@@ -18,70 +18,70 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "БМП"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Зміна розміру бікубічного зображення:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Увімкнено"
 
 msgid "Files"
-msgstr ""
+msgstr "Файли"
 
 msgid "Files II"
-msgstr ""
+msgstr "Файли II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Фіксоване співвідношення сторін 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Фіксоване співвідношення сторін:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Захопити все"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Жорсткий диск"
 
 msgid "Help"
-msgstr ""
+msgstr "Довідка"
 
 msgid "Info"
-msgstr ""
+msgstr "Інформація"
 
 msgid "Long green"
-msgstr ""
+msgstr "Довгий зелений"
 
 msgid "Long red"
-msgstr ""
+msgstr "Довгий червоний"
 
 msgid "Mute"
-msgstr ""
+msgstr "Вимкнути звук"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Мережевий монтаж"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Більше ніяких файлів зображень."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Лише екранне меню"
 
 msgid "Off"
-msgstr ""
+msgstr "Вимкнено"
 
 msgid "PNG"
 msgstr ""
@@ -99,37 +99,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Кеш Picview:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Інформаційний рядок Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Цикл перегляду зображень:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Час перегляду слайдів Picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Колір тексту Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Попередній перегляд"
 
 msgid "Radio"
-msgstr ""
+msgstr "радіо"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Кнопка віддаленого знімка екрана:"
 
 msgid "Remove"
-msgstr ""
+msgstr "видалити"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Перезапустити enigma2, щоб завантажити нові налаштування?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Папка для зберігання:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Каталог для зберігання недоступний"
 
 msgid "Text"
-msgstr ""
+msgstr "текст"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Папка Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-пристрій"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Тільки ВІДЕО"
 
 msgid "Video"
-msgstr ""
+msgstr "відео"
 
 msgid "Video only"
-msgstr ""
+msgstr "Лише відео"
 
 msgid "better"
-msgstr ""
+msgstr "краще"
 
 msgid "black"
-msgstr ""
+msgstr "чорний"
 
 msgid "blue"
-msgstr ""
+msgstr "блакитний"
 
 msgid "green"
-msgstr ""
+msgstr "зелений"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "завантаження..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "зачекайте, завантажується зображення..."
 
 msgid "red"
-msgstr ""
+msgstr "червоний"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "формат/якість знімка екрана:"
 
 msgid "simple"
-msgstr ""
+msgstr "простий"
 
 msgid "trasparent"
-msgstr ""
+msgstr "прозорий"
 
 msgid "yellow"
-msgstr ""
+msgstr "жовтий"

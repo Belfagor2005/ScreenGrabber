@@ -17,73 +17,73 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "بی ایم پی"
 
 msgid "Back"
-msgstr ""
+msgstr "پیچھے"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "بائیکیوبک تصویر کا سائز تبدیل کریں:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "منسوخ کریں۔"
 
 msgid "Delete"
-msgstr ""
+msgstr "حذف کریں۔"
 
 msgid "Enabled"
-msgstr ""
+msgstr "فعال"
 
 msgid "Files"
-msgstr ""
+msgstr "فائلیں"
 
 msgid "Files II"
-msgstr ""
+msgstr "فائلیں II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "فکسڈ اسپیکٹ ریشو 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "مقررہ پہلو تناسب:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "سب کو پکڑو"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ہارڈ ڈرائیو"
 
 msgid "Help"
-msgstr ""
+msgstr "مدد"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Long green"
-msgstr ""
+msgstr "لمبا سبز"
 
 msgid "Long red"
-msgstr ""
+msgstr "لمبا سرخ"
 
 msgid "Mute"
-msgstr ""
+msgstr "خاموش"
 
 msgid "Network mount"
-msgstr ""
+msgstr "نیٹ ورک ماؤنٹ"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "مزید تصویری فائلیں نہیں۔"
 
 msgid "OSD only"
-msgstr ""
+msgstr "صرف او ایس ڈی"
 
 msgid "Off"
-msgstr ""
+msgstr "آف"
 
 msgid "PNG"
-msgstr ""
+msgstr "پی این جی"
 
 msgid "Picture size:"
 msgstr "Formato immagine:"
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview کیشے:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview لوپ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "تصویر کا سلائیڈ ٹائم:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview متن کا رنگ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "پیش نظارہ"
 
 msgid "Radio"
-msgstr ""
+msgstr "ریڈیو"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ریموٹ اسکرین شاٹ بٹن:"
 
 msgid "Remove"
-msgstr ""
+msgstr "ہٹا دیں۔"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "نئی ترتیبات لوڈ کرنے کے لیے enigma2 کو دوبارہ شروع کریں؟"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ذخیرہ کرنے والا فولڈر:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "ذخیرہ کرنے کی ڈائریکٹری دستیاب نہیں ہے۔"
 
 msgid "Text"
-msgstr ""
+msgstr "متن"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "ٹی ایم پی فولڈر"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ڈیوائس"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "صرف ویڈیو"
 
 msgid "Video"
-msgstr ""
+msgstr "ویڈیو"
 
 msgid "Video only"
-msgstr ""
+msgstr "صرف ویڈیو"
 
 msgid "better"
-msgstr ""
+msgstr "بہتر"
 
 msgid "black"
-msgstr ""
+msgstr "سیاہ"
 
 msgid "blue"
-msgstr ""
+msgstr "نیلا"
 
 msgid "green"
-msgstr ""
+msgstr "سبز"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "لوڈ ہو رہا ہے..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "براہ کرم انتظار کریں، تصویر لوڈ ہو رہی ہے..."
 
 msgid "red"
-msgstr ""
+msgstr "سرخ"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "اسکرین شاٹ فارمیٹ/معیار:"
 
 msgid "simple"
-msgstr ""
+msgstr "سادہ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "شفاف"
 
 msgid "yellow"
-msgstr ""
+msgstr "پیلا"

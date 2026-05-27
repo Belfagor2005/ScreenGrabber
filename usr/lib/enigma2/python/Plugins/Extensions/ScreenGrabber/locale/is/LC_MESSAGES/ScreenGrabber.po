@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Til baka"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Breyta stærð tvíkubískrar myndar:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 msgid "Delete"
-msgstr ""
+msgstr "Eyða"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Virkt"
 
 msgid "Files"
-msgstr ""
+msgstr "Skrár"
 
 msgid "Files II"
-msgstr ""
+msgstr "Skrár II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fast stærðarhlutfall 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fast stærðarhlutfall:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Grípa alla"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Harður diskur"
 
 msgid "Help"
-msgstr ""
+msgstr "Hjálp"
 
 msgid "Info"
-msgstr ""
+msgstr "Upplýsingar"
 
 msgid "Long green"
-msgstr ""
+msgstr "Langur grænn"
 
 msgid "Long red"
-msgstr ""
+msgstr "Langur rauður"
 
 msgid "Mute"
-msgstr ""
+msgstr "Þagga"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Netfesting"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Engar fleiri myndaskrár."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Aðeins OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Slökkt"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview skyndiminni:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview upplýsingasíða:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview lykkja:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Myndatími glæru:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview textalitur:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Forskoðun"
 
 msgid "Radio"
-msgstr ""
+msgstr "Útvarp"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Hnappur fyrir ytri skjámynd:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjarlægja"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Endurræsa enigma2 til að hlaða nýjum stillingum?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Geymsla möppu:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Geymsluskrá er ekki tiltæk"
 
 msgid "Text"
-msgstr ""
+msgstr "Texti"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp mappa"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB tæki"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Aðeins VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "Myndband"
 
 msgid "Video only"
-msgstr ""
+msgstr "Aðeins myndband"
 
 msgid "better"
-msgstr ""
+msgstr "betri"
 
 msgid "black"
-msgstr ""
+msgstr "svartur"
 
 msgid "blue"
-msgstr ""
+msgstr "blár"
 
 msgid "green"
-msgstr ""
+msgstr "grænn"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "hleður..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "vinsamlegast bíddu, hleður mynd..."
 
 msgid "red"
-msgstr ""
+msgstr "rauður"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "snið / gæði skjámynda:"
 
 msgid "simple"
-msgstr ""
+msgstr "einfalt"
 
 msgid "trasparent"
-msgstr ""
+msgstr "gagnsæ"
 
 msgid "yellow"
-msgstr ""
+msgstr "gulur"

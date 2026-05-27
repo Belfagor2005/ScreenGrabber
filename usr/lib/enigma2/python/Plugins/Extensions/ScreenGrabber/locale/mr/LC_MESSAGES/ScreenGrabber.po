@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "मागे"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "बायक्यूबिक चित्राचा आकार बदला:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करा"
 
 msgid "Delete"
-msgstr ""
+msgstr "हटवा"
 
 msgid "Enabled"
-msgstr ""
+msgstr "सक्षम केले"
 
 msgid "Files"
-msgstr ""
+msgstr "फाईल्स"
 
 msgid "Files II"
-msgstr ""
+msgstr "फाइल्स II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "निश्चित गुणोत्तर ४:३:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "निश्चित गुणोत्तर:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "सर्व पकडा"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "हार्ड ड्राइव्ह"
 
 msgid "Help"
-msgstr ""
+msgstr "मदत करा"
 
 msgid "Info"
-msgstr ""
+msgstr "माहिती"
 
 msgid "Long green"
-msgstr ""
+msgstr "लांब हिरवा"
 
 msgid "Long red"
-msgstr ""
+msgstr "लांब लाल"
 
 msgid "Mute"
-msgstr ""
+msgstr "नि:शब्द करा"
 
 msgid "Network mount"
-msgstr ""
+msgstr "नेटवर्क माउंट"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "आणखी चित्र-फाईल्स नाहीत."
 
 msgid "OSD only"
-msgstr ""
+msgstr "फक्त ओएसडी"
 
 msgid "Off"
-msgstr ""
+msgstr "बंद"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview कॅशे:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview लूप:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "चित्र पहा स्लाइडटाइम:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview मजकूर रंग:"
 
 msgid "Preview"
-msgstr ""
+msgstr "पूर्वावलोकन"
 
 msgid "Radio"
-msgstr ""
+msgstr "रेडिओ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "रिमोट स्क्रीनशॉट बटण:"
 
 msgid "Remove"
-msgstr ""
+msgstr "काढा"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "नवीन सेटिंग्ज लोड करण्यासाठी enigma2 रीस्टार्ट करायचे?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "फोल्डर संचयित करणे:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "संचयन निर्देशिका उपलब्ध नाही"
 
 msgid "Text"
-msgstr ""
+msgstr "मजकूर"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "टीएमपी फोल्डर"
 
 msgid "USB Device"
-msgstr ""
+msgstr "यूएसबी डिव्हाइस"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "फक्त VIDEO"
 
 msgid "Video"
-msgstr ""
+msgstr "व्हिडिओ"
 
 msgid "Video only"
-msgstr ""
+msgstr "फक्त व्हिडिओ"
 
 msgid "better"
-msgstr ""
+msgstr "चांगले"
 
 msgid "black"
-msgstr ""
+msgstr "काळा"
 
 msgid "blue"
-msgstr ""
+msgstr "निळा"
 
 msgid "green"
-msgstr ""
+msgstr "हिरवा"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "लोड करत आहे..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "कृपया प्रतीक्षा करा, चित्र लोड करत आहे..."
 
 msgid "red"
-msgstr ""
+msgstr "लाल"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "स्क्रीनशॉट स्वरूप/गुणवत्ता:"
 
 msgid "simple"
-msgstr ""
+msgstr "साधे"
 
 msgid "trasparent"
-msgstr ""
+msgstr "पारदर्शक"
 
 msgid "yellow"
-msgstr ""
+msgstr "पिवळा"

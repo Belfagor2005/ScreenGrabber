@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Tagasi"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic-pildi suuruse muutmine:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Tühista"
 
 msgid "Delete"
-msgstr ""
+msgstr "Kustuta"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Lubatud"
 
 msgid "Files"
-msgstr ""
+msgstr "Failid"
 
 msgid "Files II"
-msgstr ""
+msgstr "Toimikud II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Fikseeritud kuvasuhe 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Fikseeritud kuvasuhe:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Haara kõik"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Kõvaketas"
 
 msgid "Help"
-msgstr ""
+msgstr "Abi"
 
 msgid "Info"
 msgstr ""
 
 msgid "Long green"
-msgstr ""
+msgstr "Pikk roheline"
 
 msgid "Long red"
-msgstr ""
+msgstr "Pikk punane"
 
 msgid "Mute"
-msgstr ""
+msgstr "Vaigista"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Võrgukinnitus"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Pole enam pildifaile."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Ainult OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Väljas"
 
 msgid "PNG"
 msgstr ""
@@ -90,46 +90,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "Pildivaade"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Pildivaate bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Pildivaate vahemälu:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Pildivaate infoliin:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Pildivaate ahel:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Pildivaate slaidimise aeg:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Pildivaate teksti värv:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Eelvaade"
 
 msgid "Radio"
-msgstr ""
+msgstr "Raadio"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Kaugjuhtimispuldi ekraanipildi nupp:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eemalda"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Kas taaskäivitada enigma2 uute sätete laadimiseks?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Salvestuskaust:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Kataloogi salvestamine pole saadaval"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp kaust"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-seade"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Ainult VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Ainult video"
 
 msgid "better"
-msgstr ""
+msgstr "parem"
 
 msgid "black"
-msgstr ""
+msgstr "must"
 
 msgid "blue"
-msgstr ""
+msgstr "sinine"
 
 msgid "green"
-msgstr ""
+msgstr "roheline"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "laadimine..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "palun oota, pildi laadimine..."
 
 msgid "red"
-msgstr ""
+msgstr "punane"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ekraanipildi formaat/kvaliteet:"
 
 msgid "simple"
-msgstr ""
+msgstr "lihtne"
 
 msgid "trasparent"
-msgstr ""
+msgstr "läbipaistev"
 
 msgid "yellow"
-msgstr ""
+msgstr "kollane"

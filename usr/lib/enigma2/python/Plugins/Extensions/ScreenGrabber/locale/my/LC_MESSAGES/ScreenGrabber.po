@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "ကျော"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic ရုပ်ပုံအရွယ်အစားကို ပြောင်းလဲခြင်း-"
 
 msgid "Cancel"
-msgstr ""
+msgstr "မလုပ်တော့"
 
 msgid "Delete"
-msgstr ""
+msgstr "ဖျက်ပါ။"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ဖွင့်ထားသည်။"
 
 msgid "Files"
-msgstr ""
+msgstr "ဖို"
 
 msgid "Files II"
-msgstr ""
+msgstr "ဖိုင်များ II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "ပုံသေအချိုးအစား 4:3-"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "ပုံသေအချိုးအစား-"
 
 msgid "Grab All"
-msgstr ""
+msgstr "အားလုံးဖမ်းပါ။"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ဟာ့ဒ်ဒရိုက်"
 
 msgid "Help"
-msgstr ""
+msgstr "ကူညီကြပါ"
 
 msgid "Info"
-msgstr ""
+msgstr "အချက်အလက်"
 
 msgid "Long green"
-msgstr ""
+msgstr "အစိမ်းရှည်"
 
 msgid "Long red"
-msgstr ""
+msgstr "အနီရှည်"
 
 msgid "Mute"
-msgstr ""
+msgstr "အသံတိတ်"
 
 msgid "Network mount"
-msgstr ""
+msgstr "ကွန်ရက် တပ်ဆင်ခြင်း။"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ပုံ-ဖိုင်များ မရှိတော့ပါ။"
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD သာ"
 
 msgid "Off"
-msgstr ""
+msgstr "ပိတ်သည်။"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "မြင်ကွင်း"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Picview bgcolor-"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview ကက်ရှ်-"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview အင်ဖိုလိုင်း-"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview loop-"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "ပုံကြည့်ဆလိုက်အချိန်-"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview စာသားအရောင်-"
 
 msgid "Preview"
-msgstr ""
+msgstr "စမ်းကြည့်ပါ။"
 
 msgid "Radio"
-msgstr ""
+msgstr "ရေဒီယို"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "အဝေးထိန်း ဖန်သားပြင်ဓာတ်ပုံ ခလုတ်-"
 
 msgid "Remove"
-msgstr ""
+msgstr "ဖယ်ရှားပါ။"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "ဆက်တင်အသစ်များကို တင်ရန် enigma2 ကို ပြန်လည်စတင်လိုပါသလား။"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ဖိုင်တွဲကို သိမ်းဆည်းခြင်း-"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "သိမ်းဆည်းခြင်းလမ်းညွှန်ကို မရရှိနိုင်ပါ။"
 
 msgid "Text"
-msgstr ""
+msgstr "စာသား"
 
 msgid "Tmp Folder"
 msgstr ""
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ကိရိယာ"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO သာ"
 
 msgid "Video"
-msgstr ""
+msgstr "ဗီဒီယို"
 
 msgid "Video only"
-msgstr ""
+msgstr "ဗီဒီယိုသာ"
 
 msgid "better"
-msgstr ""
+msgstr "ပိုကောင်းပါတယ်။"
 
 msgid "black"
-msgstr ""
+msgstr "အနက်ရောင်"
 
 msgid "blue"
-msgstr ""
+msgstr "အပြာ"
 
 msgid "green"
-msgstr ""
+msgstr "အစိမ်းရောင်"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "တင်နေသည်..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ခဏစောင့်ပါ၊ ပုံတင်ပေးပါ..."
 
 msgid "red"
-msgstr ""
+msgstr "အနီရောင်"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ဖန်သားပြင်ဖော်မက်/အရည်အသွေး-"
 
 msgid "simple"
-msgstr ""
+msgstr "ရိုးရှင်းသော"
 
 msgid "trasparent"
-msgstr ""
+msgstr "ပွင့်လင်းသော"
 
 msgid "yellow"
-msgstr ""
+msgstr "အဝါရောင်"

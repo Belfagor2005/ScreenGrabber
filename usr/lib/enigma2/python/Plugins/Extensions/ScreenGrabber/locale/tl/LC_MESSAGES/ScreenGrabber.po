@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Bumalik"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Pagbabago ng larawan ng bicubic:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 msgid "Delete"
-msgstr ""
+msgstr "Tanggalin"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Pinagana"
 
 msgid "Files"
-msgstr ""
+msgstr "Mga file"
 
 msgid "Files II"
-msgstr ""
+msgstr "Mga file II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Nakapirming Aspect ratio 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Nakapirming Aspect ratio:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Grab Lahat"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hard drive"
 
 msgid "Help"
-msgstr ""
+msgstr "Tulong"
 
 msgid "Info"
-msgstr ""
+msgstr "Impormasyon"
 
 msgid "Long green"
-msgstr ""
+msgstr "Mahabang berde"
 
 msgid "Long red"
-msgstr ""
+msgstr "Mahabang pula"
 
 msgid "Mute"
-msgstr ""
+msgstr "I-mute"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Pag-mount ng network"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Wala nang mga picture-file."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD lang"
 
 msgid "Off"
-msgstr ""
+msgstr "Naka-off"
 
 msgid "PNG"
 msgstr ""
@@ -110,25 +110,25 @@ msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Slidetime ng picview:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Kulay ng text ng Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Silipin"
 
 msgid "Radio"
-msgstr ""
+msgstr "Radyo"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Button ng remote na screenshot:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Alisin"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "I-restart ang enigma2 para mag-load ng mga bagong setting?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,10 +140,10 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Pag-iimbak ng Folder:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Hindi available ang direktoryo ng pag-iimbak"
 
 msgid "Text"
 msgstr ""
@@ -155,25 +155,25 @@ msgid "USB Device"
 msgstr ""
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "VIDEO lang"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Video lang"
 
 msgid "better"
-msgstr ""
+msgstr "mas mabuti"
 
 msgid "black"
-msgstr ""
+msgstr "itim"
 
 msgid "blue"
-msgstr ""
+msgstr "asul"
 
 msgid "green"
-msgstr ""
+msgstr "berde"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "naglo-load..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "mangyaring maghintay, naglo-load ng larawan..."
 
 msgid "red"
-msgstr ""
+msgstr "pula"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/kalidad ng screenshot:"
 
 msgid "simple"
-msgstr ""
+msgstr "simple lang"
 
 msgid "trasparent"
-msgstr ""
+msgstr "walang kwenta"
 
 msgid "yellow"
-msgstr ""
+msgstr "dilaw"

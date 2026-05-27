@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "ಹಿಂದೆ"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "ಬೈಕುಬಿಕ್ ಚಿತ್ರದ ಮರುಗಾತ್ರ:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ರದ್ದುಮಾಡು"
 
 msgid "Delete"
-msgstr ""
+msgstr "ಅಳಿಸಿ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
 
 msgid "Files"
-msgstr ""
+msgstr "ಫೈಲ್‌ಗಳು"
 
 msgid "Files II"
-msgstr ""
+msgstr "ಫೈಲ್‌ಗಳು II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "ಸ್ಥಿರ ಆಕಾರ ಅನುಪಾತ 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "ಸ್ಥಿರ ಆಕಾರ ಅನುಪಾತ:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "ಎಲ್ಲವನ್ನೂ ಪಡೆದುಕೊಳ್ಳಿ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ಹಾರ್ಡ್ ಡ್ರೈವ್"
 
 msgid "Help"
-msgstr ""
+msgstr "ಸಹಾಯ"
 
 msgid "Info"
-msgstr ""
+msgstr "ಮಾಹಿತಿ"
 
 msgid "Long green"
-msgstr ""
+msgstr "ಉದ್ದ ಹಸಿರು"
 
 msgid "Long red"
-msgstr ""
+msgstr "ಉದ್ದನೆಯ ಕೆಂಪು"
 
 msgid "Mute"
-msgstr ""
+msgstr "ಮ್ಯೂಟ್ ಮಾಡಿ"
 
 msgid "Network mount"
-msgstr ""
+msgstr "ನೆಟ್ವರ್ಕ್ ಮೌಂಟ್"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "ಇನ್ನು ಚಿತ್ರ-ಫೈಲ್‌ಗಳಿಲ್ಲ."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD ಮಾತ್ರ"
 
 msgid "Off"
-msgstr ""
+msgstr "ಆಫ್"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview ಸಂಗ್ರಹ:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview ಇನ್ಫೋಲೈನ್:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview ಲೂಪ್:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview ಸ್ಲೈಡ್‌ಟೈಮ್:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview ಪಠ್ಯ ಬಣ್ಣ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "ಪೂರ್ವವೀಕ್ಷಣೆ"
 
 msgid "Radio"
-msgstr ""
+msgstr "ರೇಡಿಯೋ"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "ರಿಮೋಟ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಬಟನ್:"
 
 msgid "Remove"
-msgstr ""
+msgstr "ತೆಗೆದುಹಾಕಿ"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "ಹೊಸ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು enigma2 ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸುವುದೇ?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ಶೇಖರಣಾ ಫೋಲ್ಡರ್:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "ಶೇಖರಣಾ ಡೈರೆಕ್ಟರಿ ಲಭ್ಯವಿಲ್ಲ"
 
 msgid "Text"
-msgstr ""
+msgstr "ಪಠ್ಯ"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ಫೋಲ್ಡರ್"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB ಸಾಧನ"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "ವೀಡಿಯೊ ಮಾತ್ರ"
 
 msgid "Video"
-msgstr ""
+msgstr "ವೀಡಿಯೊ"
 
 msgid "Video only"
-msgstr ""
+msgstr "ವೀಡಿಯೊ ಮಾತ್ರ"
 
 msgid "better"
-msgstr ""
+msgstr "ಉತ್ತಮ"
 
 msgid "black"
-msgstr ""
+msgstr "ಕಪ್ಪು"
 
 msgid "blue"
-msgstr ""
+msgstr "ನೀಲಿ"
 
 msgid "green"
-msgstr ""
+msgstr "ಹಸಿರು"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ, ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
 
 msgid "red"
-msgstr ""
+msgstr "ಕೆಂಪು"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಸ್ವರೂಪ/ಗುಣಮಟ್ಟ:"
 
 msgid "simple"
-msgstr ""
+msgstr "ಸರಳ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "ಪಾರದರ್ಶಕ"
 
 msgid "yellow"
-msgstr ""
+msgstr "ಹಳದಿ"

@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubik şəklin ölçüsünü dəyişdirin:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ləğv et"
 
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivdir"
 
 msgid "Files"
-msgstr ""
+msgstr "Fayllar"
 
 msgid "Files II"
-msgstr ""
+msgstr "Fayllar II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Sabit Aspekt nisbəti 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Sabit Aspekt nisbəti:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hamısını tut"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Sərt disk"
 
 msgid "Help"
-msgstr ""
+msgstr "Kömək edin"
 
 msgid "Info"
-msgstr ""
+msgstr "Məlumat"
 
 msgid "Long green"
-msgstr ""
+msgstr "Uzun yaşıl"
 
 msgid "Long red"
-msgstr ""
+msgstr "Uzun qırmızı"
 
 msgid "Mute"
-msgstr ""
+msgstr "Səssiz"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Şəbəkə montajı"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Artıq şəkil faylları yoxdur."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Yalnız OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Söndür"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview keşi:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview döngəsi:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview slayd vaxtı:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview mətn rəngi:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Önizləmə"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Uzaqdan ekran görüntüsü düyməsi:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Sil"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Yeni parametrləri yükləmək üçün enigma2 yenidən başladılsın?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Saxlama Qovluğu:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Saxlama kataloqu mövcud deyil"
 
 msgid "Text"
-msgstr ""
+msgstr "Mətn"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp qovluğu"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB Cihazı"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Yalnız VİDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Yalnız video"
 
 msgid "better"
-msgstr ""
+msgstr "daha yaxşı"
 
 msgid "black"
-msgstr ""
+msgstr "qara"
 
 msgid "blue"
-msgstr ""
+msgstr "mavi"
 
 msgid "green"
-msgstr ""
+msgstr "yaşıl"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "yüklənir..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "zəhmət olmasa gözləyin, şəkil yüklənir..."
 
 msgid "red"
-msgstr ""
+msgstr "qırmızı"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "ekran görüntüsü formatı/keyfiyyəti:"
 
 msgid "simple"
-msgstr ""
+msgstr "sadə"
 
 msgid "trasparent"
-msgstr ""
+msgstr "şəffaf"
 
 msgid "yellow"
-msgstr ""
+msgstr "sarı"

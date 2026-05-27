@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Yzyna"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bicubic suratyň ölçegi:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Elatyr"
 
 msgid "Delete"
-msgstr ""
+msgstr "Öçür"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Işledilen"
 
 msgid "Files"
-msgstr ""
+msgstr "Faýllar"
 
 msgid "Files II"
-msgstr ""
+msgstr "Faýllar II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Kesgitlenen aspekt gatnaşygy 4: 3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Kesgitlenen aspekt gatnaşygy:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hemmesini al"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Gaty disk"
 
 msgid "Help"
-msgstr ""
+msgstr "Kömek"
 
 msgid "Info"
-msgstr ""
+msgstr "Maglumat"
 
 msgid "Long green"
-msgstr ""
+msgstr "Uzyn ýaşyl"
 
 msgid "Long red"
-msgstr ""
+msgstr "Uzyn gyzyl"
 
 msgid "Mute"
-msgstr ""
+msgstr "Sessiz"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tor gurmak"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Indi surat faýllary ýok."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Diňe OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Öçürilen"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview keşi:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview aýlawy:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "“Picview” slaýd wagty:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview tekstiň reňki:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Öňünden syn"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Uzakdan skrinshot düwmesi:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Aýyr"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Täze sazlamalary ýüklemek üçin enigma2-i täzeden açyň?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Papkany saklamak:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Katalog saklamak mümkin däl"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp bukjasy"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB enjamy"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Diňe wideo"
 
 msgid "Video"
-msgstr ""
+msgstr "Wideo"
 
 msgid "Video only"
-msgstr ""
+msgstr "Diňe wideo"
 
 msgid "better"
-msgstr ""
+msgstr "has gowy"
 
 msgid "black"
-msgstr ""
+msgstr "gara"
 
 msgid "blue"
-msgstr ""
+msgstr "gök"
 
 msgid "green"
-msgstr ""
+msgstr "ýaşyl"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "ýüklemek ..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "garaşyň, surat ýükläň ..."
 
 msgid "red"
-msgstr ""
+msgstr "gyzyl"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "skrinshot formaty / hili:"
 
 msgid "simple"
-msgstr ""
+msgstr "ýönekeý"
 
 msgid "trasparent"
-msgstr ""
+msgstr "aç-açan"
 
 msgid "yellow"
-msgstr ""
+msgstr "sary"

@@ -17,118 +17,118 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "বিএমপি"
 
 msgid "Back"
-msgstr ""
+msgstr "ব্যাক"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "বাইকিউবিক ছবির আকার পরিবর্তন করুন:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল করুন"
 
 msgid "Delete"
-msgstr ""
+msgstr "মুছুন"
 
 msgid "Enabled"
-msgstr ""
+msgstr "সক্রিয়"
 
 msgid "Files"
-msgstr ""
+msgstr "ফাইল"
 
 msgid "Files II"
-msgstr ""
+msgstr "ফাইল II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "স্থির আকৃতির অনুপাত 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "স্থির আকৃতির অনুপাত:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "সব দখল"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "হার্ড ড্রাইভ"
 
 msgid "Help"
-msgstr ""
+msgstr "সাহায্য"
 
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 msgid "Long green"
-msgstr ""
+msgstr "লম্বা সবুজ"
 
 msgid "Long red"
-msgstr ""
+msgstr "লম্বা লাল"
 
 msgid "Mute"
-msgstr ""
+msgstr "নিঃশব্দ"
 
 msgid "Network mount"
-msgstr ""
+msgstr "নেটওয়ার্ক মাউন্ট"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "আর কোন ছবি-ফাইল নেই।"
 
 msgid "OSD only"
-msgstr ""
+msgstr "শুধুমাত্র ওএসডি"
 
 msgid "Off"
-msgstr ""
+msgstr "বন্ধ"
 
 msgid "PNG"
-msgstr ""
+msgstr "পিএনজি"
 
 msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "পিকভিউ"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "পিকভিউ bgcolor:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "পিকভিউ ক্যাশে:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "পিকভিউ ইনফোলাইন:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "পিকভিউ লুপ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "পিকভিউ স্লাইডটাইম:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "পিকভিউ টেক্সট রঙ:"
 
 msgid "Preview"
-msgstr ""
+msgstr "পূর্বরূপ"
 
 msgid "Radio"
-msgstr ""
+msgstr "রেডিও"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "দূরবর্তী স্ক্রিনশট বোতাম:"
 
 msgid "Remove"
-msgstr ""
+msgstr "সরান"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "নতুন সেটিংস লোড করতে enigma2 পুনরায় চালু করবেন?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "ফোল্ডার সংরক্ষণ:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "সঞ্চয় ডিরেক্টরি উপলব্ধ নয়"
 
 msgid "Text"
-msgstr ""
+msgstr "পাঠ্য"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp ফোল্ডার"
 
 msgid "USB Device"
-msgstr ""
+msgstr "ইউএসবি ডিভাইস"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "শুধুমাত্র ভিডিও"
 
 msgid "Video"
-msgstr ""
+msgstr "ভিডিও"
 
 msgid "Video only"
-msgstr ""
+msgstr "শুধুমাত্র ভিডিও"
 
 msgid "better"
-msgstr ""
+msgstr "ভাল"
 
 msgid "black"
-msgstr ""
+msgstr "কালো"
 
 msgid "blue"
-msgstr ""
+msgstr "নীল"
 
 msgid "green"
-msgstr ""
+msgstr "সবুজ"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "লোড হচ্ছে..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "অনুগ্রহ করে অপেক্ষা করুন, ছবি লোড হচ্ছে..."
 
 msgid "red"
-msgstr ""
+msgstr "লাল"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "স্ক্রিনশট বিন্যাস/গুণমান:"
 
 msgid "simple"
-msgstr ""
+msgstr "সহজ"
 
 msgid "trasparent"
-msgstr ""
+msgstr "স্বচ্ছ"
 
 msgid "yellow"
-msgstr ""
+msgstr "হলুদ"

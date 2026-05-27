@@ -17,70 +17,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "BMP"
-msgstr ""
+msgstr "بي إم بي"
 
 msgid "Back"
-msgstr ""
+msgstr "خلف"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "تغيير حجم الصورة المكعبة:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "يلغي"
 
 msgid "Delete"
-msgstr ""
+msgstr "يمسح"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ممكّن"
 
 msgid "Files"
-msgstr ""
+msgstr "ملفات"
 
 msgid "Files II"
-msgstr ""
+msgstr "الملفات الثانية"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "نسبة العرض إلى الارتفاع الثابتة 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "نسبة العرض إلى الارتفاع الثابتة:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "الاستيلاء على الكل"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "القرص الصلب"
 
 msgid "Help"
-msgstr ""
+msgstr "يساعد"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Long green"
-msgstr ""
+msgstr "أخضر طويل"
 
 msgid "Long red"
-msgstr ""
+msgstr "أحمر طويل"
 
 msgid "Mute"
-msgstr ""
+msgstr "صامت"
 
 msgid "Network mount"
-msgstr ""
+msgstr "جبل الشبكة"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "لا مزيد من ملفات الصور."
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSD فقط"
 
 msgid "Off"
-msgstr ""
+msgstr "عن"
 
 msgid "PNG"
 msgstr ""
@@ -89,46 +89,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "بيكفيو"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "بيكفيو"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "ذاكرة التخزين المؤقت لعرض الصورة:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "معلومات حول Picview:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "حلقة بيكفيو:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "وقت عرض الصورة:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "لون نص عرض الصورة:"
 
 msgid "Preview"
-msgstr ""
+msgstr "معاينة"
 
 msgid "Radio"
-msgstr ""
+msgstr "راديو"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "زر لقطة الشاشة عن بعد:"
 
 msgid "Remove"
-msgstr ""
+msgstr "يزيل"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "هل تريد إعادة تشغيل enigma2 لتحميل الإعدادات الجديدة؟"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "مجلد التخزين:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "دليل التخزين غير متوفر"
 
 msgid "Text"
-msgstr ""
+msgstr "نص"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "مجلد تمب"
 
 msgid "USB Device"
-msgstr ""
+msgstr "جهاز يو اس بي"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "فيديو فقط"
 
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgid "Video only"
-msgstr ""
+msgstr "فيديو فقط"
 
 msgid "better"
-msgstr ""
+msgstr "أحسن"
 
 msgid "black"
-msgstr ""
+msgstr "أسود"
 
 msgid "blue"
-msgstr ""
+msgstr "أزرق"
 
 msgid "green"
-msgstr ""
+msgstr "أخضر"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "تحميل..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "يرجى الانتظار، جارٍ تحميل الصورة..."
 
 msgid "red"
-msgstr ""
+msgstr "أحمر"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "تنسيق/جودة لقطة الشاشة:"
 
 msgid "simple"
-msgstr ""
+msgstr "بسيط"
 
 msgid "trasparent"
-msgstr ""
+msgstr "شفاف"
 
 msgid "yellow"
-msgstr ""
+msgstr "أصفر"

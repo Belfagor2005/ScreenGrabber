@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Bikubiese prentjie verander grootte:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 msgid "Delete"
-msgstr ""
+msgstr "Vee uit"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Geaktiveer"
 
 msgid "Files"
-msgstr ""
+msgstr "Lêers"
 
 msgid "Files II"
-msgstr ""
+msgstr "Lêers II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Vaste aspekverhouding 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Vaste aspekverhouding:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Gryp Almal"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hardeskyf"
 
 msgid "Help"
 msgstr ""
 
 msgid "Info"
-msgstr ""
+msgstr "Inligting"
 
 msgid "Long green"
-msgstr ""
+msgstr "Lang groen"
 
 msgid "Long red"
-msgstr ""
+msgstr "Lang rooi"
 
 msgid "Mute"
-msgstr ""
+msgstr "Demp"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Netwerk mount"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Geen foto-lêers meer nie."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Slegs OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Af"
 
 msgid "PNG"
 msgstr ""
@@ -98,37 +98,37 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview-kas:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview inligtinglyn:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview lus:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview skyfietyd:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview teks kleur:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Voorskou"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Afgeleë skermkiekie-knoppie:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Herbegin enigma2 om nuwe instellings te laai?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,22 +140,22 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Stoor gids:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Berginggids is nie beskikbaar nie"
 
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Tmp-lêergids"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB-toestel"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Slegs VIDEO"
 
 msgid "Video"
 msgstr ""
@@ -164,16 +164,16 @@ msgid "Video only"
 msgstr ""
 
 msgid "better"
-msgstr ""
+msgstr "beter"
 
 msgid "black"
-msgstr ""
+msgstr "swart"
 
 msgid "blue"
 msgstr ""
 
 msgid "green"
-msgstr ""
+msgstr "groen"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "laai..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "wag asseblief, laai foto..."
 
 msgid "red"
-msgstr ""
+msgstr "rooi"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "skermkiekie formaat/kwaliteit:"
 
 msgid "simple"
-msgstr ""
+msgstr "eenvoudig"
 
 msgid "trasparent"
-msgstr ""
+msgstr "deursigtig"
 
 msgid "yellow"
-msgstr ""
+msgstr "geel"

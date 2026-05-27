@@ -20,67 +20,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Mbrapa"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "Ndryshimi i madhësisë së figurës bikubike:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anulo"
 
 msgid "Delete"
-msgstr ""
+msgstr "Fshije"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivizuar"
 
 msgid "Files"
-msgstr ""
+msgstr "Skedarët"
 
 msgid "Files II"
-msgstr ""
+msgstr "Dosjet II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "Raporti fiks i pamjes 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "Raporti fiks i pamjes:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Kap të gjitha"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Hard drive"
 
 msgid "Help"
-msgstr ""
+msgstr "Ndihmë"
 
 msgid "Info"
-msgstr ""
+msgstr "Informacion"
 
 msgid "Long green"
-msgstr ""
+msgstr "Gjelbër e gjatë"
 
 msgid "Long red"
-msgstr ""
+msgstr "E kuqe e gjatë"
 
 msgid "Mute"
-msgstr ""
+msgstr "Hesht"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montimi i rrjetit"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "Nuk ka më skedarë fotografish."
 
 msgid "OSD only"
-msgstr ""
+msgstr "Vetëm OSD"
 
 msgid "Off"
-msgstr ""
+msgstr "Joaktiv"
 
 msgid "PNG"
 msgstr ""
@@ -98,13 +98,13 @@ msgid "Picview bgcolor:"
 msgstr ""
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Cache Picview:"
 
 msgid "Picview infoline:"
 msgstr ""
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Cikli Picview:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
@@ -113,22 +113,22 @@ msgid "Picview slidetime:"
 msgstr ""
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Ngjyra e tekstit Picview:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Parapamje"
 
 msgid "Radio"
 msgstr ""
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "Butoni i pamjes së ekranit në distancë:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Hiq"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "Të riniset enigma2 për të ngarkuar cilësimet e reja?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,40 +140,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "Dosja e ruajtjes:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "Lista e ruajtjes nuk është e disponueshme"
 
 msgid "Text"
-msgstr ""
+msgstr "Teksti"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "Dosja Tmp"
 
 msgid "USB Device"
-msgstr ""
+msgstr "Pajisja USB"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "Vetëm VIDEO"
 
 msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Vetëm video"
 
 msgid "better"
-msgstr ""
+msgstr "më mirë"
 
 msgid "black"
-msgstr ""
+msgstr "e zezë"
 
 msgid "blue"
-msgstr ""
+msgstr "blu"
 
 msgid "green"
-msgstr ""
+msgstr "jeshile"
 
 msgid "jpg100"
 msgstr ""
@@ -191,22 +191,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "duke u ngarkuar..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ju lutem prisni, po ngarkohet fotografia..."
 
 msgid "red"
-msgstr ""
+msgstr "e kuqe"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "format/cilësia e pamjes së ekranit:"
 
 msgid "simple"
-msgstr ""
+msgstr "thjeshtë"
 
 msgid "trasparent"
-msgstr ""
+msgstr "transparente"
 
 msgid "yellow"
-msgstr ""
+msgstr "të verdhë"

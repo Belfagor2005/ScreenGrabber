@@ -21,67 +21,67 @@ msgid "BMP"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 msgid "Bicubic picture resize:"
-msgstr ""
+msgstr "バイキュービック画像のサイズ変更:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Delete"
-msgstr ""
+msgstr "消去"
 
 msgid "Enabled"
-msgstr ""
+msgstr "有効"
 
 msgid "Files"
-msgstr ""
+msgstr "ファイル"
 
 msgid "Files II"
-msgstr ""
+msgstr "ファイル II"
 
 msgid "Fixed Aspect ratio 4:3:"
-msgstr ""
+msgstr "固定アスペクト比 4:3:"
 
 msgid "Fixed Aspect ratio:"
-msgstr ""
+msgstr "固定アスペクト比:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "すべてをつかむ"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "ハードドライブ"
 
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 msgid "Info"
-msgstr ""
+msgstr "情報"
 
 msgid "Long green"
-msgstr ""
+msgstr "ロンググリーン"
 
 msgid "Long red"
-msgstr ""
+msgstr "ロングレッド"
 
 msgid "Mute"
-msgstr ""
+msgstr "ミュート"
 
 msgid "Network mount"
-msgstr ""
+msgstr "ネットワークマウント"
 
 msgid "No more picture-files."
-msgstr ""
+msgstr "画像ファイルはもう必要ありません。"
 
 msgid "OSD only"
-msgstr ""
+msgstr "OSDのみ"
 
 msgid "Off"
-msgstr ""
+msgstr "オフ"
 
 msgid "PNG"
 msgstr ""
@@ -90,46 +90,46 @@ msgid "Picture size:"
 msgstr "Formato immagine:"
 
 msgid "Picview"
-msgstr ""
+msgstr "ピクビュー"
 
 msgid "Picview Framesize:"
 msgstr "Formato immagine:"
 
 msgid "Picview bgcolor:"
-msgstr ""
+msgstr "Picview の背景色:"
 
 msgid "Picview cache:"
-msgstr ""
+msgstr "Picview キャッシュ:"
 
 msgid "Picview infoline:"
-msgstr ""
+msgstr "Picview 情報ライン:"
 
 msgid "Picview loop:"
-msgstr ""
+msgstr "Picview ループ:"
 
 msgid "Picview resize:"
 msgstr "Formato immagine:"
 
 msgid "Picview slidetime:"
-msgstr ""
+msgstr "Picview スライドタイム:"
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "Picview のテキストの色:"
 
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 msgid "Radio"
-msgstr ""
+msgstr "無線"
 
 msgid "Remote screenshot button:"
-msgstr ""
+msgstr "リモート スクリーンショット ボタン:"
 
 msgid "Remove"
-msgstr ""
+msgstr "取り除く"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "enigma2 を再起動して新しい設定をロードしますか?"
 
 msgid "Save"
 msgstr "Salva"
@@ -141,40 +141,40 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "保存フォルダー:"
 
 msgid "Storing directory is not available"
-msgstr ""
+msgstr "保存ディレクトリが使用できません"
 
 msgid "Text"
-msgstr ""
+msgstr "文章"
 
 msgid "Tmp Folder"
-msgstr ""
+msgstr "一時フォルダ"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USBデバイス"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "ビデオのみ"
 
 msgid "Video"
-msgstr ""
+msgstr "ビデオ"
 
 msgid "Video only"
-msgstr ""
+msgstr "ビデオのみ"
 
 msgid "better"
-msgstr ""
+msgstr "より良い"
 
 msgid "black"
-msgstr ""
+msgstr "黒"
 
 msgid "blue"
-msgstr ""
+msgstr "青"
 
 msgid "green"
-msgstr ""
+msgstr "緑"
 
 msgid "jpg100"
 msgstr ""
@@ -192,22 +192,22 @@ msgid "jpg80"
 msgstr ""
 
 msgid "loading..."
-msgstr ""
+msgstr "読み込み中..."
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "画像を読み込んでいますのでお待ちください..."
 
 msgid "red"
-msgstr ""
+msgstr "赤"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "スクリーンショットの形式/品質:"
 
 msgid "simple"
-msgstr ""
+msgstr "単純"
 
 msgid "trasparent"
-msgstr ""
+msgstr "透明な"
 
 msgid "yellow"
-msgstr ""
+msgstr "黄色"
