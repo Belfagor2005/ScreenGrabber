@@ -125,10 +125,10 @@ msgid "Remote screenshot button:"
 msgstr "ווייַט סקרעענשאָט קנעפּל:"
 
 msgid "Remove"
-msgstr ""
+msgstr "אַראָפּנעמען"
 
 msgid "Restart enigma2 to load new settings?"
-msgstr ""
+msgstr "ריסטאַרט עניגמאַ 2 צו לאָדן נייַ סעטטינגס?"
 
 msgid "Save"
 msgstr "Salva"
@@ -140,7 +140,7 @@ msgid "Skin resolution"
 msgstr "Risoluzione Schermo"
 
 msgid "Storing Folder:"
-msgstr ""
+msgstr "סטאָרינג טעקע:"
 
 msgid "Storing directory is not available"
 msgstr "סטאָרינג וועגווייַזער איז ניט בנימצא"

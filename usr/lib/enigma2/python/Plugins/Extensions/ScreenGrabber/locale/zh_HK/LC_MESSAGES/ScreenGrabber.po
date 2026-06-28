@@ -113,7 +113,7 @@ msgid "Picview slidetime:"
 msgstr "Picview投影片時間："
 
 msgid "Picview textcolor:"
-msgstr ""
+msgstr "圖片檢視文字顏色："
 
 msgid "Preview"
 msgstr "預覽"

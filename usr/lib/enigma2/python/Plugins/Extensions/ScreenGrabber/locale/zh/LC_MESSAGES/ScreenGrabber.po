@@ -200,7 +200,7 @@ msgid "red"
 msgstr "红色的"
 
 msgid "screenshot format/quality:"
-msgstr ""
+msgstr "截图格式/质量："
 
 msgid "simple"
 msgstr "简单的"

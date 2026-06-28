@@ -155,7 +155,7 @@ msgid "USB Device"
 msgstr "USB裝置"
 
 msgid "VIDEO only"
-msgstr ""
+msgstr "僅視頻"
 
 msgid "Video"
 msgstr "影片"

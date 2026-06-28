@@ -47,13 +47,13 @@ msgid "Fixed Aspect ratio:"
 msgstr "Ruxsat etilgan tomonlar nisbati:"
 
 msgid "Grab All"
-msgstr ""
+msgstr "Hammasini qo'lga oling"
 
 msgid "Grabbing Screenshot failed !!!"
 msgstr "Screenshot fallito !!!"
 
 msgid "Harddisk"
-msgstr ""
+msgstr "Qattiq disk"
 
 msgid "Help"
 msgstr "Yordam"

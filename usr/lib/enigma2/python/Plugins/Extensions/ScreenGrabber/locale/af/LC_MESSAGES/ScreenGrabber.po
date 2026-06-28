@@ -161,7 +161,7 @@ msgid "Video"
 msgstr ""
 
 msgid "Video only"
-msgstr ""
+msgstr "Slegs video"
 
 msgid "better"
 msgstr "beter"
@@ -170,7 +170,7 @@ msgid "black"
 msgstr "swart"
 
 msgid "blue"
-msgstr ""
+msgstr "blou"
 
 msgid "green"
 msgstr "groen"

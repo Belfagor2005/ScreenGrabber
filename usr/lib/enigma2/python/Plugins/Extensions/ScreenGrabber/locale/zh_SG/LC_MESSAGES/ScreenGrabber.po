@@ -59,7 +59,7 @@ msgid "Help"
 msgstr "帮助"
 
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 msgid "Long green"
 msgstr "长绿色"

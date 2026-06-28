@@ -117,7 +117,7 @@ msgid "Picview textcolor:"
 msgstr "Farba textu obrázka:"
 
 msgid "Preview"
-msgstr ""
+msgstr "Ukážka"
 
 msgid "Radio"
 msgstr "Rádio"
