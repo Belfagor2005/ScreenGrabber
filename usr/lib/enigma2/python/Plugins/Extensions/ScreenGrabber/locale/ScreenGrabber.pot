@@ -4,27 +4,6 @@
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "BMP"
 msgstr ""
 
